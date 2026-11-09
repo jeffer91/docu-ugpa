@@ -1,0 +1,583 @@
+{
+ "intro": {
+  "titulo": "Introducción",
+  "parrafos": [
+   "La educación superior constituye un componente estratégico para el desarrollo social, económico, científico y tecnológico de los países, debido a su capacidad para formar profesionales, generar conocimiento y contribuir a la solución de problemas vinculados con las necesidades de la sociedad. En este contexto, la calidad de las instituciones de educación superior no depende únicamente de sus estructuras curriculares, infraestructura o recursos tecnológicos, sino también de la cualificación, actualización y desarrollo profesional permanente de quienes integran su personal académico. El docente de educación superior cumple un rol fundamental en la construcción de experiencias de aprendizaje pertinentes, en la generación y transferencia de conocimiento y en la articulación de las funciones sustantivas de docencia, investigación y vinculación con la sociedad.",
+   "Desde una perspectiva internacional, la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura ha reconocido el desarrollo profesional del personal docente de educación superior como uno de los elementos esenciales para el fortalecimiento de los sistemas educativos. La Recomendación relativa a la condición del personal docente de la enseñanza superior establece un marco internacional relacionado con las responsabilidades profesionales, las condiciones para el ejercicio académico y las oportunidades de perfeccionamiento y desarrollo profesional del profesorado (UNESCO, 1997). Este instrumento continúa constituyendo un referente para la educación superior y actualmente se encuentra en proceso de revisión frente a las transformaciones experimentadas por los sistemas educativos.",
+   "Estas transformaciones han adquirido especial relevancia en los últimos años debido a la incorporación acelerada de tecnologías digitales, el desarrollo de la inteligencia artificial, los cambios en los modelos y currículos educativos, las nuevas demandas sociales y profesionales y la necesidad de responder a entornos laborales cada vez más dinámicos. UNESCO ha señalado que estos cambios están modificando significativamente el entorno profesional en el que se desempeñan los docentes y plantean nuevos desafíos para su preparación y desarrollo profesional (UNESCO, 2026). En consecuencia, las instituciones de educación superior requieren establecer mecanismos sistemáticos que permitan conocer la situación académica de su personal, identificar brechas de cualificación y proyectar procesos formativos coherentes con la evolución de sus campos disciplinares y con las necesidades institucionales.",
+   "En el contexto ecuatoriano, la formación y el mejoramiento académico del personal docente poseen además sustento constitucional. El artículo 349 de la Constitución de la República del Ecuador establece que el Estado debe garantizar al personal docente, en todos los niveles y modalidades, condiciones relacionadas con la estabilidad, la actualización, la formación continua y el mejoramiento pedagógico y académico. Este principio sitúa el desarrollo profesional docente como un componente relevante de la calidad del sistema educativo y vincula su fortalecimiento con la profesionalización y los méritos académicos del personal docente (Constitución de la República del Ecuador, 2008, art. 349). En el ámbito específico de la educación superior, este principio se complementa con la normativa emitida por los organismos que regulan el Sistema de Educación Superior. El Consejo de Educación Superior mantiene dentro de su marco normativo el Reglamento de Carrera y Escalafón del Personal Académico del Sistema de Educación Superior, instrumento que regula aspectos relacionados con el ingreso, perfeccionamiento y movilidad del personal académico. El marco regulatorio evidencia que la cualificación académica, la pertinencia del campo de conocimiento y el desarrollo profesional constituyen elementos asociados a la trayectoria del personal académico y a las características particulares de la formación técnica, tecnológica y superior universitaria.",
+   "Paralelamente, el aseguramiento de la calidad constituye otro elemento determinante para la planificación de la formación del personal académico. El Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES) dispone del Modelo de Evaluación Externa 2024 con fines de acreditación para los Institutos Superiores Técnicos y Tecnológicos, acompañado por instrumentos y guías destinados a orientar a las instituciones en la comprensión y aplicación de sus estándares e indicadores. El modelo forma parte del proceso mediante el cual se verifica el cumplimiento de condiciones de calidad institucional y permite que las instituciones organicen sus procesos internos de evaluación y mejora continua con base en evidencias.",
+   "En este sentido, la gestión del personal académico requiere trascender acciones aisladas y avanzar hacia procesos planificados que permitan establecer, a partir de información verificable, cuál es la situación actual del claustro docente y cuál es la situación formativa que la institución requiere alcanzar. La detección de necesidades se convierte, por tanto, en una fase previa indispensable para la planificación, debido a que permite identificar diferencias entre el nivel de formación existente y el requerido, reconocer áreas disciplinares que necesitan fortalecimiento, determinar expectativas de continuidad de estudios y establecer prioridades institucionales de formación. La información obtenida permite orientar posteriormente la toma de decisiones respecto de programas académicos, convenios, mecanismos de apoyo y estrategias institucionales destinadas al fortalecimiento progresivo del perfil docente.",
+   "Esta lógica responde también a la experiencia institucional desarrollada en el período precedente. El Documento de Detección de Necesidades de Formación correspondiente a {{periodo}} estableció que el diagnóstico debía constituirse en un insumo técnico para la planificación de la formación docente, mediante la identificación de brechas formativas, áreas de interés y necesidades específicas del cuerpo académico. Asimismo, dicho diagnóstico incorporó variables relacionadas con la función sustantiva principal del docente, el nivel académico alcanzado, su disponibilidad para iniciar estudios, las áreas de conocimiento de interés y el nivel académico que aspiraba alcanzar, permitiendo efectuar análisis diferenciados y orientar la planificación posterior.",
+   "De manera complementaria, el Plan de Formación Docente institucional reconoce que la planificación debe sustentarse en un diagnóstico que permita comparar el perfil actual del docente con el perfil requerido e identificar brechas de formación según el nivel académico y las características de las diferentes áreas y carreras. En este enfoque, el diagnóstico no constituye únicamente un requisito documental, sino una herramienta para orientar la toma de decisiones institucionales sobre el desarrollo profesional del claustro y la inversión destinada al fortalecimiento académico.",
+   "A partir de estos antecedentes, el presente Documento de Detección de Necesidades de Formación, correspondiente al período {{periodo}}, tiene como propósito organizar y analizar la información institucional disponible relacionada con la formación académica del claustro docente, establecer criterios para la identificación de posibles brechas y necesidades formativas y orientar su posterior incorporación al Plan de Formación Docente. La determinación de necesidades individuales o específicas deberá sustentarse en información verificable correspondiente al período analizado. El análisis considera que las necesidades de formación no pueden establecerse únicamente a partir de las aspiraciones individuales del personal docente. Su determinación debe integrar la pertinencia entre la formación académica y el área en la que el docente desarrolla sus actividades, las características de la oferta académica institucional, las necesidades identificadas por las coordinaciones académicas, los requerimientos relacionados con la calidad y el fortalecimiento de los perfiles profesionales del claustro. De este modo, la detección permite articular las necesidades individuales con las necesidades propias de cada carrera y con las prioridades institucionales, favoreciendo una planificación más objetiva y sustentada en evidencia.",
+   "Para efectos del presente documento, resulta fundamental diferenciar conceptualmente la formación de la capacitación. La formación objeto de este diagnóstico se refiere específicamente a procesos académicos formales conducentes a la obtención de títulos reconocidos dentro del Sistema de Educación Superior, fundamentalmente estudios de tercer y cuarto nivel. En consecuencia, cursos de corta duración, talleres, seminarios, certificaciones u otras actividades de actualización no constituyen el objeto de análisis de este instrumento y deberán ser abordados dentro de los procesos institucionales correspondientes a capacitación. Esta delimitación es consistente con el Plan de Formación Docente precedente, que establece que su alcance comprende programas conducentes a títulos académicos y excluye cursos cortos, certificaciones y capacitaciones. En consecuencia, la Detección de Necesidades de Formación {{periodo_corto}} se configura como un instrumento técnico de diagnóstico y planificación que organiza los criterios, fuentes y mecanismos necesarios para identificar y validar necesidades de formación académica. La información que cuente con respaldo verificable podrá utilizarse para establecer prioridades por carrera o área de conocimiento y orientar posteriormente el Plan de Formación Docente, manteniendo la trazabilidad entre evidencia, necesidad identificada y decisión institucional."
+  ]
+ },
+ "base_legal": {
+  "titulo": "Base Legal",
+  "parrafos": [
+   "La Detección de Necesidades de Formación Docente correspondiente al período {{periodo}} se sustenta en el marco constitucional, legal, reglamentario e institucional aplicable al desarrollo académico del personal docente de educación superior.",
+   "Este marco proporciona criterios relacionados con la formación, actualización, perfeccionamiento y cualificación del personal académico, así como con la planificación institucional orientada al fortalecimiento de la calidad educativa. En este sentido, las disposiciones consideradas constituyen referentes para la identificación y análisis de necesidades de formación y para su posterior consideración dentro de los instrumentos institucionales de planificación.",
+   "La base normativa se organiza en tres niveles: normativa constitucional, legal y reglamentaria nacional; normativa relacionada con el Modelo de Evaluación Externa del Consejo de Aseguramiento de la Calidad de la Educación Superior; y normativa e instrumentos institucionales aplicables al proceso de formación docente.",
+   "NORMATIVA CONSTITUCIONAL, LEGAL Y REGLAMENTARIA NACIONAL La Constitución de la República del Ecuador establece principios directamente relacionados con la formación y el desarrollo académico del personal docente. El artículo 349 reconoce la importancia de la estabilidad, actualización, formación continua y mejoramiento pedagógico y académico del personal docente, incorporando el desarrollo profesional como uno de los componentes vinculados al fortalecimiento de la educación.",
+   "Asimismo, el artículo 350 determina que el Sistema de Educación Superior tiene como finalidad la formación académica y profesional con visión científica y humanista, la investigación científica y tecnológica, la innovación, la promoción, el desarrollo y la difusión de los saberes y las culturas, así como la construcción de soluciones para los problemas del país.",
+   "De manera complementaria, el artículo 351 establece que el Sistema de Educación Superior se rige, entre otros, por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad y autodeterminación para la producción del pensamiento y conocimiento.",
+   "La Ley Orgánica de Educación Superior reconoce el perfeccionamiento permanente y la capacitación periódica como componentes relacionados con el desarrollo del personal académico, en correspondencia con su formación profesional y con las actividades académicas que desarrolla.",
+   "En este marco, la formación y actualización del personal docente constituyen elementos relacionados con el fortalecimiento de la calidad académica y con el adecuado cumplimiento de las funciones sustantivas de la educación superior.",
+   "El Reglamento de Carrera y Escalafón del Personal Académico del Sistema de Educación Superior constituye otro referente para el presente diagnóstico, debido a que establece lineamientos relacionados con el ingreso, promoción, evaluación, perfeccionamiento y desarrollo del personal académico de las instituciones de educación superior.",
+   "Dentro de este marco, la planificación del perfeccionamiento académico considera las necesidades del personal, los objetivos institucionales y los resultados derivados de los procesos de evaluación, permitiendo relacionar el desarrollo académico del profesorado con las necesidades institucionales y con las características del contexto en el que desempeña sus actividades.",
+   "En consecuencia, la normativa nacional proporciona un marco de referencia para analizar la situación académica del claustro docente, identificar posibles necesidades de formación y establecer criterios que puedan ser considerados posteriormente dentro de la planificación institucional.",
+   "NORMATIVA DEL MODELO DE EVALUACIÓN EXTERNA DEL CACES El Modelo de Evaluación Externa 2024 con fines de acreditación para los Institutos Superiores Técnicos y Tecnológicos, emitido por el Consejo de Aseguramiento de la Calidad de la Educación Superior, constituye uno de los referentes vinculados al análisis de la cualificación y desarrollo académico del personal docente.",
+   "Dentro del criterio relacionado con profesores, el modelo contempla elementos asociados con la cualificación académica, formación de posgrado, formación académica en curso y desarrollo profesional del personal docente.",
+   "En particular, el indicador relacionado con la formación de posgrado considera el nivel de cualificación académica del claustro y establece parámetros que permiten analizar la participación de docentes que cuentan con títulos de maestría o doctorado. Estos elementos pueden ser utilizados como referentes para identificar diferencias entre la situación académica existente y las necesidades de fortalecimiento institucional.",
+   "El Modelo de Evaluación Externa también relaciona los procesos de formación académica con la planificación institucional y con las capacidades requeridas para el desarrollo de las actividades de docencia, investigación, desarrollo e innovación y vinculación con la sociedad.",
+   "De igual manera, contempla la identificación de las capacidades actuales del personal académico y el análisis de brechas como elementos que pueden contribuir a la planificación, seguimiento y evaluación de los procesos relacionados con su desarrollo profesional. Para efectos del presente documento resulta especialmente relevante la diferenciación entre formación académica y capacitación. La formación académica se relaciona con procesos conducentes a la obtención de títulos académicos de mayor nivel, mientras que la capacitación corresponde principalmente a procesos de actualización y fortalecimiento de competencias específicas.",
+   "Esta diferenciación permite delimitar el alcance de la presente Detección de Necesidades de Formación, concentrando el análisis en procesos académicos formales conducentes a titulación y manteniendo separados aquellos relacionados con cursos, talleres, seminarios, certificaciones u otras actividades de actualización profesional. 2.3.",
+   "NORMATIVA E INSTRUMENTOS INSTITUCIONALES En el ámbito institucional, la Detección de Necesidades de Formación se relaciona con los instrumentos que regulan y orientan la formación académica del personal docente y la planificación de los procesos académicos.",
+   "El Reglamento de Formación y Capacitación de los Profesores establece que los procesos de formación académica deben guardar correspondencia con el perfil profesional del docente, las necesidades de las carreras, las áreas de conocimiento en las que desarrolla sus actividades y los lineamientos institucionales relacionados con la calidad académica. Asimismo, el Reglamento vincula la planificación institucional de la formación docente con la identificación previa de necesidades, utilizando información que permita reconocer brechas y establecer elementos de análisis para la planificación posterior. El Plan Estratégico de Desarrollo Institucional constituye un instrumento de referencia para relacionar las necesidades de formación del personal académico con los objetivos y estrategias institucionales orientados al fortalecimiento del talento humano docente.",
+   "En este sentido, la formación académica puede contribuir al fortalecimiento progresivo del claustro cuando guarda correspondencia con las necesidades de las carreras, la planificación académica y los objetivos institucionales. El PEDI también permite relacionar los procesos de diagnóstico y seguimiento con el aseguramiento de la calidad y la mejora continua.",
+   "De manera complementaria, los lineamientos institucionales relacionados con la formación docente consideran la necesidad de mantener correspondencia entre la formación académica, las características profesionales del personal, las áreas disciplinares de las carreras y las exigencias del entorno académico y profesional.",
+   "El Manual de Procesos de la Unidad de Gestión de Procesos Académicos constituye el referente procedimental para organizar el proceso institucional de formación docente. Dentro de este marco, la detección de necesidades constituye una etapa previa a la elaboración del Plan de Formación Docente y permite disponer de información para orientar posteriormente las decisiones relacionadas con la planificación académica del personal. De igual manera, el Plan Operativo Anual de la Unidad de Gestión de Procesos Académicos permite articular las necesidades identificadas con la planificación operativa institucional, de acuerdo con las actividades, metas y mecanismos que sean definidos para cada período.",
+   "En consecuencia, la normativa y los instrumentos institucionales considerados permiten establecer una relación entre:",
+   "Detección de necesidades de formación → análisis de pertinencia → planificación de la formación docente.",
+   "Esta relación no implica la aprobación automática de programas, acciones, recursos",
+   "o procesos formativos. La Detección de Necesidades de Formación constituye un insumo técnico para la planificación posterior, la cual estará sujeta a los procedimientos, criterios de pertinencia y decisiones institucionales que correspondan."
+  ]
+ },
+ "alineacion": {
+  "titulo": "Alineación Estratégica",
+  "parrafos": [
+   "La Detección de Necesidades de Formación correspondiente al período {{periodo}} se articula con los instrumentos de planificación, regulación y gestión académica institucional. Su finalidad no se limita a identificar las aspiraciones individuales de formación del personal docente, sino que busca generar información que permita relacionar las necesidades del claustro con los objetivos estratégicos, las metas operativas, las características de la oferta académica y los requerimientos institucionales de calidad. Esta articulación permite establecer una relación lógica entre diagnóstico, planificación, ejecución y seguimiento. La detección constituye el punto de partida para conocer la situación formativa del personal académico; posteriormente, sus resultados permiten orientar el Plan de Formación Docente y los planes individuales; finalmente, los procesos de seguimiento permiten verificar el desarrollo y los resultados de las acciones implementadas.",
+   "En este sentido, la presente Detección de Necesidades de Formación se vincula principalmente con el Plan Estratégico de Desarrollo Institucional (PEDI) 2022–2027, el Plan Operativo Anual de la Unidad de Gestión de Procesos Académicos, el Reglamento de Formación y Capacitación de los Profesores, el Manual de Procesos de la UGPA y los requerimientos asociados al aseguramiento de la calidad institucional.",
+   "VINCULACIÓN CON EL PLAN ESTRATÉGICO DE DESARROLLO INSTITUCIONAL (PEDI) 2022–2027 El Plan Estratégico de Desarrollo Institucional 2022–2027 constituye el instrumento que orienta el desarrollo institucional a mediano y largo plazo. Su estructura contempla objetivos estratégicos, estrategias institucionales, proyectos y planes de acción dirigidos al fortalecimiento de los diferentes componentes de la institución. El PEDI establece como ámbitos prioritarios la organización, infraestructura, profesores, docencia, investigación, desarrollo e innovación y vinculación con la sociedad.",
+   "La planificación estratégica institucional se encuentra directamente relacionada con la planificación operativa. El PEDI determina que su ejecución se materializa a través de los Planes Operativos Anuales, permitiendo trasladar los objetivos y estrategias institucionales hacia actividades concretas, responsables, períodos de ejecución y medios de verificación. Dentro de esta planificación, la Detección de Necesidades de Formación se relaciona principalmente con el Objetivo Estratégico 3, correspondiente al componente Profesores. Este objetivo plantea:",
+   "“Contar con el mejor talento docente dentro del claustro de cada una de las carreras pertenecientes a nuestra oferta académica, mediante la implementación, ejecución y perfeccionamiento de los diferentes subsistemas de talento humano enfocados en maximizar el potencial de cada uno de nuestros colaboradores”.",
+   "La contribución de la detección al cumplimiento de este objetivo se desarrolla en cuatro aspectos:",
+   "1. Identificación del nivel de formación académica actual del personal docente.",
+   "2. Determinación de las brechas existentes entre el nivel académico actual y el nivel que se requiere fortalecer.",
+   "3. Identificación de necesidades de formación relacionadas con las carreras y áreas de conocimiento de la institución.",
+   "4. Generación de información para orientar las decisiones institucionales sobre formación de tercer y cuarto nivel.",
+   "El PEDI establece, además, dentro de las estrategias correspondientes al componente Profesores, el fortalecimiento del plan institucional de formación y capacitación, con énfasis en el perfeccionamiento profesional técnico.",
+   "Por tanto, la Detección de Necesidades de Formación constituye un instrumento previo a la planificación, debido a que permite establecer, a partir de información institucional, cuáles son las necesidades que deberán ser consideradas posteriormente dentro del Plan de Formación Docente.",
+   "La relación estratégica se estructura de la siguiente manera:",
+   "PEDI 2022–2027 ↓ Objetivo Estratégico 3: Claustro Docente ↓ Estrategia de fortalecimiento de la formación docente ↓ ↓ ↓ Planes individuales de formación ↓ Ejecución y seguimiento 3.2.",
+   "VINCULACIÓN CON EL PLAN OPERATIVO ANUAL DE LA UGPA El Plan Operativo Anual de la Unidad de Gestión de Procesos Académicos permite llevar al nivel operativo las estrategias definidas en el PEDI. Para el componente relacionado con el claustro docente, el POA-UGPA 2025 mantiene el Objetivo Estratégico 3 y lo vincula con el Proyecto 3: Profesores y con el indicador Formación Académica en Curso y Capacitación.",
+   "Dentro de esta planificación se conserva como estrategia institucional el fortalecimiento del plan de formación y capacitación para profesores, haciendo énfasis en el perfeccionamiento profesional técnico.",
+   "La planificación operativa contempla diferentes procesos relacionados con el desarrollo del claustro docente. Para efectos de la presente detección, resultan particularmente relevantes dos niveles:",
+   "a) Nivel institucional La información obtenida mediante la detección permite identificar las necesidades generales de formación del claustro docente y proporciona un insumo para estructurar la planificación anual relacionada con el desarrollo académico del personal.",
+   "b) Nivel individual El POA contempla el Proceso de Planificación de Capacitación y Formación Individual a Docentes, mediante el cual se busca que los profesores dispongan de una planificación individual de largo plazo que incorpore información sobre:",
+   "• necesidades específicas de aprendizaje y su justificación;",
+   "• objetivos de aprendizaje;",
+   "• actividades previstas de formación;",
+   "• actividades de desarrollo académico correspondientes al docente.",
+   "Para el presente documento se mantiene una delimitación específica: la Detección de Necesidades de Formación analiza exclusivamente las necesidades asociadas con procesos académicos conducentes a títulos de mayor nivel. Las necesidades relacionadas con cursos, talleres, seminarios, certificaciones y otras actividades de actualización corresponden al proceso institucional de capacitación y deberán ser gestionadas separadamente. De esta manera, la información obtenida en el diagnóstico puede trasladarse posteriormente al POA mediante acciones concretas, metas, responsables, períodos de ejecución y mecanismos de seguimiento.",
+   "VINCULACIÓN CON EL REGLAMENTO DE FORMACIÓN Y CAPACITACIÓN DE LOS PROFESORES El Reglamento de Formación y Capacitación de los Profesores establece una relación directa entre la detección de necesidades y la planificación institucional. El artículo 17 determina que la planificación general e individual debe considerar los siguientes componentes:",
+   "1. Detección de necesidades de capacitación y formación.",
+   "2. Direccionamiento estratégico.",
+   "3. Plan de acción y cronograma.",
+   "Esta estructura evidencia que la detección constituye la primera etapa del proceso institucional y precede a la definición de acciones concretas.",
+   "El artículo 18 establece además las fuentes que deben considerarse para identificar las necesidades. Entre estas se incluyen los hallazgos derivados de los procesos institucionales de evaluación, la información procedente de la Construcción Curricular Continua y las necesidades particulares de los profesores de acuerdo con el contenido profesional que imparten, su nivel de estudios y su experiencia profesional. Consecuentemente, el diagnóstico debe integrar diferentes perspectivas. No resulta suficiente preguntar al docente qué desea estudiar; es necesario contrastar esta información con:",
+   "• su formación académica actual;",
+   "• las áreas académicas en las que desarrolla sus actividades;",
+   "• las necesidades de la carrera;",
+   "• su trayectoria y experiencia profesional;",
+   "• las prioridades institucionales.",
+   "El Reglamento establece también una progresión de formación académica para el claustro docente. La formación institucional busca facilitar que los docentes puedan acceder a títulos de mayor nivel, considerando una trayectoria que puede avanzar desde títulos tecnológicos hacia títulos de tercer nivel, desde tercer nivel hacia cuarto nivel y desde formación de cuarto nivel hacia doctorado.",
+   "Esta progresión constituye un criterio importante para el análisis de las brechas de formación que serán identificadas durante el período {{periodo}}. 3.4.",
+   "ALINEACIÓN CON EL MANUAL DE PROCESOS DE LA UGPA El Manual de Procesos de la Unidad de Gestión de Procesos Académicos incorpora de manera independiente el Proceso de Formación Docente, identificado como UGPA-PRO31. Esto permite diferenciar operativamente la formación docente de los procesos específicos relacionados con capacitación.",
+   "Dentro del Proceso de Formación Docente se establece una secuencia institucional compuesta por las siguientes etapas:",
+   "1. Construcción y aplicación de la Detección de Necesidades de Formación.",
+   "2. Elaboración del Plan Anual de Formación.",
+   "3. Seguimiento al proceso de formación docente.",
+   "4. Archivo y conservación de las evidencias generadas durante el proceso.",
+   "El Manual determina que al inicio del período académico debe realizarse la recolección de información dirigida al personal docente con la finalidad de identificar sus necesidades de formación profesional. A partir de los resultados obtenidos se genera el Documento de Detección de Necesidades de Formación, que posteriormente debe ser sometido al proceso institucional de revisión y aprobación.",
+   "Una vez aprobado el diagnóstico, sus resultados constituyen el insumo para la elaboración del Plan Anual de Formación Docente. Posteriormente, el proceso contempla el seguimiento a la formación realizada y la generación del correspondiente informe de cumplimiento.",
+   "Por tanto, el Manual permite establecer la siguiente trazabilidad documental: ↓ Aprobación institucional del diagnóstico ↓ Plan Anual de Formación Docente ↓ Ejecución de los procesos de formación ↓ Seguimiento ↓ Informe de cumplimiento ↓ Retroalimentación para el siguiente período Esta secuencia garantiza que el Plan de Formación Docente no se elabore de manera independiente, sino que responda a necesidades previamente identificadas y documentadas. 3.5.",
+   "ARTICULACIÓN CON EL ASEGURAMIENTO DE LA CALIDAD INSTITUCIONAL La detección de necesidades de formación mantiene también una relación con el sistema institucional de aseguramiento de la calidad. El PEDI establece que la planificación institucional debe permitir identificar fortalezas y debilidades, implementar acciones de mejora y evaluar el cumplimiento de los indicadores de calidad. Asimismo, reconoce al PEDI como eje de la planificación estratégica y a los POA como instrumentos para su ejecución y seguimiento.",
+   "En este marco, la formación académica del personal docente constituye un elemento que puede ser analizado mediante información objetiva relacionada con el nivel académico alcanzado, la afinidad de la formación con las carreras, las necesidades de desarrollo profesional y la participación de los profesores en procesos formativos.",
+   "La Detección de Necesidades de Formación permite generar esta evidencia y facilita que las decisiones institucionales se encuentren sustentadas en información actualizada, trazable y susceptible de seguimiento.",
+   "INTEGRACIÓN DE LOS INSTRUMENTOS INSTITUCIONALES La alineación estratégica de la Detección de Necesidades de Formación puede sintetizarse en cuatro niveles:",
+   "Nivel Instrumento Relación con la detección Estratégico PEDI 2022–2027 Establece el fortalecimiento del claustro docente como objetivo institucional.",
+   "Operativo POA-UGPA Convierte las estrategias institucionales en actividades, metas y procesos de ejecución.",
+   "Normativo Reglamento de Define la detección de necesidades y como etapa previa a la planificación de Capacitación la formación.",
+   "Procedimental Manual de Procesos Establece el flujo desde la detección UGPA hasta la planificación, seguimiento y evaluación de la formación docente.",
+   "La Detección de Necesidades de Formación {{periodo_corto}} funciona como el vínculo entre la situación académica actual del claustro docente y la planificación de las acciones institucionales destinadas a fortalecerlo. Su elaboración permite que las necesidades identificadas puedan traducirse posteriormente en objetivos, prioridades, planes individuales y acciones de formación coherentes con las necesidades de las carreras, la planificación institucional y los procesos de mejora continua."
+  ]
+ },
+ "metodologia": {
+  "titulo": "Metodología y Enfoque",
+  "parrafos": [
+   "La Detección de Necesidades de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, se fundamenta en una metodología de diagnóstico institucional orientada a identificar, analizar y organizar las necesidades de formación académica del personal docente, considerando las características de las carreras, los perfiles profesionales y las prioridades de desarrollo académico institucional.",
+   "El proceso metodológico integra información cuantitativa y cualitativa para establecer la relación entre la situación académica del profesorado, las necesidades disciplinares y las oportunidades de formación conducentes a la obtención de títulos de tercer y cuarto nivel. Su aplicación requiere distinguir los datos contenidos en los registros institucionales, las necesidades sustentadas mediante evidencias y las orientaciones académicas formuladas a partir de criterios de pertinencia.",
+   "La base cuantitativa incorporada al diagnóstico comprende {{n_registros}} registros distribuidos entre {{n_carreras}} carreras de la oferta académica del ITSQMET. Esta información permite caracterizar la distribución contenida en la matriz institucional utilizada para el análisis. Su interpretación se limita a las variables y registros documentados, sin atribuirles automáticamente condiciones de representatividad, resultados de encuestas individuales o características académicas que no puedan verificarse en las fuentes originales. La metodología contempla el análisis de la formación académica formal y excluye los cursos, talleres, seminarios, certificaciones y demás actividades de actualización profesional de corta duración, debido a que corresponden al proceso institucional de capacitación docente.",
+   "El diagnóstico constituye un insumo técnico para el Plan de Formación Docente, mediante la identificación de necesidades y líneas de formación pertinentes. Las orientaciones establecidas no implican una obligación individual de matrícula ni sustituyen la validación académica y documental requerida para incorporar una acción específica al Plan."
+  ]
+ },
+ "objetivo_general": {
+  "titulo": "Objetivo General",
+  "parrafos": [
+   "Analizar las necesidades de formación académica formal del personal docente del {{institucion}} durante el período {{periodo}}, mediante la organización de la información institucional disponible, la caracterización académica por carrera y la aplicación de criterios de pertinencia y validación documental, con la finalidad de sustentar la planificación de acciones orientadas al fortalecimiento del perfil académico del profesorado."
+  ]
+ },
+ "objetivos_especificos": {
+  "titulo": "Objetivos Específicos",
+  "parrafos": [
+   "1. Caracterizar la distribución de los registros docentes incorporados al diagnóstico, considerando las carreras de la oferta académica institucional y las variables documentadas durante el período evaluado.",
+   "2. Identificar las necesidades de formación académica específica y genérica a partir de información institucional verificable y criterios relacionados con los perfiles profesionales del personal docente.",
+   "3. Analizar las posibles brechas entre la formación académica acreditada, las actividades docentes y los requerimientos disciplinares de las carreras.",
+   "4. Establecer criterios de pertinencia para relacionar los programas de formación con las funciones académicas, las áreas de conocimiento y las necesidades institucionales.",
+   "5. Considerar los aportes documentados de las coordinaciones académicas y los instrumentos institucionales de planificación, evaluación y aseguramiento de la calidad.",
+   "6. Diferenciar las necesidades de formación sustentadas mediante evidencias de las orientaciones académicas generales y los intereses individuales de continuidad de estudios.",
+   "7. Organizar los resultados del diagnóstico para orientar la elaboración, ejecución y seguimiento del Plan de Formación Docente, manteniendo la trazabilidad de las fuentes utilizadas."
+  ]
+ },
+ "alcance": {
+  "titulo": "Alcance del Diagnóstico",
+  "parrafos": [
+   "La Detección de Necesidades de Formación Docente comprende el análisis académico de las {{n_carreras}} carreras consideradas en la matriz institucional correspondiente al período {{periodo}}. La distribución cuantitativa incluida en el documento contiene {{n_registros}} registros, organizados por carrera y expresados mediante frecuencias absolutas y porcentajes.",
+   "La caracterización permite establecer la estructura de los registros incluidos en el diagnóstico y contextualizar las necesidades de formación dentro de los campos disciplinares institucionales. La identificación de necesidades individuales requiere adicionalmente información sobre titulación acreditada, trayectoria profesional, funciones académicas y condiciones de pertinencia.",
+   "El alcance comprende procesos de formación académica formal conducentes a títulos reconocidos dentro del Sistema de Educación Superior, considerando principalmente las siguientes trayectorias:",
+   "Nivel académico actual Tecnología Superior Tercer nivel universitario Maestría o equivalente Doctorado Posible trayectoria de formación Estudios de tercer nivel universitario pertinentes Maestría o maestría tecnológica Doctorado, según pertinencia académica Formación adicional únicamente cuando exista una necesidad específica justificada Estas trayectorias constituyen criterios de análisis académico y no obligaciones de progresión automática. La formación propuesta debe mantener correspondencia con la trayectoria profesional del docente, las funciones que desempeña y las necesidades institucionales documentadas.",
+   "El diagnóstico diferencia la caracterización cuantitativa de la identificación de necesidades formativas. En consecuencia, la distribución por carrera no demuestra por sí sola la existencia de una brecha académica ni determina que todos los docentes deban incorporarse a estudios de mayor nivel."
+  ]
+ },
+ "estrategia": {
+  "titulo": "Estrategia de Levantamiento",
+  "parrafos": [
+   "La estrategia metodológica comprende la revisión y organización de información institucional relacionada con el personal docente, las carreras, los niveles académicos y las necesidades de fortalecimiento profesional.",
+   "Las fuentes se diferencian según su origen y respaldo documental. Los registros institucionales permiten caracterizar la información disponible; los instrumentos de consulta docente permiten identificar necesidades individuales cuando existen respuestas verificables; y los criterios académicos contribuyen a determinar la pertinencia de las oportunidades de formación.",
+   "La consolidación de la información se efectúa considerando la correspondencia entre los datos utilizados y los resultados presentados. No se atribuyen respuestas individuales, porcentajes de preferencias o necesidades específicas cuando estas variables no se encuentran sustentadas en documentos originales.",
+   "4.4.1. INFORMACIÓN PROPORCIONADA POR EL PERSONAL DOCENTE La identificación de la situación académica individual considera los registros y documentos que permiten establecer la formación acreditada, las actividades profesionales y las necesidades de continuidad de estudios.",
+   "Las principales variables de análisis son:",
+   "• Nivel académico alcanzado y títulos registrados.",
+   "• Área o campo de conocimiento de la formación previa.",
+   "• Carrera o carreras en las que desarrolla actividades docentes.",
+   "• Programa académico que cursa, cuando corresponda.",
+   "• Interés o necesidad de continuar estudios formales.",
+   "• Nivel académico y campo de formación propuesto.",
+   "• Modalidad de estudios y condiciones de acceso.",
+   "• Disponibilidad, limitaciones y necesidades de apoyo institucional.",
+   "La información declarada por el docente debe relacionarse con su documentación académica y con los criterios institucionales de pertinencia.",
+   "Las imágenes de diseño de formularios o instrumentos digitales no se consideran evidencia de respuestas obtenidas. Para incorporar resultados de una consulta individual es necesario disponer del registro auténtico de respuestas, su período de aplicación y los datos requeridos para verificar los resultados presentados.",
+   "Esta diferenciación permite mantener la integridad de la información y evita confundir la disponibilidad de un instrumento con su aplicación efectiva.",
+   "4.4.2. INFORMACIÓN PROPORCIONADA POR LAS COORDINACIONES ACADÉMICAS El criterio de las coordinaciones académicas constituye un componente para contextualizar las necesidades de formación respecto de los campos disciplinares y las funciones académicas desarrolladas en cada carrera.",
+   "El análisis considera principalmente:",
+   "• Las características y el perfil profesional de cada carrera.",
+   "• Los campos de conocimiento y las asignaturas impartidas.",
+   "• La correspondencia entre la formación del docente y su actividad académica. • Las necesidades de cualificación vinculadas con la oferta académica.",
+   "• Las prioridades institucionales relacionadas con docencia, investigación y vinculación.",
+   "• Las oportunidades de formación específicas y transversales.",
+   "Las observaciones de las coordinaciones permiten reconocer necesidades que pueden diferir de las preferencias individuales. Su incorporación como necesidades efectivamente identificadas requiere sustento documental y correspondencia con el período evaluado. La determinación de una necesidad debe fundamentarse en su pertinencia académica y no exclusivamente en la disponibilidad de programas universitarios o convenios institucionales.",
+   "4.4.3. FUENTES INSTITUCIONALES COMPLEMENTARIAS El diagnóstico se articula con los instrumentos institucionales que orientan el fortalecimiento académico del personal docente y permiten contextualizar las necesidades de formación.",
+   "Entre las fuentes consideradas se encuentran:",
+   "• Registros institucionales de personal docente y adscripción académica.",
+   "• Documentación sobre títulos y niveles de formación.",
+   "• Información institucional de distribución docente por carrera.",
+   "• Resultados documentados de evaluación docente.",
+   "• Información de los procesos de Construcción Curricular Continua.",
+   "• Plan Estratégico de Desarrollo Institucional 2022–2027.",
+   "• Plan Operativo Anual de la Unidad de Gestión de Procesos Académicos.",
+   "• Reglamento de Formación y Capacitación de los Profesores.",
+   "• Requerimientos aplicables del Modelo de Evaluación Externa 2024.",
+   "La utilización de estas fuentes permite relacionar las necesidades formativas con los objetivos institucionales y los requerimientos del aseguramiento de la calidad. La identificación de necesidades específicas se fundamenta únicamente en la información que pueda vincularse con una fuente verificable, evitando formular resultados individuales a partir de apreciaciones generales."
+  ]
+ },
+ "enfoque_cuanti": {
+  "titulo": "Enfoque Cuantitativo",
+  "parrafos": [
+   "El componente cuantitativo se fundamenta en la matriz de distribución institucional incorporada al diagnóstico, que contiene {{n_registros}} registros organizados entre {{n_carreras}} carreras del El análisis utiliza frecuencias absolutas y porcentajes para presentar la participación de cada carrera dentro del conjunto de registros. La sección 5.1 establece las cantidades correspondientes y constituye la fuente cuantitativa para las tablas y representaciones gráficas del diagnóstico.",
+   "Para el cálculo de la distribución porcentual se aplica la siguiente relación: [ \\text{Porcentaje por carrera}=\\frac{\\text{Registros de la carrera}}{61}\\times100 ] Los resultados representan la composición del conjunto de registros consignados en la matriz. No equivalen automáticamente a una tasa de necesidades formativas, una distribución de docentes matriculados ni un porcentaje de cumplimiento del Plan. El análisis cuantitativo de variables adicionales, como titulación académica, modalidad de estudio, preferencias formativas o continuidad de estudios, requiere disponer de registros individuales que permitan identificar frecuencias válidas y establecer los denominadores correspondientes.",
+   "En consecuencia, la presentación de resultados numéricos se limita a las variables documentadas. No se generan estimaciones sobre respuestas ausentes ni se utilizan gráficos construidos con cantidades diferentes de las establecidas en la matriz del diagnóstico. Las tablas, figuras, porcentajes y conclusiones cuantitativas deben conservar correspondencia con la misma fuente de datos, evitando diferencias entre la caracterización principal y los anexos."
+  ]
+ },
+ "enfoque_cuali": {
+  "titulo": "Enfoque Cualitativo",
+  "parrafos": [
+   "El componente cualitativo permite interpretar la información académica y establecer criterios de pertinencia para la identificación de necesidades de formación docente. Este análisis considera la relación entre los perfiles profesionales, los campos disciplinares de las carreras, las funciones académicas y las prioridades institucionales de desarrollo.",
+   "Los criterios cualitativos comprenden:",
+   "• Pertinencia disciplinar de la formación.",
+   "• Correspondencia entre titulación y actividad docente.",
+   "• Necesidades específicas de las carreras.",
+   "• Posibilidades de fortalecimiento académico e investigativo.",
+   "• Requerimientos institucionales de cualificación.",
+   "• Oportunidades de formación específica y transversal.",
+   "• Condiciones de acceso y continuidad de estudios.",
+   "A partir de estos criterios se organizan las líneas académicas destinadas a orientar el Plan de Formación Docente.",
+   "Las recomendaciones de programas y campos de formación deben interpretarse como alternativas sujetas a la validación de pertinencia correspondiente. Su inclusión en el diagnóstico no implica la existencia de una obligación contractual para el docente ni acredita automáticamente una necesidad individual.",
+   "El análisis cualitativo permite mantener la correspondencia entre la planificación institucional y la diversidad de perfiles profesionales del personal académico."
+  ]
+ },
+ "triangulacion": {
+  "titulo": "Triangulación",
+  "parrafos": [
+   "La triangulación constituye el mecanismo metodológico para establecer correspondencia entre la información académica individual, las necesidades de las carreras y los objetivos institucionales.",
+   "El análisis considera la siguiente secuencia:",
+   "Situación académica documentada del docente → Carrera y funciones académicas → Necesidad disciplinar identificada → Criterio de pertinencia institucional → Contraste de evidencias → Clasificación de la necesidad formativa. Este procedimiento permite diferenciar los resultados según su respaldo documental y su relación con los requerimientos institucionales.",
+   "Clasificación Necesidad de formación identificada Necesidad institucional sustentada Interés individual de formación Orientación académica general Criterio de interpretación Existe documentación que permite relacionar la situación académica del docente con una necesidad pertinente de fortalecimiento.",
+   "La necesidad corresponde a requerimientos académicos de la carrera o institución y cuenta con respaldo verificable.",
+   "El docente manifiesta interés por un programa cuya pertinencia institucional debe analizarse.",
+   "Se identifica una línea de formación pertinente para una carrera, sin atribuirla automáticamente a docentes específicos.",
+   "La diferenciación permite mantener la libertad de elección académica del docente y, al mismo tiempo, establecer criterios institucionales para valorar la pertinencia de programas y solicitudes de apoyo.",
+   "La existencia de una orientación general no constituye autorización automática para incorporar beneficiarios, recursos o acciones ejecutadas dentro del Plan de Formación Docente. Estas incorporaciones deben sustentarse en los procedimientos y documentos institucionales correspondientes."
+  ]
+ },
+ "fases": {
+  "titulo": "Fases del Proceso",
+  "parrafos": [
+   "La metodología de Detección de Necesidades de Formación Docente se estructura en seis fases orientadas a organizar la información académica, identificar necesidades y generar insumos para la planificación institucional.",
+   "Fase Actividad principal Resultado",
+   "2. Levantamiento de información Identificación de carreras, variables, fuentes y criterios metodológicos.",
+   "Recopilación y organización de los registros y documentos disponibles.",
+   "Estructura de análisis institucional.",
+   "Base documental organizada para el diagnóstico.",
+   "Caracterización de las necesidades y orientaciones académicas.",
+   "3. Análisis académico Revisión de perfiles, carreras, funciones docentes y pertinencia formativa.",
+   "4. Sistematización Clasificación de la información cuantitativa y cualitativa.",
+   "Resultados organizados por variables y carreras.",
+   "5. Análisis de brechas Contraste entre formación acreditada y requerimientos académicos institucionales.",
+   "Identificación de necesidades sustentadas y aspectos de fortalecimiento.",
+   "6. Consolidación y priorización Organización de los resultados según pertinencia, evidencia y condiciones institucionales.",
+   "Insumos técnicos para el Plan de Formación Docente.",
+   "La aplicación de estas fases permite mantener una relación organizada entre las fuentes documentales, los resultados del diagnóstico y las orientaciones incorporadas a la planificación institucional.",
+   "La consolidación metodológica distingue las necesidades efectivamente sustentadas de las alternativas generales de formación académica, evitando que las recomendaciones por carrera sean interpretadas como compromisos individuales de estudios.",
+   "Los resultados del diagnóstico constituyen la base técnica para la planificación de acciones de formación docente, cuya incorporación y seguimiento requieren documentación específica de pertinencia, beneficiarios, programas y condiciones de acceso. De esta manera, el proceso mantiene correspondencia entre el diagnóstico institucional, el Plan de Formación Docente y los mecanismos posteriores de seguimiento y evaluación, preservando la trazabilidad de la información utilizada."
+  ]
+ },
+ "caracterizacion": {
+  "titulo": "Caracterización del Claustro",
+  "parrafos": [
+   "La caracterización del claustro docente constituye un componente fundamental del proceso de Detección de Necesidades de Formación Docente del {{institucion}} (ITSQMET), debido a que permite organizar la información académica por carrera y establecer criterios para identificar necesidades de fortalecimiento profesional relacionadas con los campos disciplinares de la oferta institucional.",
+   "Para el período {{periodo}}, el diagnóstico incorpora una matriz cuantitativa de {{n_registros}} registros docentes distribuidos entre {{n_carreras}} carreras. La información permite establecer la composición de los registros analizados, identificar su distribución institucional y organizar posteriormente el estudio de las necesidades de formación académica específica, compartida y transversal.",
+   "La caracterización considera que la identificación de necesidades formativas debe fundamentarse en la correspondencia entre el nivel académico del docente, su trayectoria profesional, las asignaturas impartidas y los requerimientos de la carrera. En consecuencia, la distribución cuantitativa constituye un componente de organización del diagnóstico, mientras que la determinación de necesidades individuales requiere información académica y documental complementaria.",
+   "El análisis mantiene correspondencia con el Reglamento de Formación y Capacitación de los Profesores, el Plan Estratégico de Desarrollo Institucional 2022–2027 y los instrumentos de planificación académica. Estos documentos establecen orientaciones para el fortalecimiento de la formación docente mediante procesos conducentes a la obtención de títulos académicos de tercer y cuarto nivel."
+  ]
+ },
+ "organizacion": {
+  "titulo": "Organización del Análisis",
+  "parrafos": [
+   "La caracterización del personal docente se organiza mediante la carrera como unidad de análisis académico, considerando su vinculación con los campos disciplinares, los perfiles profesionales y las funciones sustantivas desarrolladas dentro del {{institucion}}.",
+   "Esta organización permite examinar las necesidades de formación desde las particularidades de cada carrera, evitando establecer recomendaciones generales sin considerar el ámbito profesional en el que el docente desarrolla sus actividades. Para el análisis se consideran los siguientes componentes:",
+   "1. Identificación de la carrera: denominación institucional correspondiente al área académica en la que el docente desarrolla sus actividades.",
+   "2. Nivel académico acreditado: formación de tercer o cuarto nivel registrada y respaldada mediante documentación académica.",
+   "3. Campo profesional o disciplinar: área de conocimiento relacionada con la formación previa y las asignaturas impartidas.",
+   "4. Necesidad de formación identificada: requerimiento de fortalecimiento académico sustentado en información individual o institucional verificable.",
+   "5. Pertinencia académica: correspondencia entre la necesidad identificada y los objetivos formativos de la carrera.",
+   "6. Alternativa de formación: programa de tercer o cuarto nivel que puede responder a la necesidad documentada, considerando reconocimiento académico y condiciones de acceso.",
+   "La identificación de las necesidades deberá mantener la siguiente secuencia metodológica:",
+   "Docente → Carrera de adscripción → Perfil académico acreditado → Campo disciplinar → Necesidad identificada → Programa académico pertinente.",
+   "La aplicación de esta secuencia permite diferenciar las necesidades institucionales de las preferencias individuales de continuidad de estudios. Una aspiración académica puede contribuir al desarrollo profesional del docente, pero su reconocimiento como necesidad institucional requiere demostrar su correspondencia con los requerimientos de la carrera y las funciones desempeñadas.",
+   "Asimismo, la organización por carrera permite diferenciar las formaciones específicas, relacionadas directamente con los campos profesionales de la oferta académica, de las formaciones genéricas o transversales, vinculadas con educación superior, pedagogía, investigación, innovación, tecnología educativa y gestión académica.",
+   "Las líneas de formación establecidas a partir de esta caracterización orientan la planificación institucional, pero no obligan a la totalidad de los docentes de una carrera a cursar un programa determinado. La elección de estudios académicos mantiene su carácter individual y debe analizarse conforme a las condiciones de acceso, pertinencia y normativa institucional aplicable."
+  ]
+ },
+ "alcance_carac": {
+  "titulo": "Alcance de la Caracterización",
+  "parrafos": [
+   "La caracterización del claustro docente comprende los {{n_registros}} registros organizados entre {{n_carreras}} carreras de la oferta académica institucional, correspondientes al período {{periodo}}.",
+   "La matriz constituye la base cuantitativa utilizada en el presente diagnóstico para describir la distribución de los registros por carrera. Sus resultados permiten establecer frecuencias, porcentajes y agrupaciones académicas, manteniendo correspondencia entre las tablas del cuerpo del documento y sus anexos.",
+   "La interpretación de esta información se limita a las variables consignadas en la matriz. En particular, la cantidad de registros por carrera no acredita por sí sola la totalidad de docentes contratados, la ausencia de registros duplicados ni la representación completa de cada área académica. Estas condiciones requieren documentación nominal y administrativa específica.",
+   "La caracterización académica permite contextualizar las necesidades de formación mediante la relación entre carrera, campo disciplinar, nivel de estudios y funciones docentes. Para identificar una necesidad individual deben existir antecedentes que permitan establecer la formación previa, el área de especialización y la pertinencia de una trayectoria de continuidad académica.",
+   "Las necesidades de formación se clasifican de acuerdo con los siguientes criterios: • Formación específica: programas directamente relacionados con los campos profesionales y disciplinares de cada carrera.",
+   "• Formación compartida: programas pertinentes para varias carreras que presentan requerimientos académicos comunes.",
+   "• Formación genérica o transversal: programas relacionados con competencias académicas aplicables a distintas áreas institucionales.",
+   "La clasificación permite organizar las oportunidades de formación académica y mantener su correspondencia con los objetivos institucionales, sin atribuir necesidades individuales cuando no existe información suficiente para sustentarlas.",
+   "El análisis de los registros de caracterización también debe diferenciarse del seguimiento de docentes vinculados a programas de formación académica formal. Ambos procesos cumplen funciones distintas: la caracterización organiza la información para identificar necesidades, mientras que el seguimiento documenta la situación académica de los docentes que desarrollan estudios de tercer o cuarto nivel.",
+   "La correspondencia entre estos conjuntos de información debe establecerse mediante identificadores nominales y adscripciones institucionales verificadas, sin asumir que los registros de un instrumento coinciden automáticamente con los del otro.",
+   "En consecuencia, la utilización de la matriz del diagnóstico para calcular indicadores institucionales de cobertura requiere demostrar que ambos conjuntos corresponden al mismo universo docente, período y criterio de adscripción.",
+   "La caracterización permite estructurar el análisis de las necesidades de formación del ITSQMET y sustentar la planificación de acciones académicas pertinentes. Sus resultados deberán conservar correspondencia con la matriz cuantitativa utilizada, las fuentes documentales incorporadas y los criterios metodológicos establecidos en el presente diagnóstico.",
+   "De esta manera, la información presentada proporciona una estructura organizada para relacionar las características académicas del personal docente con las necesidades institucionales, evitando atribuir conclusiones individuales o indicadores de cobertura que excedan el alcance de los registros disponibles."
+  ]
+ },
+ "lineas": {
+  "titulo": "Líneas de Formación por Coordinación",
+  "parrafos": [
+   "Las líneas de formación por coordinación académica permiten organizar las necesidades de formación identificadas en el claustro docente de acuerdo con las características disciplinares de las carreras y con los requerimientos académicos institucionales.",
+   "Su finalidad es determinar en qué campos de conocimiento resulta necesario fortalecer la formación del personal docente y orientar posteriormente la selección de programas académicos pertinentes. En este sentido, las líneas de formación constituyen el vínculo entre los resultados de la Detección de Necesidades de Formación y la elaboración del Plan de Formación Docente.",
+   "El Reglamento de Formación y Capacitación de los Profesores establece que la institución debe favorecer la progresión académica del claustro mediante el acceso a títulos de mayor nivel. Asimismo, determina que la detección de necesidades debe considerar el nivel de estudios del profesor, su experiencia profesional, el contenido profesional que imparte, los resultados de los procesos institucionales de evaluación y la información proveniente de Construcción Curricular Continua.",
+   "Por esta razón, una línea de formación no se establece únicamente porque un docente manifieste interés en determinado programa académico. La necesidad debe guardar relación con su trayectoria académica, el campo en el que desarrolla docencia y las necesidades identificadas dentro de la carrera.",
+   "Para el presente diagnóstico se consideran exclusivamente procesos de formación académica conducentes a títulos de mayor nivel. Las necesidades relacionadas con cursos, talleres, certificaciones, seminarios, actualización en herramientas o entrenamientos específicos corresponden al proceso de capacitación y no forman parte de esta sección. 6.1.",
+   "CRITERIOS PARA LA IDENTIFICACIÓN DE LAS LÍNEAS DE FORMACIÓN La determinación de las líneas de formación se realiza mediante el contraste de la información disponible sobre el docente y las necesidades académicas de la carrera. Se considerarán principalmente los siguientes elementos:",
+   "• nivel académico actual;",
+   "• campo de conocimiento de la formación previa;",
+   "• carrera o carreras en las que desarrolla actividades académicas;",
+   "• necesidades de formación manifestadas por el docente;",
+   "• necesidades identificadas desde la coordinación académica;",
+   "• relación de la formación proyectada con el campo disciplinar;",
+   "• nivel académico al que podría proyectarse el docente;",
+   "• pertinencia de la formación para el fortalecimiento de la carrera.",
+   "La relación de análisis será:",
+   "Formación actual → necesidad identificada → carrera y campo disciplinar → pertinencia académica → línea de formación → nivel requerido.",
+   "Este procedimiento permitirá distinguir entre una aspiración académica individual y una necesidad de formación que también representa una oportunidad de fortalecimiento para la institución.",
+   "Las líneas de formación se organizan en dos grupos: formación disciplinar específica y formación académica transversal.",
+   "La formación disciplinar específica corresponde a campos directamente vinculados con las áreas profesionales de las carreras. Su propósito es fortalecer la cualificación académica del personal docente dentro del ámbito técnico o disciplinar en el que desarrolla sus actividades.",
+   "La formación académica transversal corresponde a campos que pueden resultar pertinentes para docentes de diferentes carreras, siempre que se materialicen mediante programas formales conducentes a titulación y que exista una necesidad identificada. En este grupo podrían encontrarse áreas como educación, investigación o gestión educativa, únicamente cuando los resultados del diagnóstico así lo demuestren."
+  ]
+ },
+ "criterios_lineas": {
+  "titulo": "Criterios para la identificación",
+  "parrafos": []
+ },
+ "priorizacion": {
+  "titulo": "Criterios para la Consolidación",
+  "parrafos": [
+   "Las necesidades de formación que cuenten con información verificable deberán consolidarse con el propósito de identificar su alcance institucional y establecer un orden de atención para la planificación posterior. La consolidación evita registrar de manera separada necesidades similares y permite reconocer aquellas que afectan únicamente a una carrera, las que se presentan en varias carreras y las que pueden tener aplicación transversal. Clasificación según el alcance Alcance Específica Descripción Necesidad relacionada directamente con una carrera o campo disciplinar determinado.",
+   "Necesidad identificada en dos o más carreras o coordinaciones académicas.",
+   "Necesidad que puede resultar pertinente para docentes de Transversal diferentes áreas académicas de la institución.",
+   "Compartida Una necesidad solo podrá incorporarse como resultado del diagnóstico cuando exista una fuente que permita sustentar su identificación. Las necesidades que no cuenten con evidencia suficiente podrán registrarse como elementos pendientes de validación, pero no deberán presentarse como resultados definitivos ni utilizarse para establecer prioridades institucionales.",
+   "Criterios de priorización Para determinar la prioridad se considerarán los siguientes elementos:",
+   "• existencia de una brecha de formación identificada;",
+   "• pertinencia de la formación respecto de la carrera o campo disciplinar;",
+   "• relación con las funciones académicas desarrolladas por el docente;",
+   "• contribución al fortalecimiento del perfil del claustro;",
+   "• alcance de la necesidad dentro de una o varias carreras;",
+   "• disponibilidad de evidencia que sustente la necesidad.",
+   "Nivel de prioridad Prioridad Alta Media Proyectada Pendiente de validación Criterio Existe una brecha claramente identificada y sustentada cuya atención guarda relación directa con las necesidades académicas de la carrera y requiere intervención prioritaria.",
+   "La necesidad es pertinente y contribuye al fortalecimiento académico, pero no requiere atención inmediata.",
+   "La formación resulta pertinente como trayectoria de desarrollo académico y puede programarse a mediano o largo plazo.",
+   "Existe un requerimiento o interés identificado, pero la evidencia disponible no permite todavía incorporarlo como necesidad definitiva.",
+   "Estructura de consolidación Las necesidades que superen el proceso de validación deberán consolidarse mediante una estructura que permita mantener trazabilidad entre la línea identificada, las carreras relacionadas, el nivel requerido, el alcance, la prioridad y la fuente de evidencia. Campo Línea de formación Carrera(s) relacionada(s) Nivel requerido Alcance Prioridad Fuente de evidencia Contenido a registrar Campo académico o disciplinar previamente validado.",
+   "Carrera o carreras vinculadas con la necesidad.",
+   "Tercer nivel / Maestría / Doctorado.",
+   "Específica / Compartida / Transversal.",
+   "Alta / Media / Proyectada.",
+   "Registro, instrumento, coordinación u otra fuente verificable.",
+   "La matriz permitirá mantener trazabilidad entre la necesidad identificada, la carrera a la que corresponde, el nivel de formación requerido y la evidencia que sustenta su priorización. Esta información constituirá posteriormente uno de los insumos para la elaboración del Plan de Formación Docente."
+  ]
+ },
+ "vinculacion_plan": {
+  "titulo": "Vinculación con el Plan",
+  "parrafos": [
+   "La Detección de Necesidades de Formación constituye el insumo técnico previo para la elaboración del Plan de Formación Docente. Su función es identificar, organizar y priorizar las necesidades formativas que cuenten con sustento verificable, mientras que el Plan de Formación corresponde a la etapa posterior de planificación y ejecución. La relación entre ambos instrumentos se establece de la siguiente manera:",
+   "Etapa Detección de necesidades Resultado Identificación de necesidades y brechas de formación.",
+   "Análisis de pertinencia Consolidación Priorización Plan de Formación Ejecución y seguimiento Relación de la necesidad con la carrera, campo disciplinar y trayectoria académica.",
+   "Organización de las necesidades en líneas específicas, compartidas o transversales.",
+   "Clasificación de las necesidades según su nivel de atención.",
+   "Definición de programas, población objetivo, mecanismos de apoyo, cronograma y seguimiento.",
+   "Implementación de las acciones de formación y verificación de su avance.",
+   "La Detección de Necesidades no deberá seleccionar de manera anticipada un programa académico únicamente por su disponibilidad o por la existencia de un convenio. Primero deberá establecerse la necesidad de formación y su pertinencia; posteriormente, dentro del Plan de Formación Docente, podrán analizarse las alternativas académicas que permitan atenderla.",
+   "Información que se trasladará al Plan de Formación Docente Las necesidades validadas deberán trasladarse al Plan de Formación Docente considerando, como mínimo, los siguientes elementos:",
+   "Información proveniente del diagnóstico Aplicación en el Plan de Formación Necesidad identificada Determina qué aspecto requiere fortalecimiento.",
+   "Carrera o carreras relacionadas Define el ámbito académico de aplicación.",
+   "Línea de formación Nivel requerido Prioridad Fuente de evidencia Orienta la búsqueda de programas pertinentes.",
+   "Determina si corresponde tercer nivel, maestría o doctorado.",
+   "Permite establecer el orden de atención.",
+   "Mantiene la trazabilidad entre diagnóstico y planificación.",
+   "La selección de universidades, programas específicos, modalidad de estudios, condiciones económicas, beneficios institucionales, cronogramas, responsables y mecanismos de seguimiento corresponderá al Plan de Formación Docente y no deberá sustituir el análisis previo de la necesidad."
+  ]
+ },
+ "brechas": {
+  "titulo": "Análisis de Brechas",
+  "parrafos": [
+   "El análisis de brechas de formación académica tiene como finalidad examinar las necesidades de fortalecimiento profesional del claustro docente del {{institucion}} (ITSQMET), considerando la muestra de {{n_registros}} docentes pertenecientes a {{n_carreras}} carreras durante el período {{periodo}}. Este análisis establece la relación entre los niveles de formación académica, los campos disciplinares y los requerimientos específicos de las carreras, a partir de la información verificable del diagnóstico. Las brechas se determinan mediante el contraste entre la formación académica registrada y las necesidades debidamente sustentadas, sin asumir que la ausencia de un título de mayor nivel constituye automáticamente una necesidad formativa. Los resultados permiten diferenciar las necesidades específicas de cada carrera de aquellas compartidas o transversales, proporcionando criterios técnicos para su posterior priorización institucional.",
+   "Para efectos del presente diagnóstico, el análisis de brechas de formación académica se organiza en dos categorías: formación específica y formación genérica. La primera comprende las necesidades vinculadas directamente con los campos disciplinares y profesionales de las carreras, mientras que la segunda considera las necesidades académicas de carácter transversal que pueden presentarse en diferentes áreas institucionales. Esta clasificación permite examinar los requerimientos de formación del claustro docente de acuerdo con las características de las {{n_carreras}} carreras participantes, estableciendo diferencias entre las necesidades particulares de cada programa académico y aquellas compartidas entre varias carreras. La identificación de estas brechas se fundamenta en la información verificable recopilada durante el período {{periodo}}, evitando considerar como necesidades detectadas aquellas que únicamente constituyen posibilidades generales de formación.",
+   "Las brechas de formación específica se relacionan con las diferencias identificadas entre la formación académica del personal docente y los requerimientos disciplinares de las carreras en las que desarrolla sus actividades. Por su parte, las brechas de formación genérica comprenden necesidades académicas transversales que pueden estar vinculadas con campos como educación superior, pedagogía, investigación, innovación educativa y gestión académica. En ambos casos, la determinación de una brecha requiere información verificable que permita establecer su existencia y pertinencia, considerando el perfil académico del docente y las necesidades institucionales documentadas durante el período evaluado. El análisis de brechas se limita a las necesidades de formación académica relacionadas con estudios formales de tercer y cuarto nivel, conducentes a la obtención de títulos reconocidos dentro del Sistema de Educación Superior. Tanto las necesidades específicas como las genéricas se examinan considerando el nivel académico alcanzado, la pertinencia disciplinar y los requerimientos institucionales documentados durante el período {{periodo}}. Las necesidades relacionadas con cursos, talleres, seminarios, certificaciones y otras actividades de actualización profesional corresponden al proceso institucional de capacitación y quedan excluidas del alcance del presente diagnóstico.",
+   "El análisis de brechas contrasta la formación académica de los docentes con los requerimientos de las carreras del ITSQMET, utilizando información verificable del período {{periodo}}."
+  ]
+ },
+ "brechas_esp": {
+  "titulo": "Brechas de Formación Específica",
+  "parrafos": [
+   "Las brechas de formación específica se analizan a partir de las diferencias verificables entre la formación académica de los docentes y los requerimientos disciplinares de cada carrera.",
+   "Para identificar las brechas, se analizan el nivel académico alcanzado, la pertinencia de los títulos y las necesidades de formación documentadas por carrera.",
+   "La pertinencia de la formación académica se determina por su relación con el campo disciplinar y las funciones del docente, sin exigir que el título tenga la misma denominación que la carrera.",
+   "Las brechas de formación específica deben sustentarse en evidencias del período evaluado y guardar correspondencia con las necesidades académicas de cada carrera. Elemento Carrera Formación académica actual Línea de formación específica Nivel requerido Brecha identificada Evidencia 7.2.",
+   "Información a registrar Carrera a la que pertenece el docente.",
+   "Nivel y campo de formación registrados.",
+   "Necesidad disciplinar identificada y sustentada.",
+   "Tercer o cuarto nivel, según la necesidad documentada.",
+   "Diferencia entre la formación registrada y la requerida.",
+   "Fuente documental del período evaluado que respalda la brecha."
+  ]
+ },
+ "brechas_gen": {
+  "titulo": "Brechas de Formación Genérica",
+  "parrafos": [
+   "Las brechas de formación genérica se identifican al contrastar la formación de los docentes con las necesidades académicas transversales documentadas.",
+   "Las brechas de formación genérica pueden relacionarse con educación, pedagogía, innovación e investigación, siempre que estén respaldadas por evidencias del diagnóstico. Las siguientes líneas genéricas constituyen referentes de análisis y requieren evidencia para considerarse necesidades de formación detectadas:",
+   "Línea genérica Educación Pedagogía Educación Superior Innovación Educativa Tecnología Educativa Investigación Gestión Educativa Campo académico de referencia Procesos educativos y formación docente.",
+   "Fundamentos y métodos pedagógicos.",
+   "Docencia en educación superior.",
+   "Innovación en procesos educativos.",
+   "Integración de tecnologías educativas.",
+   "Metodología y procesos de investigación.",
+   "Gestión y administración educativa.",
+   "Estas líneas no deberán incorporarse automáticamente al Plan. Su inclusión dependerá de que exista una necesidad identificada en el diagnóstico.",
+   "La cobertura de una línea genérica se determinará únicamente cuando dicha línea haya sido identificada como necesidad dentro del diagnóstico. La disponibilidad de programas en educación, pedagogía, investigación, innovación o gestión educativa constituye una posibilidad de atención y no implica que dicha formación sea necesaria para todo el claustro.",
+   "Dentro de las instituciones revisadas existe una cobertura importante para este tipo de formación.",
+   "FUNIBER contempla programas de maestría en educación y dispone del Doctorado en Educación dentro de su oferta asociada.",
+   "UIIX dispone de programas de maestría y doctorado y señala expresamente que su oferta vinculada con el convenio comprende campos como educación, tecnología e innovación.",
+   "UISRAEL contempla maestrías en educación relacionadas con TIC y pedagogía.",
+   "UNIR dispone de una oferta amplia de cuarto nivel que incluye el campo educativo, además de otras áreas académicas que podrían responder a necesidades genéricas identificadas en el claustro.",
+   "Esta diversidad convierte a la formación genérica en una línea potencialmente compartida entre diferentes coordinaciones académicas, lo que puede facilitar la conformación de grupos de docentes y la gestión institucional de convenios o beneficios colectivos."
+  ]
+ },
+ "cobertura": {
+  "titulo": "Cobertura por Universidad",
+  "parrafos": [
+   "La cobertura institucional debe analizarse también desde la perspectiva de cada universidad, identificando si su oferta puede atender formación específica, formación genérica o ambas.",
+   "Institución específica genérica Nivel o denominación según la documentación revisada Universidad Yacambú Sí, principalmente en áreas administrativas y gerenciales Potencialmente, según programas disponibles Maestría / Doctorado FUNIBER Sí, en múltiples áreas profesionales UEES Sí UIIX Sí, principalmente administración, tecnología y áreas relacionadas UISRAEL Sí UNIR Sí, con cobertura disciplinar amplia Sí, especialmente educación y áreas relacionadas Sí, sujeto a oferta disponible Sí, especialmente educación, tecnología e innovación Sí, particularmente educación y pedagogía Sí, especialmente educación y campos académicos relacionados Tercer nivel / Maestría / Doctorado Pregrado / Posgrado Maestría / Doctorado Maestría Profesionalización / Maestría Universidad Tercer nivel / Cuarto Bolivariana Sí Sí nivel del Ecuador Yacambú dispone, por ejemplo, de Doctorado en Gerencia y programas de maestría y especialización relacionados con administración financiera.",
+   "UEES pone a disposición programas de pregrado y posgrado y contempla mecanismos de becas y descuentos cuya aplicación específica debe definirse mediante los instrumentos correspondientes.",
+   "Esta matriz permitirá identificar qué instituciones presentan una cobertura más diversificada y cuáles pueden atender únicamente determinados campos."
+  ]
+ },
+ "orientaciones": {
+  "titulo": "Orientaciones y Alternativas",
+  "parrafos": [
+   "FORMACIÓN ACADÉMICA La Detección de Necesidades de Formación no tiene como propósito restringir al personal docente a una universidad, programa o convenio determinado. Su función es identificar los campos en los que resulta pertinente fortalecer la formación académica y proporcionar orientaciones que faciliten la selección posterior de alternativas de estudio. En este marco, el docente podrá acceder a programas académicos mediante las oportunidades gestionadas por la institución o seleccionar, por iniciativa propia, programas ofertados por otras instituciones de educación superior nacionales o internacionales. Los convenios institucionales representan una alternativa preferencial debido a los beneficios adicionales que pueden incorporar, tales como becas, descuentos, facilidades económicas, acompañamiento en los procesos de admisión o condiciones especiales de acceso. Sin embargo, la existencia de un convenio no constituye un requisito para que una formación pueda ser considerada pertinente dentro del proceso institucional. La formación seleccionada directamente por el docente podrá ser considerada siempre que corresponda a un programa académico formal, mantenga relación con una necesidad de formación genérica o específica, sea coherente con la trayectoria académica del profesor y cumpla con las condiciones necesarias para el reconocimiento del título cuando corresponda.",
+   "La institución dispone actualmente de diferentes mecanismos de apoyo. FUNIBER contempla becas parciales que, según la documentación del convenio, pueden alcanzar entre el 65 % y el 80 % dependiendo del programa; UISRAEL contempla beneficios para programas de maestría; UNIR establece descuentos para la comunidad institucional; UEES contempla becas o descuentos sujetos a condiciones específicas; y UIIX mantiene condiciones preferenciales para el acceso del personal a programas de cuarto nivel. Por tanto, la política de formación debe combinar orientación institucional, aprovechamiento de convenios y libertad de elección académica."
+  ]
+ },
+ "criterios_sel": {
+  "titulo": "Criterios para la selección",
+  "parrafos": [
+   "Independientemente de que el programa sea seleccionado mediante un convenio institucional o directamente por el docente, su pertinencia deberá analizarse considerando los siguientes aspectos:",
+   "• nivel académico actual del docente;",
+   "• nivel académico que se pretende alcanzar;",
+   "• correspondencia con una línea de formación genérica o específica;",
+   "• relación con la carrera o carreras en las que desarrolla actividades;",
+   "• campo de conocimiento de la formación propuesta;",
+   "• pertinencia respecto de la trayectoria profesional del docente;",
+   "• reconocimiento y validez de la institución y del programa;",
+   "• posibilidad de reconocimiento o registro del título en Ecuador, cuando corresponda; • modalidad de estudios;",
+   "• compatibilidad con las responsabilidades académicas;",
+   "• condiciones económicas;",
+   "• existencia de becas, descuentos o mecanismos de financiamiento;",
+   "• posibilidades de aplicación de la formación en docencia, investigación o vinculación. La valoración de estos elementos permitirá que la elección del programa responda a una decisión académicamente fundamentada y no únicamente a disponibilidad, costo o preferencia personal.",
+   "Las recomendaciones que se presentan a continuación constituyen campos académicos orientativos. No representan programas obligatorios ni limitan al docente a las universidades señaladas en la cobertura institucional."
+  ]
+ },
+ "modalidades": {
+  "titulo": "Modalidades de Acceso",
+  "parrafos": [
+   "FORMACIÓN Las recomendaciones anteriores podrán materializarse mediante dos vías.",
+   "Formación mediante convenios institucionales El docente podrá revisar primero las opciones existentes dentro de las universidades con las que la institución mantiene mecanismos de cooperación.",
+   "Esta vía resulta particularmente favorable cuando la oferta existente coincide con la necesidad identificada, debido a que puede proporcionar beneficios adicionales. Entre dichos beneficios pueden encontrarse:",
+   "• condiciones económicas preferenciales;",
+   "• acompañamiento institucional;",
+   "• orientación en el proceso de matrícula;",
+   "• facilidades de financiamiento;",
+   "• acceso a modalidades virtuales;",
+   "• mecanismos de seguimiento.",
+   "Por ejemplo, el convenio con FUNIBER contempla becas parciales dependiendo del nivel y programa. UNIR contempla descuentos de hasta el 60 % para miembros de la comunidad institucional dentro de las condiciones señaladas en la documentación del convenio. UISRAEL contempla becas parciales en programas de maestría.",
+   "Formación seleccionada por el docente El docente no estará obligado a seleccionar una universidad incluida dentro de los convenios institucionales.",
+   "Podrá investigar y proponer otra institución nacional o internacional cuando: • encuentre un programa que responda mejor a su campo profesional;",
+   "• exista una especialidad que no se encuentre cubierta por los convenios;",
+   "• la modalidad resulte más compatible con sus responsabilidades;",
+   "• las condiciones económicas resulten más favorables;",
+   "• exista una universidad de mayor pertinencia para su área;",
+   "• busque una especialización académica no disponible dentro de la cobertura institucional.",
+   "En estos casos, la formación podrá incorporarse al proceso siempre que cumpla los criterios académicos correspondientes.",
+   "Esto resulta particularmente relevante para campos en los que la cobertura actual es limitada. Por ejemplo, en áreas como Estética Integral o Mecánica Automotriz puede ser necesario ampliar la búsqueda hacia universidades especializadas que no formen parte actualmente de los convenios institucionales.",
+   "La ausencia de un convenio no deberá interpretarse como falta de validez de una formación."
+  ]
+ },
+ "eleccion": {
+  "titulo": "Orientación para la Elección",
+  "parrafos": [
+   "Para facilitar la elección, se recomienda que el docente siga la siguiente secuencia:",
+   "1. Identificar si su necesidad corresponde a formación específica o genérica.",
+   "2. Determinar el nivel académico que corresponde según su formación actual.",
+   "3. Revisar las líneas recomendadas para su carrera.",
+   "4. Consultar inicialmente las opciones disponibles mediante convenios institucionales.",
+   "5. Comparar modalidad, duración, requisitos y costo.",
+   "6. Si las opciones institucionales no responden adecuadamente a su necesidad, ampliar la búsqueda a otras universidades.",
+   "7. Verificar el reconocimiento y pertinencia del programa.",
+   "8. Presentar la alternativa seleccionada para su revisión institucional cuando corresponda.",
+   "9. Formalizar el proceso e incorporar la formación al seguimiento institucional.",
+   "La institución podrá orientar al docente durante este proceso, pero la responsabilidad de seleccionar una alternativa académica pertinente deberá ser compartida entre el profesor y las unidades responsables del proceso de formación."
+  ]
+ },
+ "criterios_rec": {
+  "titulo": "Criterios de recomendación",
+  "parrafos": [
+   "La institución podrá recomendar programas y universidades, pero dicha recomendación no deberá interpretarse como una obligación de matrícula.",
+   "La recomendación institucional podrá sustentarse en:",
+   "Criterio Pertinencia Nivel académico Calidad y reconocimiento Modalidad Costo Beneficios institucionales Duración Aplicabilidad Continuidad Consideración Relación con la necesidad genérica o específica Correspondencia con la trayectoria del profesor Condición académica de la universidad y del programa Compatibilidad con la actividad docente Viabilidad económica Becas, descuentos o convenios Factibilidad dentro de la planificación Posibilidad de trasladar los conocimientos al ejercicio académico Posibilidad de avanzar posteriormente hacia niveles superiores Cuando dos programas presenten niveles similares de pertinencia, podrá recomendarse preferentemente aquel que ofrezca mejores condiciones institucionales o económicas, sin limitar la libertad de elección del docente."
+  ]
+ },
+ "resultado_esperado": {
+  "titulo": "Resultado Esperado",
+  "parrafos": [
+   "El objetivo de este apartado es que el docente y las unidades responsables dispongan de una ruta orientativa para relacionar la necesidad de formación con el tipo de formación, el nivel académico requerido y las alternativas disponibles.",
+   "La secuencia orientativa puede resumirse en tres preguntas: qué necesita fortalecer → qué tipo y nivel de formación resultan pertinentes → dónde pueden encontrarse alternativas académicas.",
+   "Esta ruta evita restringir el proceso a una lista institucional de universidades y mantiene la pertinencia académica como criterio principal de decisión.",
+   "La lógica final sería:",
+   "Necesidad del docente → formación específica o genérica → línea recomendada → nivel académico correspondiente → búsqueda de programas → revisión de convenios institucionales → comparación con otras alternativas disponibles → selección del programa → validación de pertinencia → incorporación al proceso institucional de formación."
+  ]
+ },
+ "conclusiones": {
+  "titulo": "Conclusiones",
+  "parrafos": [
+   "La Detección de Necesidades de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, integra el análisis de {{n_registros}} registros distribuidos entre {{n_carreras}} carreras de la oferta académica institucional. El diagnóstico permite organizar la información cuantitativa, examinar los campos disciplinares y establecer criterios para identificar necesidades de formación académica formal, considerando la pertinencia y el respaldo documental de la información utilizada.",
+   "A partir del análisis desarrollado, se establecen las siguientes conclusiones: N.° Conclusión El diagnóstico comprende una matriz cuantitativa de {{n_registros}} registros distribuidos entre {{n_carreras}} carreras del ITSQMET, correspondiente al período {{periodo}}. Esta información permite caracterizar la distribución por carrera y establecer una base organizada para el análisis académico institucional.",
+   "La distribución cuantitativa permite identificar la participación de cada carrera dentro de los registros analizados. Sin embargo, la determinación de necesidades de formación requiere información adicional sobre los títulos académicos, perfiles profesionales, funciones docentes y requerimientos disciplinares, evitando atribuir necesidades individuales únicamente a partir de las frecuencias registradas. La pertinencia de las necesidades de formación académica se establece mediante la correspondencia entre la trayectoria profesional del docente, su campo de conocimiento, las actividades académicas desarrolladas y los requerimientos institucionales. Esta relación permite diferenciar los intereses individuales de las necesidades formativas sustentadas mediante evidencias verificables.",
+   "La Detección de Necesidades de Formación Docente comprende exclusivamente programas académicos formales conducentes a títulos de tercer y cuarto nivel. Los cursos, talleres, seminarios, certificaciones y demás actividades de actualización profesional pertenecen al proceso institucional de capacitación docente y no forman parte del alcance de este diagnóstico.",
+   "Las necesidades y líneas de formación se organizan en específicas, compartidas y genéricas o transversales, considerando los campos disciplinares de las carreras y los objetivos de fortalecimiento académico institucional. Su priorización debe fundamentarse en criterios de pertinencia, necesidades documentadas y condiciones de acceso a programas académicos reconocidos.",
+   "Las orientaciones de formación académica establecidas para las carreras constituyen criterios institucionales para identificar oportunidades de desarrollo profesional. Su inclusión en el diagnóstico no representa una obligación individual de matrícula ni acredita automáticamente necesidades específicas; estas deben sustentarse en la documentación académica y los procedimientos de validación correspondientes. Los resultados de la Detección de Necesidades de Formación Docente constituyen el sustento técnico para la elaboración del Plan de Formación Docente institucional. La articulación entre ambos instrumentos permite relacionar las necesidades académicas identificadas con la selección de programas pertinentes, la planificación de acciones, el seguimiento de los beneficiarios y la evaluación documental de los resultados.",
+   "En conclusión, el diagnóstico establece una estructura institucional para organizar e identificar necesidades de formación académica del personal docente, diferenciando la caracterización cuantitativa, la pertinencia de las orientaciones formativas y las necesidades sustentadas documentalmente.",
+   "La información obtenida permite orientar la planificación académica y contribuir al fortalecimiento del perfil profesional del claustro docente, mediante una secuencia que comprende la identificación de necesidades, su validación, el análisis de alternativas académicas y la incorporación de acciones al Plan de Formación Docente conforme a los procedimientos institucionales."
+  ]
+ },
+ "rec_inst": {
+  "titulo": "Recomendaciones institucionales",
+  "parrafos": [
+   "N.° Recomendación Finalidad Utilizar la presente Detección de Necesidades como insumo obligatorio para Garantizar trazabilidad entre la elaboración y actualización del Plan de diagnóstico y planificación.",
+   "Evitar que cursos o Mantener separados los procesos certificaciones sean documentales de formación y capacitación. registrados como formación académica.",
+   "Clasificar las solicitudes docentes como Facilitar el análisis de formación específica o genérica antes de pertinencia. evaluar el programa seleccionado.",
+   "Verificar la correspondencia entre la formación propuesta, la trayectoria Mejorar la afinidad y académica del docente y la carrera en la pertinencia del perfil docente. que desarrolla actividades.",
+   "Priorizar necesidades que respondan a Orientar los recursos hacia brechas académicas claramente necesidades de mayor identificadas. impacto.",
+   "Mantener información vigente Actualizar periódicamente la oferta sobre programas, becas, disponible mediante convenios. modalidades y requisitos.",
+   "Ampliar los convenios en áreas donde la Incrementar las posibilidades cobertura actual resulte limitada. de formación específica.",
+   "Ampliar las alternativas más Permitir y orientar la búsqueda autónoma de allá de los convenios programas por parte del docente. institucionales.",
+   "Verificar previamente reconocimiento, pertinencia y condiciones académicas de Reducir riesgos académicos y los programas externos propuestos por los administrativos. docentes.",
+   "Implementar mecanismos de seguimiento Conocer avance, continuidad 10 para los docentes que se encuentren y culminación de los procesos cursando estudios. formativos."
+  ]
+ },
+ "rec_esp": {
+  "titulo": "Recomendaciones para la Formación Específica",
+  "parrafos": [
+   "La formación específica deberá orientarse hacia programas relacionados directamente con la carrera o con campos disciplinares afines.",
+   "Se recomienda:",
+   "• mantener actualizadas las líneas específicas de formación de cada carrera;",
+   "• revisar periódicamente la evolución profesional y tecnológica de cada campo; • evitar seleccionar programas únicamente por denominación, verificando también contenidos, resultados de aprendizaje y pertinencia;",
+   "• identificar carreras que compartan áreas de formación para facilitar acciones conjuntas;",
+   "• buscar nuevas universidades cuando los convenios existentes no cubran adecuadamente un campo disciplinar;",
+   "• analizar de manera individual los casos en los que el docente ya posea un título de cuarto nivel para determinar si realmente corresponde proyectarlo hacia doctorado."
+  ]
+ },
+ "rec_gen": {
+  "titulo": "Recomendaciones para la Formación Genérica",
+  "parrafos": [
+   "La formación genérica deberá utilizarse como mecanismo transversal para fortalecer el ejercicio académico del personal docente.",
+   "Se recomienda considerar prioritariamente, cuando exista necesidad identificada, programas vinculados con:",
+   "Línea genérica Educación Superior Pedagogía Investigación Innovación Educativa Tecnología Educativa Orientación Fortalecimiento de la docencia en educación superior Procesos de enseñanza y aprendizaje Desarrollo de investigación y producción académica Incorporación de nuevos enfoques educativos Integración de tecnologías en procesos formativos Currículo y Evaluación Gestión Educativa Formación Técnica y Tecnológica Diseño curricular y evaluación académica Coordinación y dirección de procesos académicos Fortalecimiento de la docencia en el contexto de institutos superiores Estas líneas deberán mantenerse como orientaciones y no como obligaciones generales para todo el claustro."
+  ]
+ },
+ "rec_acc": {
+  "titulo": "Recomendaciones para el Acceso",
+  "parrafos": [
+   "Se recomienda mantener dos mecanismos complementarios:",
+   "1. acceso mediante universidades con convenio institucional;",
+   "2. selección autónoma de programas por parte del docente.",
+   "En el primer caso deberán aprovecharse los beneficios institucionales disponibles. En el segundo, la institución deberá acompañar la revisión de pertinencia y reconocimiento del programa seleccionado.",
+   "La decisión final deberá privilegiar la correspondencia académica sobre la existencia de un convenio. Un programa externo que responda de manera más adecuada a una necesidad específica puede constituir una alternativa válida siempre que cumpla los criterios institucionales."
+  ]
+ },
+ "referencias": {
+  "titulo": "Referencias",
+  "parrafos": [
+   "• Consejo de Aseguramiento de la Calidad de la Educación Superior. (2024). Modelo de evaluación externa 2024 con fines de acreditación para los institutos superiores técnicos y tecnológicos. CACES.",
+   "• Consejo de Educación Superior. (2024). Reglamento de Carrera y Escalafón del Personal Académico del Sistema de Educación Superior. CES.",
+   "• Constitución de la República del Ecuador. (2008). Registro Oficial No. 449, 20 de octubre de 2008.",
+   "• {{institucion}}. (2023). Reglamento de Formación y Capacitación de los Profesores (Código CAF-REG-20, versión 1.0) [Reglamento institucional].",
+   "• {{institucion}}. (2024). Detección de necesidades de formación: {{periodo}} (Código UGPA-RGI102-PRO-31-2024-10, versión 1.0) [Documento institucional]. • {{institucion}}. (s. f.). Manual de procesos de la Unidad de Gestión de Procesos Académicos (UGPA) [Manual institucional].",
+   "• {{institucion}}. (s. f.). Plan Estratégico de Desarrollo Institucional (PEDI) 2022–2027.",
+   "• {{institucion}}. (s. f.). Plan de formación docente: {{periodo}} [Documento institucional].",
+   "{{institucion}}. (s. f.). Plan Operativo Anual de la Unidad de Gestión de Procesos Académicos (POA-UGPA) [Documento institucional].",
+   "• Ley Orgánica de Educación Superior. (2010). Registro Oficial Suplemento No. 298, 12 de octubre de 2010, con sus reformas.",
+   "• Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (1997, 11 de noviembre). Recomendación relativa a la condición del personal docente de la enseñanza superior. UNESCO.",
+   "• Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2026, 5 de junio). UNESCO revises landmark 1966 and 1997 Recommendations on the Status of Teaching Personnel. UNESCO."
+  ]
+ }
+}
