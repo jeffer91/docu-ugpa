@@ -1,0 +1,357 @@
+{
+ "intro": {
+  "titulo": "Introducción",
+  "parrafos": [
+   "La formación académica del personal docente constituye un componente fundamental para el fortalecimiento de la calidad de la educación superior, debido a que contribuye al desarrollo de perfiles profesionales y académicos acordes con las características de las carreras, las funciones sustantivas y los objetivos institucionales. En este contexto, el {{institucion}} (ITSQMET) establece mecanismos de promoción, orientación y seguimiento destinados a favorecer el acceso del profesorado a programas académicos de tercer y cuarto nivel.",
+   "El presente Plan de Formación Docente, correspondiente al período {{periodo}}, constituye el instrumento institucional para organizar campañas de promoción y difusión de oportunidades de formación académica formal, considerando los resultados de la Detección de Necesidades de Formación Docente y las prioridades de fortalecimiento académico de la institución.",
+   "La Detección de Necesidades de Formación Docente incorpora una matriz cuantitativa de {{n_registros}} registros distribuidos entre {{n_carreras}} carreras de la oferta institucional. Esta información permite organizar las líneas académicas de formación y orientar las campañas hacia los campos disciplinares correspondientes. La identificación de necesidades individuales exige, adicionalmente, información verificable sobre los perfiles profesionales, las funciones docentes y los requerimientos de cada carrera.",
+   "El Plan comprende la promoción de programas conducentes a títulos académicos de tercer y cuarto nivel, principalmente ingenierías, maestrías y doctorados. Los cursos, talleres, seminarios, certificaciones y otras actividades de actualización profesional de corta duración corresponden al proceso institucional de capacitación docente y no forman parte de su alcance. Las campañas institucionales se organizan mediante líneas de formación específica, compartida y genérica. Las primeras responden a campos disciplinares de las carreras, mientras que las compartidas y genéricas abarcan necesidades académicas relacionadas con educación superior, pedagogía, investigación, innovación, tecnología educativa y gestión académica. La planificación contempla la difusión de oportunidades ofrecidas por instituciones de educación superior nacionales e internacionales, mediante convenios universitarios y alternativas externas. La información sobre programas, becas, descuentos, financiamiento y otros beneficios debe sustentarse en las condiciones documentadas de cada institución y en la vigencia de los mecanismos de cooperación correspondientes.",
+   "La participación del personal docente en programas de formación académica es voluntaria. Cada profesor puede seleccionar alternativas acordes con su trayectoria profesional, necesidades de desarrollo y condiciones de acceso. La institución orienta esta elección mediante criterios de pertinencia académica, reconocimiento del programa y correspondencia con las funciones docentes, sin establecer obligaciones generales de matrícula ni compromisos automáticos de financiamiento.",
+   "La planificación institucional comprende la definición de campañas, actividades informativas, responsables, cronogramas, medios de difusión y mecanismos de registro. El seguimiento permite documentar las acciones desarrolladas, la participación del personal docente y las evidencias de los procesos académicos identificados, diferenciando las actividades promovidas institucionalmente de las decisiones individuales de continuidad de estudios. Como resultado del seguimiento documental correspondiente al período evaluado, el Informe de Cumplimiento identifica {{n_formacion_letras}} docentes vinculados a procesos de formación académica formal: once con estudios en desarrollo y dos en procesos de titulación o formalización del título. Estos registros constituyen información para la evaluación y trazabilidad de la formación docente, sin demostrar automáticamente que las matrículas se originaron en las campañas institucionales.",
+   "La articulación entre la Detección de Necesidades, el Plan de Formación Docente y el Informe de Cumplimiento permite relacionar la identificación de necesidades académicas, la planificación de oportunidades formativas y la evaluación documental de los resultados. Esta relación contribuye a mantener la coherencia institucional y a distinguir las acciones planificadas de aquellas efectivamente ejecutadas y respaldadas.",
+   "En consecuencia, el proceso institucional se estructura mediante la siguiente secuencia: Detección de necesidades → Planificación de campañas → Difusión y orientación → Participación docente → Seguimiento académico → Evaluación de resultados.",
+   "De esta manera, el Plan de Formación Docente constituye un instrumento de gestión académica orientado al fortalecimiento del perfil profesional del profesorado del ITSQMET, mediante acciones organizadas, criterios de pertinencia y mecanismos de seguimiento y evaluación sustentados en información documental."
+  ]
+ },
+ "antecedentes": {
+  "titulo": "Antecedentes y Articulación",
+  "parrafos": [
+   "El Plan de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, se fundamenta en la Detección de Necesidades de Formación Docente del mismo período. Esta articulación permite relacionar las características académicas del personal docente con las oportunidades de formación formal de tercer y cuarto nivel, mediante acciones institucionales de promoción, difusión, orientación y seguimiento.",
+   "La Detección incorpora una matriz cuantitativa de {{n_registros}} registros distribuidos entre {{n_carreras}} carreras y establece líneas de formación específica, compartida y genérica. El Plan utiliza esta información para orientar las campañas institucionales, considerando los criterios de pertinencia académica y la documentación disponible."
+  ]
+ },
+ "relacion": {
+  "titulo": "Relación entre la Detección",
+  "parrafos": [
+   "La Detección de Necesidades de Formación Docente constituye el instrumento de diagnóstico académico que sustenta la planificación de oportunidades formativas. El Plan de Formación Docente organiza las acciones institucionales destinadas a promover el acceso del profesorado a programas académicos pertinentes.",
+   "La relación entre los instrumentos se establece mediante las siguientes etapas: Etapa Detección de necesidades Análisis de pertinencia Priorización Plan de Formación Ejecución y seguimiento Informe de Cumplimiento Función institucional Caracterizar la información académica e identificar necesidades de formación sustentadas.",
+   "Relacionar las necesidades con las carreras, los perfiles profesionales y las funciones docentes.",
+   "Organizar las líneas de formación según su pertinencia y respaldo documental.",
+   "Establecer campañas, actividades de difusión, orientación, responsables y mecanismos de seguimiento.",
+   "Documentar las actividades desarrolladas, la participación docente y los procesos académicos identificados.",
+   "Evaluar las acciones ejecutadas y los resultados acreditados mediante evidencias.",
+   "La articulación permite mantener una secuencia institucional entre diagnóstico, planificación, ejecución y evaluación, diferenciando las necesidades identificadas de las acciones efectivamente desarrolladas.",
+   "La incorporación de una línea de formación al Plan no implica automáticamente que exista un docente matriculado ni que se haya ejecutado una campaña. Estos resultados requieren registros específicos que permitan comprobar su realización."
+  ]
+ },
+ "traslado": {
+  "titulo": "Información que se traslada",
+  "parrafos": [
+   "La Detección proporciona información para establecer las líneas académicas, los grupos destinatarios y los criterios de pertinencia de las campañas institucionales. La información incorporada al Plan se organiza de la siguiente manera:",
+   "Información de la Detección Distribución de registros por carrera Necesidades de formación sustentadas Carreras y campos disciplinares Líneas de formación específica Líneas compartidas y genéricas Nivel de formación Prioridades académicas Fuentes documentales Aplicación en el Plan Contextualizar la organización de las campañas institucionales.",
+   "Establecer acciones vinculadas con requerimientos académicos identificados.",
+   "Identificar los grupos docentes destinatarios.",
+   "Orientar la difusión de programas relacionados con las áreas profesionales.",
+   "Organizar oportunidades académicas aplicables a varias carreras.",
+   "Diferenciar programas de tercer nivel, maestría y doctorado.",
+   "Orientar la programación de actividades institucionales.",
+   "Sustentar la pertinencia y mantener la trazabilidad de la información.",
+   "La información trasladada debe mantener correspondencia con los resultados del diagnóstico, sin convertir las orientaciones generales en necesidades individuales confirmadas. La selección de programas académicos considera su reconocimiento, modalidad, duración, pertinencia y condiciones de acceso. La existencia de convenios o beneficios institucionales facilita la identificación de oportunidades, pero no sustituye la validación académica correspondiente."
+  ]
+ },
+ "trazabilidad": {
+  "titulo": "Trazabilidad y Límites",
+  "parrafos": [
+   "La Detección de Necesidades de Formación Docente incorpora {{n_registros}} registros distribuidos entre {{n_carreras}} carreras del ITSQMET. Esta matriz permite contextualizar la planificación académica y organizar las líneas de formación por campo disciplinar.",
+   "Los registros cuantitativos no deben interpretarse automáticamente como el número total de docentes de la institución, la cantidad de necesidades individuales identificadas ni el número de beneficiarios de las campañas. La determinación de estos indicadores requiere información nominal y documental que permita establecer el universo correspondiente.",
+   "Las líneas de formación específica, compartida y genérica orientan las oportunidades académicas promovidas institucionalmente. Su aplicación debe conservar correspondencia con la formación previa del docente, sus funciones académicas y los requerimientos de la carrera, sin establecer obligaciones generales de matrícula.",
+   "La ejecución del Plan se acredita mediante documentación de las campañas realizadas, actividades de orientación, medios de difusión, responsables, participación registrada y resultados obtenidos. La existencia de una planificación no constituye por sí misma evidencia de su cumplimiento.",
+   "El Informe de Cumplimiento correspondiente al período evaluado identifica {{n_formacion_letras}} docentes vinculados a procesos académicos formales: once con estudios en desarrollo y dos en procesos de titulación o formalización del título. Esta información permite establecer un grupo documentado para el seguimiento institucional, sin atribuir automáticamente su participación a las campañas del Plan.",
+   "La vinculación de estos docentes con las acciones institucionales debe establecerse mediante evidencias específicas, diferenciando los procesos promovidos por la institución de aquellos iniciados por decisión individual.",
+   "La actualización documental efectuada en {{corte}} permite relacionar los resultados del seguimiento con la planificación del período, sin modificar retrospectivamente las fechas de ejecución ni considerar como realizadas actividades que no cuenten con respaldo verificable.",
+   "De esta manera, la trazabilidad institucional se establece mediante la correspondencia entre las necesidades documentadas, las acciones planificadas, las evidencias de ejecución y los resultados consignados en el Informe de Cumplimiento."
+  ]
+ },
+ "sustento": {
+  "titulo": "Sustento Normativo",
+  "parrafos": [
+   "El Plan se articula con los instrumentos normativos y de planificación que orientan el desarrollo académico del personal docente. Para evitar duplicar la Base Legal desarrollada en la Detección, esta sección resume únicamente los elementos que tienen incidencia directa en la planificación y seguimiento de la formación."
+  ]
+ },
+ "reglamento": {
+  "titulo": "Reglamento de Formación",
+  "parrafos": [
+   "El Reglamento de Formación y Capacitación de los Profesores establece la necesidad de mantener correspondencia entre la formación académica, el perfil profesional del docente, las áreas de conocimiento en las que desarrolla sus actividades y las necesidades de las carreras. Esta relación constituye el criterio central para incorporar una acción al Plan."
+  ]
+ },
+ "pedi": {
+  "titulo": "PEDI, POA",
+  "parrafos": [
+   "El Plan Estratégico de Desarrollo Institucional y el Plan Operativo Anual de la UGPA permiten vincular la formación docente con los objetivos institucionales de fortalecimiento del talento humano y mejora continua. El Plan deberá conservar evidencias que permitan demostrar la relación entre planificación, ejecución y seguimiento."
+  ]
+ },
+ "manual": {
+  "titulo": "Manual de Procesos",
+  "parrafos": [
+   "El Manual de Procesos de la UGPA estructura la secuencia de trabajo entre detección de necesidades, planificación de la formación y seguimiento. Por ello, el Plan recibe la información validada del diagnóstico, la convierte en acciones programadas y genera los registros que posteriormente alimentarán el informe de resultados."
+  ]
+ },
+ "objetivo_general": {
+  "titulo": "Objetivo General",
+  "parrafos": [
+   "Planificar y organizar campañas institucionales de promoción y difusión de oportunidades de formación académica formal para el personal docente del {{institucion}} (ITSQMET), durante el período {{periodo}}, considerando las necesidades identificadas en el diagnóstico institucional, los programas de tercer y cuarto nivel, los convenios universitarios y los mecanismos de apoyo disponibles, con el propósito de fomentar el desarrollo académico y profesional del claustro docente."
+  ]
+ },
+ "objetivos_especificos": {
+  "titulo": "Objetivos Específicos",
+  "parrafos": [
+   "• Establecer campañas de formación académica orientadas a las necesidades específicas y transversales identificadas en las diferentes carreras de la institución.",
+   "• Promover oportunidades de formación de tercer y cuarto nivel mediante la difusión de programas de ingeniería, maestría y doctorado.",
+   "• Socializar los convenios universitarios, becas, descuentos y demás beneficios disponibles para facilitar el acceso del personal docente a programas académicos.",
+   "• Organizar actividades informativas y de orientación que permitan a los docentes conocer las alternativas de formación acordes con sus perfiles profesionales.",
+   "• Definir un cronograma de campañas institucionales, estableciendo actividades, responsables, medios de difusión y evidencias de ejecución.",
+   "• Implementar mecanismos de seguimiento que permitan registrar las campañas desarrolladas, la participación docente y los procesos de formación académica identificados.",
+   "• Evaluar el cumplimiento de las campañas mediante indicadores verificables de ejecución, cobertura, participación y resultados, que contribuyan a la mejora continua de la planificación institucional."
+  ]
+ },
+ "alcance": {
+  "titulo": "Alcance",
+  "parrafos": [
+   "El Plan de Formación Docente comprende la planificación y organización de campañas institucionales de promoción, difusión y orientación sobre programas académicos formales conducentes a títulos de tercer nivel, maestría o doctorado. Estas campañas se dirigirán al personal docente del {{institucion}} (ITSQMET), considerando las necesidades identificadas en la Detección de Necesidades de Formación Docente del período {{periodo}}.",
+   "Las campañas podrán abordar líneas de formación específica, compartida o transversal, mediante la difusión de programas ofrecidos por instituciones de educación superior nacionales e internacionales, con o sin convenio institucional. Su alcance comprende la socialización de oportunidades académicas, requisitos de acceso, becas, descuentos y otros beneficios disponibles, así como el registro y seguimiento de las actividades desarrolladas.",
+   "La participación en las campañas y la decisión de incorporarse a un programa académico serán voluntarias, sin que la difusión de oportunidades implique una obligación de matrícula o un compromiso de financiamiento institucional."
+  ]
+ },
+ "criterios": {
+  "titulo": "Criterios de Incorporación",
+  "parrafos": [
+   "Una campaña de formación académica podrá incorporarse al Plan cuando cumpla, como mínimo, las siguientes condiciones:",
+   "Criterio Condición mínima Responder a necesidades o líneas de formación identificadas en Necesidad la Detección institucional.",
+   "Guardar relación con las carreras, campos disciplinares o Pertinencia funciones académicas del personal docente.",
+   "Promocionar oportunidades de tercer nivel, maestría o Nivel académico doctorado.",
+   "Corresponder a programas académicos formales conducentes a Programa titulación.",
+   "Contar con reconocimiento académico y condiciones de acceso Institución verificables.",
+   "Considerar disponibilidad de programas, convenios, beneficios, Viabilidad medios de difusión y cronograma.",
+   "Población Identificar las carreras o grupos docentes a los que se dirigirá la destinataria campaña, sin exigir beneficiarios matriculados previamente.",
+   "Cada campaña deberá contar con una actividad definida, responsable asignado y mecanismo de registro que permita verificar su ejecución y resultados."
+  ]
+ },
+ "exclusiones": {
+  "titulo": "Exclusiones",
+  "parrafos": [
+   "• Cursos de corta duración, talleres, seminarios y certificaciones de actualización. • Programas seleccionados únicamente por disponibilidad, costo o existencia de convenio sin una necesidad previamente validada.",
+   "• Formaciones que no guarden correspondencia con la trayectoria, carrera o función académica del docente.",
+   "• Registros estimados o referenciales utilizados como si fueran necesidades individuales confirmadas.",
+   "• Actividades cuya ejecución no pueda demostrarse mediante evidencia documental."
+  ]
+ },
+ "modelo": {
+  "titulo": "Modelo de Planificación",
+  "parrafos": []
+ },
+ "ruta": {
+  "titulo": "Ruta de planificación",
+  "parrafos": [
+   "La gestión de cada acción de formación seguirá la siguiente secuencia institucional: Fase Actividad 1.",
+   "Validación Confirmar necesidad, carrera, nivel y evidencia.",
+   "Resultado esperado Necesidad validada.",
+   "Priorización Asignar prioridad alta, media o proyectada.",
+   "Orden de atención definido.",
+   "Búsqueda de alternativas Revisar convenios y programas externos.",
+   "Opciones académicas disponibles.",
+   "Revisión de pertinencia Verificar nivel, reconocimiento, modalidad, duración y costo.",
+   "Alternativa técnicamente viable.",
+   "Formalización Registrar beneficiario, programa y condiciones de acceso.",
+   "Acción incorporada al Plan.",
+   "Incorporar evidencia de matrícula cuando se Matrícula concrete.",
+   "Registrar permanencia, avance y novedades.",
+   "Historial de seguimiento.",
+   "Registrar culminación, suspensión o cierre y evidencia final."
+  ]
+ },
+ "estados": {
+  "titulo": "Estados de una acción",
+  "parrafos": [
+   "Estado Definición Pendiente de validación Existe un interés o referencia, pero aún no cuenta con evidencia suficiente. Validada La necesidad cuenta con sustento y pertinencia académica.",
+   "Alternativa en revisión Se están comparando programas, instituciones y condiciones.",
+   "Aprobada para planificación La alternativa cumple los criterios técnicos y puede formalizarse.",
+   "Matriculada Existe evidencia de matrícula o admisión formal.",
+   "En ejecución El docente se encuentra cursando el programa.",
+   "Aplazada / suspendida La acción no continúa temporalmente y requiere registrar la causa.",
+   "Finalizada Existe evidencia de culminación o cierre del programa."
+  ]
+ },
+ "lineas": {
+  "titulo": "Líneas y Prioridades",
+  "parrafos": [
+   "Las siguientes tablas reproducen las orientaciones académicas consolidadas en la Detección. Su incorporación en esta sección facilita la planificación, pero no convierte dichas orientaciones en necesidades individuales confirmadas. Cada línea deberá activarse únicamente cuando exista evidencia suficiente."
+  ]
+ },
+ "activacion": {
+  "titulo": "Activación de una línea",
+  "parrafos": [
+   "Una línea específica o genérica se considera activa dentro del Plan únicamente cuando se encuentre vinculada con una necesidad validada, un nivel académico requerido y un beneficiario",
+   "o población objetivo debidamente sustentados. Si falta cualquiera de estos elementos, la línea permanecerá como orientación y no como acción programada."
+  ]
+ },
+ "seleccion": {
+  "titulo": "Selección de Programas",
+  "parrafos": []
+ },
+ "criterios_sel": {
+  "titulo": "Criterios de selección",
+  "parrafos": [
+   "La elección de un programa deberá privilegiar la pertinencia académica sobre la existencia de un convenio. Los criterios de revisión son los siguientes:",
+   "Criterio Consideración Pertinencia Relación con la necesidad genérica o específica Nivel académico Correspondencia con la trayectoria del profesor Calidad y reconocimiento Condición académica de la universidad y del programa Modalidad Compatibilidad con la actividad docente Costo Viabilidad económica Beneficios institucionales 8.2.",
+   "Becas, descuentos o convenios Duración Factibilidad dentro de la planificación Aplicabilidad Posibilidad de trasladar los conocimientos al ejercicio académico Continuidad Posibilidad de avanzar posteriormente hacia niveles superiores"
+  ]
+ },
+ "convenios": {
+  "titulo": "Convenios",
+  "parrafos": [
+   "El docente podrá acceder a una alternativa mediante convenio institucional o proponer una institución externa. En ambos casos deberán aplicarse los mismos criterios de pertinencia, reconocimiento, nivel académico, modalidad, duración y viabilidad económica. La ausencia de convenio no invalida una alternativa pertinente; de igual manera, la existencia de convenio no obliga a seleccionar un programa que no responda adecuadamente a la necesidad. Cuando existan dos o más alternativas académicamente equivalentes, podrá preferirse aquella que ofrezca mejores condiciones de acceso, acompañamiento, descuento o financiamiento, sin limitar la libertad de elección del docente dentro de los criterios institucionales."
+  ]
+ },
+ "operativa": {
+  "titulo": "Planificación Operativa",
+  "parrafos": [
+   "La planificación operativa del Plan de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, comprende la organización de campañas de promoción, difusión y orientación académica, así como los mecanismos de seguimiento de los docentes vinculados a procesos formales de tercer y cuarto nivel.",
+   "La planificación se articula con las necesidades identificadas en el diagnóstico institucional y considera la pertinencia de los programas académicos, las oportunidades de acceso y los mecanismos de apoyo disponibles.",
+   "La revisión documental efectuada en {{corte}} identifica {{n_formacion_letras}} docentes vinculados a procesos de formación académica formal. Esta información permite incorporar un registro de seguimiento a la planificación institucional, diferenciando los estudios individuales de las campañas cuya ejecución debe acreditarse mediante documentación específica."
+  ]
+ },
+ "apoyo": {
+  "titulo": "Apoyo Institucional",
+  "parrafos": [
+   "La viabilidad de las acciones de formación académica comprende el análisis de las condiciones de acceso, el reconocimiento de los programas, los convenios universitarios y los mecanismos de apoyo institucional que puedan facilitar la continuidad de estudios del personal docente.",
+   "Los programas registrados en la matriz maestra corresponden a procesos académicos identificados mediante documentación individual. La existencia de estos registros no acredita automáticamente el otorgamiento de becas, financiamiento, descuentos o facilidades institucionales.",
+   "La revisión del cumplimiento identifica declaraciones sobre mecanismos de apoyo que requieren respaldo documental adicional. Por esta razón, el presente apartado distingue la situación de los estudios registrados de la acreditación de beneficios institucionales. Tabla 9.3. Verificación documental de condiciones y mecanismos de apoyo Componente Programa académico Matrícula y continuidad Modalidad de estudios Costo del programa Convenio aplicable Beca o descuento Situación identificada 13 procesos de formación registrados Evidencias individuales disponibles con distintas fechas Información sujeta a revisión individual Sin consolidado institucional acreditado Aplicación individual no acreditada de manera integral No existe consolidación verificable de beneficios efectivamente otorgados Criterio de verificación Ficha individual y documentación académica Certificados, registros académicos o constancias Documento oficial del programa Contrato, factura o documento económico Convenio vigente y condiciones del beneficio Resolución, certificado o documento equivalente Aporte institucional Requiere verificación de los casos que declaran apoyo Aporte del docente Facilidades de horario Sin consolidado económico verificable Requieren respaldo cuando se declaren como apoyo Autorización, registro financiero o soporte administrativo Documento de pago o compromiso correspondiente Autorización o registro administrativo Fuente: Instrumentos de seguimiento del Plan de Formación Docente y observaciones documentales del Informe de Cumplimiento.",
+   "La validación de las condiciones económicas y administrativas debe realizarse por expediente, conservando la documentación correspondiente al período y evitando atribuir beneficios que no se encuentren formalmente acreditados.",
+   "La existencia de convenios universitarios constituye un mecanismo para facilitar el acceso a programas académicos, pero no demuestra por sí sola que un docente haya recibido un beneficio específico.",
+   "Asimismo, la selección de una universidad externa a los convenios institucionales no invalida la pertinencia de la formación, siempre que el programa cumpla los requisitos académicos y administrativos aplicables.",
+   "El seguimiento de los {{n_formacion_letras}} expedientes permite identificar los procesos formativos documentados. La evaluación del apoyo institucional y de las campañas de promoción requiere, adicionalmente, registros que permitan establecer las acciones ejecutadas, los beneficiarios efectivamente atendidos y los resultados respaldados.",
+   "En consecuencia, la planificación operativa mantiene diferenciados los resultados de formación académica individual, las acciones institucionales de orientación y los beneficios efectivamente acreditados, preservando la coherencia entre el Plan y su Informe de Cumplimiento."
+  ]
+ },
+ "cronograma": {
+  "titulo": "Cronograma de Implementación",
+  "parrafos": [
+   "Debido a que cada acción se activa cuando existe una necesidad validada y una alternativa viable, el cronograma se organiza por hitos y no obliga a todas las carreras a ejecutar las mismas actividades en una fecha única. La fecha específica de cada caso deberá registrarse en la matriz maestra.",
+   "Momento del proceso Actividad Evidencia mínima Inicio del período Revisión de necesidades validadas y prioridades.",
+   "Matriz consolidada / acta o registro de revisión.",
+   "Cuando se active una necesidad Búsqueda y comparación de alternativas.",
+   "Matriz de revisión de programas.",
+   "Previo a la matrícula Validación de pertinencia, reconocimiento y condiciones.",
+   "Ficha de revisión / aprobación.",
+   "Al formalizar la acción Registro del beneficiario y del programa.",
+   "Matrícula, admisión o documento equivalente.",
+   "Durante la formación Seguimiento académico según la periodicidad del programa.",
+   "Reporte de avance, calificaciones o constancia académica.",
+   "Ante una novedad Registro y tratamiento del cambio, aplazamiento o suspensión.",
+   "Registro de novedad y decisión adoptada.",
+   "Al cierre del período Consolidación de acciones y Matriz final e informe de preparación del informe de resultados. resultados."
+  ]
+ },
+ "roles": {
+  "titulo": "Roles y Responsabilidades",
+  "parrafos": [
+   "Responsable Responsabilidades dentro del Plan Consolidar el Plan; verificar documentación; mantener UGPA / responsable registros; coordinar seguimiento; consolidar indicadores y del proceso evidencias.",
+   "Coordinaciones académicas Aportar criterio de pertinencia; relacionar la formación con la carrera y funciones docentes; reportar novedades cuando corresponda.",
+   "Docente beneficiario Entregar información veraz; seleccionar alternativas pertinentes; presentar documentos; informar matrícula, avance y novedades.",
+   "Autoridades institucionales Revisar y aprobar apoyos, convenios, beneficios o decisiones que requieran autorización institucional.",
+   "Áreas de apoyo Intervenir según su competencia en procesos administrativos, financieros, documentales o tecnológicos vinculados con la formación.",
+   "La asignación de responsabilidades no reemplaza los procedimientos institucionales de aprobación. Cuando una acción requiera autorización adicional, esta deberá documentarse conforme a la normativa interna aplicable."
+  ]
+ },
+ "seguimiento": {
+  "titulo": "Seguimiento Académico",
+  "parrafos": [
+   "El seguimiento académico del Plan de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, tiene como finalidad registrar, organizar y verificar la situación de los docentes vinculados a procesos formales de tercer y cuarto nivel.",
+   "Este procedimiento permite identificar los programas académicos cursados, los estados de formación, los avances declarados y las evidencias documentales disponibles. Asimismo, facilita la identificación de novedades relacionadas con la continuidad, suspensión, titulación o culminación de los estudios.",
+   "La revisión documental realizada en {{corte}} permitió consolidar {{n_formacion_letras}} expedientes individuales de formación académica formal, correspondientes a cuatro doctorados, ocho maestrías y una ingeniería.",
+   "De estos registros, once presentan estudios en desarrollo y dos corresponden a procesos de titulación o formalización del título. Los resultados se sustentan en las fichas individuales y sus respectivos documentos de respaldo, conservando la fecha de las evidencias disponibles. El seguimiento académico debe diferenciarse de la ejecución de campañas institucionales de promoción y orientación. La existencia de un docente matriculado no demuestra automáticamente que su incorporación al programa haya sido resultado de una campaña desarrollada mediante el Plan."
+  ]
+ },
+ "evidencias": {
+  "titulo": "Evidencias de Seguimiento",
+  "parrafos": [
+   "El seguimiento académico se fundamenta en la documentación que permite identificar la vinculación del docente con una institución de educación superior, el programa cursado y la situación de su proceso formativo.",
+   "Los expedientes individuales constituyen la fuente principal de información y deben mantener correspondencia entre los datos registrados, las evidencias académicas y el período de seguimiento.",
+   "Acreditar la vinculación con el programa académico correspondiente.",
+   "Verificar la continuidad de estudios cuando corresponda.",
+   "Reporte académico o calificaciones Certificado de avance Documentación de titulación Documento de suspensión",
+   "o retiro Certificado, acta o título final Registro institucional de seguimiento Documentar las actividades y resultados obtenidos durante la formación.",
+   "Sustentar el progreso académico registrado.",
+   "Verificar actividades de aprobación, defensa o formalización del título.",
+   "Respaldar novedades que modifiquen la continuidad del proceso.",
+   "Acreditar la culminación del programa académico.",
+   "Consolidar las revisiones, novedades y actualizaciones del expediente.",
+   "Las evidencias incorporadas en los expedientes comprenden documentos de matrícula, registros académicos, reportes de avance, calificaciones y otros soportes relacionados con la formación universitaria.",
+   "La disponibilidad y suficiencia de dichos documentos debe valorarse individualmente. La existencia de una ficha de seguimiento no sustituye la comprobación de la matrícula, la permanencia o la culminación del programa.",
+   "Los porcentajes de avance consignados en las fichas corresponden a los valores declarados para cada caso. Debido a las diferencias entre los programas académicos y sus mecanismos de evaluación, estos porcentajes no constituyen una medida uniforme de cumplimiento institucional. Las evidencias revisadas se concentran principalmente entre marzo y mayo de 2026. Por tanto, los estados académicos consignados corresponden a la documentación disponible y no acreditan automáticamente la continuidad o culminación de los estudios a octubre de 2026. La actualización de los expedientes debe conservar la fecha de cada documento, la situación académica que acredita y las observaciones necesarias para mantener la trazabilidad institucional."
+  ]
+ },
+ "indicadores": {
+  "titulo": "Indicadores y Evaluación",
+  "parrafos": [
+   "Los indicadores se orientan a verificar la calidad del proceso de planificación y seguimiento. Las metas cuantitativas asociadas al número de docentes no se fijan de forma anticipada cuando no existe un universo nominal validado; en cambio, se establecen metas de cumplimiento documental y trazabilidad para las acciones que sí sean aprobadas.",
+   "Indicador Cálculo / criterio Meta de gestión Necesidades incorporadas con evidencia Necesidades con fuente verificable / necesidades incorporadas al Plan.",
+   "100 % Programas con revisión de pertinencia Programas revisados / programas aprobados para planificación.",
+   "100 % Matrículas con respaldo documental Acciones con evidencia de matrícula / acciones registradas como matriculadas.",
+   "100 % Acciones con seguimiento vigente / acciones en ejecución.",
+   "100 % Novedades documentadas Novedades con registro / novedades reportadas.",
+   "100 % Cierres con evidencia final Acciones finalizadas con evidencia / acciones registradas como finalizadas.",
+   "100 % Acciones activas con seguimiento Cuando se disponga de un universo nominal validado, podrán incorporarse indicadores adicionales de cobertura, participación, permanencia y culminación, siempre que la línea base y la meta se documenten de manera explícita."
+  ]
+ },
+ "novedades": {
+  "titulo": "Gestión de Novedades",
+  "parrafos": [
+   "Las acciones de formación pueden experimentar cambios durante su ejecución. Toda novedad deberá registrarse para mantener la trazabilidad y evitar que el Plan conserve información desactualizada.",
+   "Novedad Tratamiento institucional Cambio de programa Cambio de universidad Revisar nuevamente pertinencia, nivel y condiciones antes de actualizar el registro. Verificar reconocimiento, afinidad, modalidad, duración y costo de la nueva alternativa.",
+   "Aplazamiento Registrar causa, nueva fecha estimada y condición para reactivar la acción. Suspensión o retiro Registrar causa, evidencia y decisión sobre continuidad o cierre.",
+   "Pérdida o modificación de beneficio Actualizar condiciones económicas y revisar viabilidad.",
+   "Programa externo a Aplicar los mismos criterios académicos y documentales que a una opción con convenios convenio.",
+   "Cambio de situación laboral o académica Reevaluar pertinencia y continuidad de la acción cuando el cambio afecte su justificación."
+  ]
+ },
+ "resultados_esp": {
+  "titulo": "Resultados Esperados",
+  "parrafos": [
+   "La implementación del Plan busca producir resultados verificables de planificación y gestión, sin confundirlos con resultados que todavía no hayan ocurrido. Se consideran resultados esperados:",
+   "• contar con una ruta institucional clara entre necesidad validada, programa seleccionado y seguimiento;",
+   "• evitar la incorporación de acciones que no cuenten con pertinencia o evidencia suficiente;",
+   "• facilitar la selección de programas académicos compatibles con la trayectoria y funciones del docente;",
+   "• aprovechar de manera pertinente los convenios y beneficios institucionales disponibles;",
+   "• permitir alternativas externas cuando respondan mejor a la necesidad identificada;",
+   "• mantener registros actualizados de matrícula, permanencia, avance, novedades y culminación;",
+   "• generar información confiable para el Informe de Resultados de Formación Docente y para la actualización del diagnóstico del siguiente período."
+  ]
+ },
+ "consideraciones": {
+  "titulo": "Consideraciones Finales",
+  "parrafos": [
+   "El Plan de Formación Docente debe mantenerse como un instrumento operativo y trazable. Su valor institucional no depende de la cantidad de programas listados, sino de la capacidad de relacionar cada acción con una necesidad validada, una alternativa pertinente, un beneficiario debidamente identificado y una evidencia verificable de seguimiento.",
+   "La existencia de convenios, descuentos o programas disponibles constituye una oportunidad de acceso, pero no sustituye la necesidad académica. Asimismo, la planificación de una acción no constituye evidencia de ejecución: únicamente la documentación generada durante la matrícula, seguimiento y cierre permitirá demostrar el cumplimiento efectivo del Plan. La información consolidada al finalizar el período deberá utilizarse para elaborar el Informe de Resultados de Formación Docente y retroalimentar la siguiente Detección de Necesidades, cerrando el ciclo institucional de mejora continua."
+  ]
+ },
+ "referencias": {
+  "titulo": "Referencias",
+  "parrafos": [
+   "• Consejo de Aseguramiento de la Calidad de la Educación Superior. (2024). Modelo de evaluación externa 2024 con fines de acreditación para los institutos superiores técnicos y tecnológicos. CACES.",
+   "• Consejo de Educación Superior. (2024). Reglamento de Carrera y Escalafón del Personal Académico del Sistema de Educación Superior. CES.",
+   "• Constitución de la República del Ecuador. (2008). Registro Oficial No. 449, 20 de octubre de 2008.",
+   "• {{institucion}}. (2023). Reglamento de Formación y Capacitación de los Profesores (Código CAF-REG-20, versión 1.0) [Reglamento institucional].",
+   "• {{institucion}}. ({{periodo_corto}}). Detección de Necesidades de Formación Docente: {{periodo}} [Documento institucional].",
+   "• {{institucion}}. (s. f.). Manual de procesos de la Unidad de Gestión de Procesos Académicos (UGPA) [Manual institucional].",
+   "• {{institucion}}. (s. f.). Plan Estratégico de Desarrollo Institucional (PEDI) 2022–2027.",
+   "• {{institucion}}. (s. f.). Plan Operativo Anual de la Unidad de Gestión de Procesos Académicos (POA-UGPA) [Documento institucional].",
+   "• Ley Orgánica de Educación Superior. (2010). Registro Oficial Suplemento No. 298, 12 de octubre de 2010, con sus reformas."
+  ]
+ },
+ "anexos": {
+  "titulo": "Anexos Operativos",
+  "parrafos": [
+   "Los anexos operativos del Plan de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, establecen los instrumentos institucionales para registrar, verificar y dar seguimiento a las acciones de formación académica formal.",
+   "Estos instrumentos permiten mantener la trazabilidad entre las necesidades identificadas, las acciones planificadas, la selección de programas académicos y los mecanismos de seguimiento y evaluación.",
+   "Los registros individuales generados mediante su aplicación forman parte de los expedientes institucionales de seguimiento y constituyen fuentes para la elaboración del Informe de Cumplimiento. No se incorporan datos personales de docentes en los anexos del presente Plan. 18.1.",
+   "FICHA INDIVIDUAL DEL DOCENTE EN FORMACIÓN La ficha individual constituye el instrumento de registro para documentar las características académicas y administrativas de cada proceso de formación.",
+   "MATRIZ PARA REVISIÓN DE PROGRAMAS La revisión de programas académicos permite determinar su correspondencia con las necesidades institucionales y las características profesionales del personal docente. Tabla 18.2. Criterios de revisión académica Criterio Institución oferente Programa académico Nivel de formación Condición de verificación Identificación de la institución de educación superior Denominación oficial del programa Correspondencia con la trayectoria académica Tipo de formación Afinidad disciplinar Reconocimiento académico Modalidad Duración Costo Convenio institucional Beneficios Pertinencia institucional Específica, compartida o genérica Relación con la carrera o función docente Verificación de las condiciones aplicables Compatibilidad con las condiciones de estudio Período académico establecido Información económica documentada Existencia y vigencia, cuando corresponda Becas, descuentos u otras condiciones acreditadas Resultado de la revisión académica La selección de un programa deberá fundamentarse en su pertinencia académica y reconocimiento, sin depender exclusivamente de la existencia de un convenio institucional. 18.3.",
+   "REGISTRO DE SEGUIMIENTO ACADÉMICO El registro de seguimiento académico establece los campos necesarios para documentar la continuidad, el avance y los resultados de los procesos formativos incorporados al seguimiento institucional.",
+   "REGISTRO DE NOVEDADES El registro de novedades permite documentar las situaciones académicas o administrativas que modifiquen las condiciones de formación inicialmente registradas.",
+   "LISTA DE VERIFICACIÓN PARA CIERRE La lista de verificación establece los requisitos documentales para determinar el estado de cierre de una acción de formación académica.",
+   "El cierre documental de una actividad institucional no implica necesariamente la obtención de un título académico. La culminación de los estudios únicamente podrá acreditarse mediante documentos emitidos por la institución de educación superior correspondiente. Los registros derivados de estos instrumentos servirán como evidencia para el Informe de Cumplimiento al Plan de Formación Docente, manteniendo la trazabilidad entre planificación, ejecución y evaluación.",
+   "De esta manera, los anexos operativos constituyen instrumentos institucionales establecidos para la gestión y seguimiento de la formación académica, sin incorporar nóminas, resultados individuales anticipados ni información personal de los docentes."
+  ]
+ }
+}

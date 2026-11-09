@@ -1,0 +1,209 @@
+{
+ "intro": {
+  "titulo": "Introducción",
+  "parrafos": [
+   "El presente Informe de Cumplimiento del Plan de Formación Docente tiene como finalidad evaluar las acciones institucionales de promoción, orientación y seguimiento de la formación académica formal del personal docente del {{institucion}} (ITSQMET), correspondientes al período {{periodo}}, con corte de revisión documental en {{corte}}.",
+   "La formación docente constituye un componente estratégico para el fortalecimiento de la calidad educativa, debido a que contribuye al mejoramiento del perfil académico del profesorado, al desarrollo de capacidades profesionales y al fortalecimiento de las funciones sustantivas de docencia, investigación y vinculación con la sociedad. En este contexto, el Plan de Formación Docente establece acciones orientadas a facilitar el conocimiento y acceso a oportunidades académicas pertinentes, considerando las necesidades identificadas en el diagnóstico institucional.",
+   "A diferencia de los procesos de capacitación docente, relacionados con cursos, talleres, seminarios y actividades de actualización de corta duración, el presente informe se centra exclusivamente en la formación académica formal conducente a la obtención de títulos de tercer y cuarto nivel. La evaluación considera tanto las acciones previstas en el Plan como la documentación disponible sobre los docentes vinculados a programas académicos de ingeniería, maestría y doctorado.",
+   "Durante el período evaluado se identificaron {{n_formacion_letras}} docentes vinculados a procesos de formación académica formal, de los cuales once registran actividades de formación en desarrollo y dos presentan procesos de titulación o formalización del título. Estos resultados corresponden a las evidencias documentales disponibles y no constituyen, por sí solos, acreditación de culminación de estudios ni demostración del cumplimiento integral de las acciones planificadas.",
+   "El informe permite organizar los resultados del seguimiento académico, examinar su correspondencia con los objetivos e indicadores establecidos en el Plan de Formación Docente e identificar aspectos que requieren actualización documental. De esta manera, constituye un instrumento de evaluación institucional que aporta información verificable para la toma de decisiones, la mejora continua y el fortalecimiento de los procesos de formación del personal académico."
+  ]
+ },
+ "objetivo_general": {
+  "titulo": "Objetivo general",
+  "parrafos": [
+   "Evaluar el cumplimiento del Plan de Formación Docente del {{institucion}} durante el período {{periodo}}, con corte de revisión documental en {{corte}}, mediante el análisis de las acciones planificadas, las evidencias de ejecución y el seguimiento de los docentes vinculados a programas académicos formales, con el fin de determinar los resultados alcanzados y los aspectos pendientes de cumplimiento institucional."
+  ]
+ },
+ "objetivos_especificos": {
+  "titulo": "Objetivos específicos",
+  "parrafos": [
+   "1. Verificar las acciones institucionales de promoción, difusión y orientación sobre oportunidades de formación académica formal previstas en el Plan de Formación Docente.",
+   "2. Identificar a los docentes vinculados a programas académicos de tercer y cuarto nivel, considerando el tipo de formación y las evidencias documentales disponibles.",
+   "3. Analizar el estado de los procesos formativos registrados durante el período evaluado, diferenciando la formación en desarrollo, los procesos de titulación y las culminaciones debidamente acreditadas.",
+   "4. Evaluar el cumplimiento de los indicadores y mecanismos de seguimiento establecidos en el Plan de Formación Docente, considerando las acciones ejecutadas y su respaldo documental.",
+   "5. Generar información institucional que permita identificar resultados, limitaciones y oportunidades de mejora para la planificación, seguimiento y evaluación de futuros procesos de formación docente."
+  ]
+ },
+ "base_legal": {
+  "titulo": "Base Legal",
+  "parrafos": [
+   "Que el Art. 349 de la Constitución de la República establece “El Estado garantizará al personal docente, en todos los niveles y modalidades, estabilidad, actualización, formación continua y mejoramiento pedagógico y académico”; una remuneración justa, de acuerdo a la profesionalización, desempeño y méritos académicos. La ley regulará la carrera docente y el escalafón; establecerá un sistema nacional de evaluación del desempeño y la política salarial en todos los niveles. Se establecerán políticas de promoción, movilidad y alternancia docente.",
+   "Que el Art. 350 de la Constitución de la República establece la Finalidad del Sistema de Educación Superior. - (…) formación académica y profesional con visión científica y humanista; la investigación científica y tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la construcción de soluciones para los problemas del país, en relación con los objetivos del régimen del desarrollo.",
+   "Que el Art. 6. de la Ley Orgánica de Educación Superior (LOES) menciona los Derechos de los profesores y profesoras e investigadores o investigadoras. - literal h) Recibir una capacitación periódica acorde a su formación profesional y la cátedra que imparta, que fomente e incentive la superación personal académica y pedagógica.",
+   "Que el Art. 6.1. de la Ley Orgánica de Educación Superior (LOES) establece los Deberes de los profesores y profesoras e investigadores o investigadoras. - literal",
+   "d) Mantener un proceso permanente de formación y capacitación para una constante actualización de la cátedra y consecución del principio de calidad.",
+   "Que el Art 156 de la Ley Orgánica de Educación Superior (LOES) menciona sobre la Capacitación y perfeccionamiento permanente de los profesores o profesoras e investigadores o investigadoras. En el Reglamento de Carrera y Escalafón del Profesor e Investigador del Sistema de Educación Superior se garantizará instituciones de educación superior públicas o privadas su capacitación y perfeccionamiento permanentes.",
+   "En los presupuestos de las instituciones del sistema de educación superior constarán de manera obligatoria partidas especiales destinadas a financiar planes de becas o ayudas económicas para especialización o capacitación.",
+   "Que el Art. 7 Reglamento de Carrera y Escalafón del Profesor Investigador Sistema de Educación Superior (2020), menciona de las Actividades de docencia. Numeral 2:",
+   "Preparación y actualización de clases, seminarios, talleres, entre otros; numeral 10: Diseño e impartición de cursos de educación continua o de capacitación y actualización; numeral 12: Participación y organización de colectivos académicos de debate, capacitación o intercambio de metodologías y experiencias de enseñanza;",
+   "Que el Art. 91. Del Reglamento de Carrera y Escalafón del Profesor Investigador Sistema de Educación Superior (2020), menciona sobre la capacitación y actualización docente: “las IES diseñarán y ejecutarán programas y actividades de capacitación y actualización de sus docentes titulares y no titulares, sea individualmente (…)”.",
+   "Que el Art. 24. Del Reglamento de Evaluación del ITSQMET, menciona en el Plan de Mejoras. – En base al informe final de evaluación integral la comisión de Evaluación a los profesores elaborará un plan de perfeccionamiento en conjunto con las unidades a cargo, para ello se considerará:",
+   "a) Programas de capacitación en temas pedagógico, andragógico o técnicos necesarios en el perfil del docente para su mejoría. b) Programas de capacitación en metodologías de aprendizaje e investigación. c) Programas de capacitación en aplicación de Tics en educación y en procesos formativos, así como actualización de formación técnica. d) Programa de capacitación sobre nuevos instrumentos de evaluación educativa.",
+   "Que el Modelo de Evaluación Externa 2024 con fines de Acreditación para los Institutos Superiores Técnicos y Tecnológicos menciona en el Indicador de Formación Académica en curso y capacitación. - Los profesores realizan procesos efectivos de formación académica y de capacitación con el apoyo del instituto. Estos procesos se planifican para crear en ellos las capacidades específicas requeridas para la ejecución satisfactoria de las tareas de docencia, vinculación con la sociedad e I+D, y para desarrollar las capacidades intelectuales genéricas que son inherentes a los profesores de la educación superior. Las vías de formación y capacitación se eligen en función de las capacidades a alcanzar. La ejecución del plan es objeto de seguimiento, control y evaluación, y se logra un cumplimiento satisfactorio de este. Se generan aprendizajes significativos, que se incorporan en el acervo cognitivo institucional.",
+   "Que el Art. 1 del Reglamento de Armonización de la nomenclatura de títulos profesionales y grados académicos que confieren las Instituciones de Educación Superior del Ecuador menciona que, tiene por objeto establecer las normas para armonizar la nomenclatura de títulos profesionales y grados académicos, otorgados por universidades, escuelas politécnicas e institutos y conservatorios superiores, que forman parte del Sistema de Educación Superior del Ecuador.",
+   "Que el Art. 2 del Reglamento de Armonización de la nomenclatura de títulos profesionales y grados académicos que confieren las Instituciones de Educación Superior del Ecuador menciona que, tiene como fin facilitar la movilidad nacional e internacional de las y los estudiantes y profesionales; la articulación con otros sistemas de educación superior a nivel internacional; y, la generación de estadísticas comparadas en educación superior.",
+   "Que el Art. 4 del Reglamento de Armonización de la nomenclatura de títulos profesionales y grados académicos que confieren las Instituciones de Educación Superior del Ecuador menciona que, la armonización es el proceso mediante el cual dos o más títulos profesionales similares que difieren en su denominación son uniformizados a través de la aplicación de una nomenclatura genérica.",
+   "Que el Art. 6 del Reglamento de Armonización de la nomenclatura de títulos profesionales y grados académicos que confieren las Instituciones de Educación Superior del Ecuador menciona que, se entenderá por campo del conocimiento al área de contenido cubierto por una carrera o programa de estudio.",
+   "Que el Art. 9 del Reglamento de Armonización de la nomenclatura de títulos profesionales y grados académicos que confieren las Instituciones de Educación Superior del Ecuador menciona que, los proyectos de programas presentados por las universidades y escuelas politécnicas podrán tener hasta tres menciones siempre y cuando exista la debida justificación.",
+   "Que el Art. 1 del Reglamento de Formación y Capacitación de los Docentes del ITSQMET, menciona que, El ITSQMET tiene como objetivo la formación de profesionales de nivel superior que cumplan con los más altos estándares de calidad profesional velando siempre por la igualdad de oportunidades tanto en sus estudiantes como en su personal docente. La excelencia académica, técnica y científica se fundamenta en el alto nivel académico y profesional de su personal Docente, en tal virtud es una obligación institucional el garantizar que los docentes se encuentren en permanente capacitación y formación para que se encuentren a la vanguardia de los nuevos avances que existan en su área de desempeño.",
+   "Que el Art. 3 del Reglamento de Formación y Capacitación de los Docentes del ITSQMET establece la necesidad de contar con mecanismos normativos y técnicos que orienten los procesos de formación del personal docente. En el marco del presente plan, la Gestión de Procesos Académicos ejecutará, evaluará y mejorará las acciones relacionadas con la formación académica docente, entendida como el acceso, permanencia y seguimiento en programas conducentes a la obtención de títulos de tercer y cuarto nivel, sin perjuicio de la coordinación institucional que corresponda para procesos de capacitación o actualización profesional.",
+   "Que el Art. 6 del Reglamento de Formación y Capacitación de los Docentes del ITSQMET, menciona que El ITSQMET no consiente ninguna clase de discriminación en el otorgamiento de capacitaciones proveniente de los distintos tipos de posición: económica, ideológica o política; ni permite la vulneración social derivada de: religión, etnia, género, orientación sexual, discapacidad o de cualquier otra naturaleza.",
+   "Que el Art. 7 del Reglamento de Formación y Capacitación de los Docentes del ITSQMET, menciona que, el ITSQMET garantizará el acceso a la igualdad de oportunidades como procesos de capacitación, formación o entrenamiento a todas las personas sin discriminación, sin estereotipos de género, y evitando cualquier tipo de connotación que las asocie como propias de mujeres u hombres.",
+   "Que el Art. 8 del Reglamento de Formación y Capacitación de los Docentes del ITSQMET, menciona que, el ITSQMET utilizará la capacitación como un proceso institucional fundamental, orientado a la actualización, formación y desarrollo de las competencias del personal docente, con el propósito de elevar el desempeño profesional y laboral en las diferentes áreas de conocimiento.",
+   "Que el Art. 16 del Reglamento de Formación y Capacitación de los Docentes del ITSQMET, menciona que, para la adquisición de capacidades intelectuales genéricas para la obtención de títulos de mayor nivel, el ITSQMET beneficiará a los docentes de la siguiente manera:",
+   "• Económico: mediante resolución del OCS y previo al cumplimiento de requisitos se designará el valor correspondiente.",
+   "• Con tiempo: mediante aprobación del Vicerrectorado se considerará la mejor alternativa para que el docente pueda asistir y cumplir con lo requerido por la institución educativa a la que asista y a su vez pueda continuar dictando las asignaturas asignadas por el ITSQMET."
+  ]
+ },
+ "base_ref": {
+  "titulo": "Base de Referencia",
+  "parrafos": [
+   "El presente Informe de Cumplimiento del Plan de Formación Docente se fundamenta en los instrumentos institucionales, normativos y operativos que permiten analizar la relación entre el diagnóstico de necesidades, la planificación de acciones formativas, su ejecución y el seguimiento documental correspondiente al período {{periodo}}, con revisión de la información disponible en {{corte}}. La base de referencia comprende el Plan de Formación Docente, la Detección de Necesidades de Formación, el Plan Estratégico de Desarrollo Institucional (PEDI), el Plan Operativo Anual (POA), el Modelo de Evaluación Externa 2024 y los registros individuales de seguimiento académico. Estos instrumentos permiten establecer criterios para valorar los resultados documentados, identificar limitaciones y determinar los aspectos pendientes de verificación."
+  ]
+ },
+ "criterios": {
+  "titulo": "Criterios utilizados",
+  "parrafos": [
+   "El análisis del presente informe se desarrolla considerando los objetivos, las acciones y los indicadores establecidos en el Plan de Formación Docente, así como las evidencias documentales disponibles.",
+   "Para su evaluación se aplican los siguientes criterios:",
+   "a) Pertinencia académica: correspondencia entre los programas de formación, los perfiles profesionales y las necesidades institucionales identificadas.",
+   "b) Ejecución institucional: identificación de acciones de promoción, difusión, orientación y apoyo desarrolladas durante el período evaluado.",
+   "c) Nivel de formación: clasificación de los programas académicos de tercer y cuarto nivel registrados.",
+   "d) Estado del proceso: diferenciación entre formación en desarrollo, procesos de titulación y culminaciones documentalmente acreditadas.",
+   "e) Trazabilidad documental: existencia de registros que permitan verificar las acciones ejecutadas, la participación docente y los avances reportados.",
+   "f) Cumplimiento de indicadores: contraste entre las metas de gestión documental establecidas en el Plan y los resultados que cuentan con evidencia verificable.",
+   "g) Alineación institucional: relación entre los resultados del seguimiento, el diagnóstico de necesidades y los instrumentos de planificación institucional. La valoración del cumplimiento se sustentará en los resultados efectivamente documentados. Cuando no existan evidencias suficientes para evaluar una acción o indicador, esta limitación deberá identificarse expresamente, sin asumir su cumplimiento."
+  ]
+ },
+ "alcance": {
+  "titulo": "Alcance del Informe",
+  "parrafos": [
+   "El presente Informe de Cumplimiento del Plan de Formación Docente tiene un alcance institucional y académico, orientado a evaluar las acciones de promoción, orientación y seguimiento de la formación académica formal del personal docente del {{institucion}} (ITSQMET), correspondientes al período {{periodo}}.",
+   "El análisis comprende la información documental disponible sobre las acciones institucionales previstas en el Plan de Formación Docente y los registros de docentes vinculados a programas académicos formales de tercer y cuarto nivel. La revisión documental realizada en {{corte}} permite consolidar los resultados registrados durante el período evaluado, sin asumir que las condiciones académicas declaradas se encuentran automáticamente actualizadas a dicha fecha.",
+   "El informe excluye los cursos, talleres, seminarios y actividades de actualización profesional de corta duración, debido a que corresponden al proceso institucional de capacitación docente."
+  ]
+ },
+ "alcance_acad": {
+  "titulo": "Alcance académico",
+  "parrafos": [
+   "El alcance académico comprende exclusivamente estudios formales conducentes a la obtención de títulos de tercer y cuarto nivel. El Plan de Formación Docente contempla distintas rutas académicas según las necesidades institucionales y el perfil profesional del personal docente.",
+   "Para el período evaluado, los {{n_formacion_letras}} registros individuales identificados corresponden a programas de doctorado, maestría e ingeniería, distribuidos de la siguiente manera: Tipo de formación Docentes Porcentaje Doctorado 30,77 % Maestría 61,54 % Ingeniería 7,69 % Total 100,00 % Las maestrías representan la mayor proporción de registros, seguidas de los doctorados y la formación en ingeniería. Esta distribución permite caracterizar los niveles académicos identificados, sin atribuir automáticamente la culminación de los estudios ni el cumplimiento integral del Plan."
+  ]
+ },
+ "alcance_inst": {
+  "titulo": "Alcance institucional",
+  "parrafos": [
+   "El informe considera los registros del personal docente del ITSQMET vinculado a procesos de formación académica formal durante el período evaluado.",
+   "La información se organiza mediante los siguientes componentes:",
+   "a) Identificación del docente registrado.",
+   "b) Carrera o área académica de pertenencia.",
+   "c) Programa e institución de educación superior correspondiente.",
+   "d) Nivel de formación académica.",
+   "e) Estado formativo declarado y fecha de referencia.",
+   "f) Documentación disponible para el seguimiento institucional.",
+   "La Detección de Necesidades de Formación Docente considera una base referencial de {{n_registros}} docentes distribuidos entre {{n_carreras}} carreras. En relación con esta base, los {{n_formacion_letras}} registros de formación representan una proporción referencial del 21,31 %.",
+   "Este porcentaje permite contextualizar la cobertura del seguimiento, pero no constituye por sí mismo un indicador de cumplimiento integral de las acciones institucionales previstas en el Plan."
+  ]
+ },
+ "delimitacion": {
+  "titulo": "Delimitación",
+  "parrafos": [
+   "El presente informe se concentra en la evaluación documental de las acciones institucionales relacionadas con la formación académica formal y en el seguimiento de los programas registrados por el personal docente.",
+   "En consecuencia, no contempla:",
+   "a) La evaluación individual del desempeño docente.",
+   "b) El análisis detallado de calificaciones o promedios académicos.",
+   "c) La valoración de resultados de aprendizaje de cada programa universitario.",
+   "d) La evaluación de cursos, talleres, seminarios o certificaciones de corta duración.",
+   "e) La medición del impacto pedagógico posterior a la obtención de títulos académicos.",
+   "f) La atribución de resultados institucionales sin documentación verificable.",
+   "La delimitación permite mantener la diferencia entre formación académica formal y capacitación docente, así como evitar que la existencia de matrículas, registros individuales",
+   "o programas en desarrollo sea interpretada automáticamente como cumplimiento de todas las actividades planificadas."
+  ]
+ },
+ "acreditacion": {
+  "titulo": "Relación con la acreditación",
+  "parrafos": [
+   "El alcance del informe se relaciona con el Modelo de Evaluación Externa 2024 para los Institutos Superiores Técnicos y Tecnológicos, específicamente con el indicador 3.2.4, denominado Formación académica en curso y capacitación.",
+   "Este indicador considera la importancia de planificar, ejecutar y evaluar procesos que contribuyan al fortalecimiento de las capacidades académicas del personal docente, mediante mecanismos institucionales de apoyo, seguimiento y control.",
+   "En este contexto, el informe aporta información para:",
+   "a) Evidenciar registros de docentes vinculados a programas académicos formales.",
+   "b) Identificar los niveles y estados de formación declarados.",
+   "c) Examinar los mecanismos institucionales de seguimiento.",
+   "d) Relacionar los resultados disponibles con el Plan de Formación Docente.",
+   "e) Identificar necesidades de actualización y fortalecimiento documental.",
+   "Los resultados constituyen evidencia relacionada con la formación académica formal, sin representar una evaluación integral del indicador, debido a que los procesos de capacitación docente se documentan mediante instrumentos institucionales diferentes."
+  ]
+ },
+ "resultados": {
+  "titulo": "Resultados",
+  "parrafos": [
+   "El seguimiento de la formación académica formal del personal docente del {{institucion}} permite identificar {{n_formacion_letras}} docentes vinculados a programas de ingeniería, maestría y doctorado. Los resultados se organizan según los registros individuales, los estados declarados, los niveles de formación y las carreras de pertenencia, considerando la fecha y el alcance de las evidencias disponibles."
+  ]
+ },
+ "criterios_res": {
+  "titulo": "Criterios para la presentación",
+  "parrafos": [
+   "Los resultados corresponden al seguimiento realizado dentro del período {{periodo}}. Se sustentan en {{n_formacion_letras}} fichas individuales y sus respectivos anexos, con evidencias registradas principalmente entre marzo y mayo de 2026. La consolidación permite identificar docentes, programas, niveles académicos, carreras de pertenencia y estados declarados. La información conserva la fecha de referencia de cada evidencia; por tanto, su incorporación al informe no constituye una actualización automática del estado académico a octubre de 2026.",
+   "Para organizar los resultados se aplican los siguientes criterios:",
+   "Criterio Formación académica formal Descripción Estudios conducentes a títulos de tercer o cuarto nivel. Los registros analizados comprenden ingeniería, maestría y doctorado.",
+   "Formación en desarrollo Procesos registrados como «En curso» o «En proceso», que pueden comprender asignaturas, investigación o elaboración de tesis.",
+   "Proceso de titulación o Casos cuya ficha declara expresamente actividades pendientes formalización de aprobación, defensa o gestión documental del título.",
+   "Culminación Finalización respaldada mediante documentación que permita acreditada verificar el cumplimiento de los requisitos del programa.",
+   "Fecha de referencia Momento al que corresponde la información consignada en cada ficha y su evidencia.",
+   "Cobertura del Proporción de docentes incluidos en los registros respecto del seguimiento claustro referencial de {{n_registros}} docentes.",
+   "No se incluyen cursos, talleres, seminarios ni certificaciones de corta duración, debido a que corresponden a capacitación o actualización profesional y no a los programas académicos formales analizados."
+  ]
+ },
+ "conclusiones": {
+  "titulo": "Conclusiones",
+  "parrafos": [
+   "El análisis del Plan de Formación Docente del {{institucion}} (ITSQMET), correspondiente al período {{periodo}}, permite establecer conclusiones relacionadas con la participación del personal docente en procesos académicos formales, los resultados del seguimiento institucional y las evidencias disponibles para evaluar las acciones planificadas.",
+   "A partir de los resultados obtenidos, se establecen las siguientes conclusiones:",
+   "1. El seguimiento institucional permitió identificar {{n_formacion_letras}} docentes vinculados a programas académicos formales de tercer y cuarto nivel. Estos registros constituyen evidencia de participación en procesos de formación y proporcionan información para fortalecer el control, la planificación y el desarrollo académico del personal docente.",
+   "3. La documentación disponible no permite acreditar procesos definitivamente culminados ni establecer una categoría de docentes con formación completada pendiente únicamente de registro en SENESCYT. Por tanto, las culminaciones deberán reconocerse institucionalmente cuando existan documentos que permitan verificar el cumplimiento de los requisitos académicos correspondientes.",
+   "5. Los programas de doctorado presentan oportunidades de fortalecimiento de las capacidades institucionales vinculadas con investigación, innovación y gestión académica. Las maestrías permiten ampliar la cualificación profesional y disciplinar, mientras que la formación en ingeniería contribuye al desarrollo del perfil técnico relacionado con el campo de Desarrollo de Software.",
+   "6. La distribución por carrera identifica cinco áreas académicas: Enfermería, Mecánica Automotriz, Desarrollo de Software, Marketing y Gastronomía. Enfermería concentra el mayor número de registros, con cinco docentes, mientras que un caso requiere aclaración de su adscripción institucional. Estos resultados evidencian diversidad de participación, sin constituir tasas de cobertura específicas por carrera.",
+   "8. Las evidencias individuales corresponden principalmente a registros generados entre marzo y mayo de 2026. En consecuencia, la revisión documental realizada en {{corte}} no permite asumir que todos los estados académicos se encuentran actualizados al cierre del período evaluado, por lo que resulta necesario mantener mecanismos de verificación y actualización.",
+   "9. Las fichas de seguimiento permiten identificar programas académicos, estados declarados y avances individuales. Sin embargo, existen aspectos pendientes de aclaración relacionados con denominaciones de programas, adscripción institucional, fechas de culminación y condiciones de apoyo académico o económico, que requieren respaldo documental complementario.",
+   "10. El Plan de Formación Docente establece acciones de promoción, difusión, orientación y seguimiento académico, así como indicadores de gestión documental. La existencia de docentes vinculados a programas formales demuestra resultados de seguimiento, pero no permite determinar por sí sola el cumplimiento de todas las actividades institucionales planificadas.",
+   "11. La evaluación integral de los indicadores establecidos en el Plan requiere consolidar las evidencias de ejecución, los registros de pertinencia, las matrículas documentadas, el seguimiento de acciones activas y los cierres académicos correspondientes. Sin esta información no resulta procedente establecer un porcentaje global de cumplimiento institucional.",
+   "12. Los resultados mantienen correspondencia con los objetivos de fortalecimiento académico establecidos en la Detección de Necesidades de Formación Docente y se relacionan con las orientaciones estratégicas del PEDI 2022–2027. Asimismo, constituyen evidencia relacionada con el indicador 3.2.4 del Modelo de Evaluación Externa 2024, sin representar una evaluación integral de dicho indicador.",
+   "13. En términos generales, el informe evidencia avances documentados en el seguimiento de la formación académica formal del personal docente del ITSQMET. No obstante, la determinación del cumplimiento integral del Plan requiere completar la verificación de las acciones ejecutadas, actualizar las evidencias individuales y contrastar los resultados con los indicadores institucionales establecidos. Esta distinción permite mantener una evaluación objetiva, verificable y coherente con la planificación aprobada.",
+   "Recomendaciones Mantener el seguimiento periódico de los docentes que se encuentran en formación académica formal, con el fin de verificar la continuidad de sus estudios, el avance académico alcanzado y la actualización del estado de cada proceso formativo. Solicitar a cada docente en formación evidencias documentales actualizadas, tales como certificados de matrícula, constancias de estudios, récord académico, certificado de aprobación de períodos o cualquier documento emitido por la institución de educación superior en la que cursa el programa.",
+   "Actualizar la matriz institucional de docentes en formación en cada corte de seguimiento, incorporando información adicional como período académico cursado, fecha estimada de culminación, modalidad de estudios, institución donde cursa la formación y observaciones relevantes.",
+   "Diferenciar permanentemente los procesos de formación académica de los procesos de capacitación docente, con el fin de evitar confusiones en los informes institucionales. La formación debe mantenerse asociada a estudios formales de tercer y cuarto nivel, mientras que la capacitación corresponde a cursos, talleres, seminarios o actividades de actualización.",
+   "Fortalecer la trazabilidad entre la Detección de Necesidades de Formación, el Plan de Formación Docente y los informes de cumplimiento, de manera que se evidencie con claridad la relación entre diagnóstico, planificación, seguimiento y resultados. Incorporar en los siguientes informes un análisis de pertinencia entre la formación cursada por cada docente y la carrera en la que ejerce la docencia, con el propósito de verificar que los estudios realizados contribuyan al fortalecimiento del perfil académico requerido por la institución.",
+   "Realizar cortes de seguimiento periódicos, preferentemente semestrales o anuales, que permitan identificar cambios de estado como continuidad, suspensión, retiro, egreso o culminación del programa académico.",
+   "Generar una carpeta institucional de evidencias por cada docente en formación, organizada con documentos de respaldo, comunicaciones, certificados, registros de seguimiento y compromisos asumidos, en caso de existir apoyo institucional. Promover que los docentes en formación apliquen progresivamente los conocimientos adquiridos en sus funciones de docencia, investigación, vinculación o gestión académica, de acuerdo con el área de formación cursada.",
+   "Vincular los procesos de formación doctoral con líneas de investigación institucional, producción académica, innovación educativa y fortalecimiento de proyectos académicos, con el fin de aprovechar estratégicamente el alto nivel de cualificación alcanzado por estos docentes.",
+   "Articular las formaciones de maestría con mejoras concretas en la planificación docente, la evaluación del aprendizaje, las metodologías activas, la gestión curricular y el acompañamiento estudiantil.",
+   "Relacionar las formaciones en ingeniería con el fortalecimiento de las carreras tecnológicas, especialmente en áreas como sistemas de información, desarrollo de software, innovación tecnológica y transformación digital.",
+   "Mantener actualizado el porcentaje institucional de docentes en formación activa, tomando como referencia el total vigente del claustro docente en cada período, para evitar inconsistencias en los cálculos de cobertura.",
+   "Incluir en los próximos cortes un apartado de novedades, donde se registren cambios relevantes como docentes que iniciaron nuevos estudios, docentes que culminaron programas, docentes que cambiaron de estado o casos que requieran seguimiento especial. Socializar los resultados del informe con las unidades responsables, especialmente Gestión de Procesos Académicos, Coordinación General de Carreras y Talento Humano, para fortalecer la corresponsabilidad en el seguimiento del Plan de Formación Docente. Continuar alineando el seguimiento del Plan de Formación Docente con el PEDI, el POA institucional y el Modelo de Evaluación Externa 2024, especialmente en lo relacionado con la formación académica en curso del personal docente.",
+   "Finalmente, se recomienda conservar este informe como evidencia institucional del cumplimiento progresivo del Plan de Formación Docente al corte de {{corte}}, debido a que permite demostrar la existencia de docentes activos en procesos formales de formación académica y aporta insumos para la mejora continua, la autoevaluación y la acreditación institucional."
+  ]
+ },
+ "recomendaciones": {
+  "titulo": "Recomendaciones para la Elaboración del Plan",
+  "parrafos": []
+ },
+ "bibliografia": {
+  "titulo": "Bibliografía",
+  "parrafos": [
+   "Asamblea Nacional del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial No. 449, 20 de octubre de 2008.",
+   "Asamblea Nacional del Ecuador. (2010). Ley Orgánica de Educación Superior.",
+   "Registro Oficial Suplemento No. 298, 12 de octubre de 2010, con sus reformas. Consejo de Aseguramiento de la Calidad de la Educación Superior. (2023). Guía del modelo de evaluación externa 2024 con fines de acreditación para los institutos superiores técnicos y tecnológicos: Indicadores cualitativos. CACES.",
+   "Consejo de Aseguramiento de la Calidad de la Educación Superior. (2024). Modelo de evaluación externa 2024 con fines de acreditación para los institutos superiores técnicos y tecnológicos. https://www.caces.gob.ec/evaluacion-institutos-superiores/ Consejo de Educación Superior. (2023). Reglamento de armonización de la nomenclatura de títulos profesionales y grados académicos que confieren las instituciones de educación superior del Ecuador (Resolución RPC-SE-05-No.014-2023).",
+   "Consejo de Educación Superior. (2024). Reglamento de carrera y escalafón del personal académico del Sistema de Educación Superior (Codificación reformada mediante Resolución RPC-SE-06-No.012-2024).",
+   "{{institucion}}. (2022). Plan estratégico de desarrollo institucional (PEDI) 2022–2027 [Documento de planificación institucional]. {{institucion}}. (2023). Reglamento de formación y capacitación de los profesores (Código CAF-REG-20, versión 1.0) [Reglamento institucional].",
+   "{{institucion}}. (2025a). Detección de necesidades de formación docente: {{periodo}} (Código UGPA01-PRO-31-2025-10) [Documento institucional]. Unidad de Gestión de Procesos Académicos.",
+   "{{institucion}}. (2025b). Plan de formación docente: {{periodo}} (Código UGPA-01-PRO-31-2025-10) [Documento institucional]. Unidad de Gestión de Procesos Académicos.",
+   "{{institucion}}. (s. f.-a). Fichas individuales de seguimiento de docentes en procesos de formación académica formal [Registros institucionales internos]. Unidad de Gestión de Procesos Académicos.",
+   "{{institucion}}. (s. f.-b). Manual de procesos de la Unidad de Gestión de Procesos Académicos (UGPA) [Manual institucional].",
+   "{{institucion}}. (s. f.-c). Matriz institucional de seguimiento de docentes en formación [Registro institucional interno]. Unidad de Gestión de Procesos Académicos.",
+   "{{institucion}}. (s. f.-d). Plan operativo anual de la Unidad de Gestión de Procesos Académicos (POA-UGPA) [Documento de planificación institucional].",
+   "{{institucion}}. (s. f.-e). Reglamento de evaluación docente del {{institucion}} [Reglamento institucional]."
+  ]
+ }
+}

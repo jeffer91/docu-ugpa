@@ -1,0 +1,19 @@
+{
+  "name": "docu-ugpa",
+  "version": "0.1.0",
+  "description": "Generador de documentación de la Unidad de Gestión de Procesos Académicos (UGPA) - ITSQMET",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "demo": "node scripts/demo.js"
+  },
+  "author": "Jefferson Villarreal",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "docx": "9.5.1",
+    "exceljs": "4.4.0"
+  },
+  "devDependencies": {
+    "electron": "33.4.11"
+  }
+}

@@ -1,0 +1,1911 @@
+{
+ "expedientes": [
+  {
+   "id": "pro70-2025-10",
+   "proceso": "PRO-70",
+   "inicio": "2025-10",
+   "fin": "2026-03",
+   "docs": {
+    "RGI1": {
+     "nn": "01",
+     "fecha": "2025-10-06",
+     "estado": "Aprobado"
+    },
+    "RGI2": {
+     "nn": "01",
+     "fecha": "2025-10-20",
+     "estado": "Aprobado"
+    },
+    "RGI3": {
+     "nn": "01",
+     "fecha": "2026-04-15",
+     "estado": "Borrador"
+    }
+   },
+   "datos": {
+    "general": {
+     "fecha_levantamiento": "abril y mayo de 2025",
+     "docentes_participantes": "",
+     "instrumentos": "encuestas institucionales, reuniones académicas con docentes y criterio del coordinador de carrera"
+    },
+    "necesidades": [
+     {
+      "carrera": "Gestión del Talento Humano",
+      "necesidad": "Estrategia analítica y gestión del talento humano",
+      "tipo": "Disciplinar–estratégica",
+      "recurrencia": 72
+     },
+     {
+      "carrera": "Gestión del Talento Humano",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 65
+     },
+     {
+      "carrera": "Gestión del Talento Humano",
+      "necesidad": "Metodologías activas",
+      "tipo": "Pedagógica",
+      "recurrencia": 49
+     },
+     {
+      "carrera": "Gestión del Talento Humano",
+      "necesidad": "Herramientas digitales para RR.HH.",
+      "tipo": "Tecnológica",
+      "recurrencia": 44
+     },
+     {
+      "carrera": "Gestión del Talento Humano",
+      "necesidad": "Evaluación por competencias",
+      "tipo": "Pedagógica",
+      "recurrencia": 38
+     },
+     {
+      "carrera": "Seguridad y Prevención de Riesgos Laborales",
+      "necesidad": "Gestión integral de riesgos laborales",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 75
+     },
+     {
+      "carrera": "Seguridad y Prevención de Riesgos Laborales",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 67
+     },
+     {
+      "carrera": "Seguridad y Prevención de Riesgos Laborales",
+      "necesidad": "Actualización normativa",
+      "tipo": "Normativa",
+      "recurrencia": 52
+     },
+     {
+      "carrera": "Seguridad y Prevención de Riesgos Laborales",
+      "necesidad": "Metodologías prácticas de evaluación",
+      "tipo": "Pedagógica",
+      "recurrencia": 46
+     },
+     {
+      "carrera": "Seguridad y Prevención de Riesgos Laborales",
+      "necesidad": "Herramientas tecnológicas de análisis",
+      "tipo": "Tecnológica",
+      "recurrencia": 41
+     },
+     {
+      "carrera": "Estética Integral",
+      "necesidad": "Técnicas avanzadas de bioestimulación",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 74
+     },
+     {
+      "carrera": "Estética Integral",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 68
+     },
+     {
+      "carrera": "Estética Integral",
+      "necesidad": "Protocolos de bioseguridad estética",
+      "tipo": "Normativa",
+      "recurrencia": 51
+     },
+     {
+      "carrera": "Estética Integral",
+      "necesidad": "Metodologías prácticas de enseñanza",
+      "tipo": "Pedagógica",
+      "recurrencia": 46
+     },
+     {
+      "carrera": "Estética Integral",
+      "necesidad": "Recursos tecnológicos para demostración",
+      "tipo": "Tecnológica",
+      "recurrencia": 42
+     },
+     {
+      "carrera": "Redes y Telecomunicaciones",
+      "necesidad": "Especialización en redes de fibra óptica",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 78
+     },
+     {
+      "carrera": "Redes y Telecomunicaciones",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 69
+     },
+     {
+      "carrera": "Redes y Telecomunicaciones",
+      "necesidad": "Actualización en normativas y estándares",
+      "tipo": "Normativa",
+      "recurrencia": 55
+     },
+     {
+      "carrera": "Redes y Telecomunicaciones",
+      "necesidad": "Metodologías prácticas de configuración",
+      "tipo": "Pedagógica",
+      "recurrencia": 48
+     },
+     {
+      "carrera": "Redes y Telecomunicaciones",
+      "necesidad": "Simuladores y herramientas virtuales",
+      "tipo": "Tecnológica",
+      "recurrencia": 45
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "necesidad": "Especialización en redes de fibra óptica",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 70
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 66
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "necesidad": "Metodologías prácticas de desarrollo",
+      "tipo": "Pedagógica",
+      "recurrencia": 52
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "necesidad": "Tecnologías emergentes",
+      "tipo": "Tecnológica",
+      "recurrencia": 48
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "necesidad": "Entornos virtuales y simuladores",
+      "tipo": "Tecnológica",
+      "recurrencia": 44
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "necesidad": "Diseño experimental y nuevos productos",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 76
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 64
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "necesidad": "Normativas de inocuidad",
+      "tipo": "Normativa",
+      "recurrencia": 53
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "necesidad": "Metodologías prácticas",
+      "tipo": "Pedagógica",
+      "recurrencia": 47
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "necesidad": "Análisis de datos",
+      "tipo": "Tecnológica",
+      "recurrencia": 41
+     },
+     {
+      "carrera": "Diseño Multimedia",
+      "necesidad": "Diseño web y maquetación digital profesional",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 73
+     },
+     {
+      "carrera": "Diseño Multimedia",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 67
+     },
+     {
+      "carrera": "Diseño Multimedia",
+      "necesidad": "Herramientas y software de diseño",
+      "tipo": "Tecnológica",
+      "recurrencia": 55
+     },
+     {
+      "carrera": "Diseño Multimedia",
+      "necesidad": "Metodologías de proyectos",
+      "tipo": "Pedagógica",
+      "recurrencia": 49
+     },
+     {
+      "carrera": "Diseño Multimedia",
+      "necesidad": "Experiencia de usuario",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 45
+     },
+     {
+      "carrera": "Enfermería",
+      "necesidad": "Manejo clínico del recién nacido",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 77
+     },
+     {
+      "carrera": "Enfermería",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 69
+     },
+     {
+      "carrera": "Enfermería",
+      "necesidad": "Protocolos de atención y bioseguridad",
+      "tipo": "Normativa",
+      "recurrencia": 56
+     },
+     {
+      "carrera": "Enfermería",
+      "necesidad": "Metodologías prácticas clínicas",
+      "tipo": "Pedagógica",
+      "recurrencia": 49
+     },
+     {
+      "carrera": "Enfermería",
+      "necesidad": "Simuladores y recursos tecnológicos",
+      "tipo": "Tecnológica",
+      "recurrencia": 45
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "necesidad": "Modelado de datos y analítica",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 74
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 68
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "necesidad": "Plataformas y tendencias digitales",
+      "tipo": "Tecnológica",
+      "recurrencia": 55
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "necesidad": "Metodologías de análisis de mercado",
+      "tipo": "Pedagógica",
+      "recurrencia": 49
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "necesidad": "Herramientas analíticas",
+      "tipo": "Tecnológica",
+      "recurrencia": 46
+     },
+     {
+      "carrera": "Ventas",
+      "necesidad": "Modelado de datos y analítica",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 72
+     },
+     {
+      "carrera": "Ventas",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 66
+     },
+     {
+      "carrera": "Ventas",
+      "necesidad": "Técnicas de negociación",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 54
+     },
+     {
+      "carrera": "Ventas",
+      "necesidad": "Simulación de ventas",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 48
+     },
+     {
+      "carrera": "Ventas",
+      "necesidad": "Herramientas tecnológicas",
+      "tipo": "Tecnológica",
+      "recurrencia": 45
+     },
+     {
+      "carrera": "Educación Básica",
+      "necesidad": "Planificación DUA con inserciones curriculares",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 76
+     },
+     {
+      "carrera": "Educación Básica",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 69
+     },
+     {
+      "carrera": "Educación Básica",
+      "necesidad": "Metodologías activas",
+      "tipo": "Pedagógica",
+      "recurrencia": 55
+     },
+     {
+      "carrera": "Educación Básica",
+      "necesidad": "Evaluación formativa",
+      "tipo": "Pedagógica",
+      "recurrencia": 51
+     },
+     {
+      "carrera": "Educación Básica",
+      "necesidad": "Recursos didácticos adaptados",
+      "tipo": "Pedagógica",
+      "recurrencia": 47
+     },
+     {
+      "carrera": "Educación Inicial",
+      "necesidad": "Planificación DUA con inserciones curriculares",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 78
+     },
+     {
+      "carrera": "Educación Inicial",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 71
+     },
+     {
+      "carrera": "Educación Inicial",
+      "necesidad": "Estrategias lúdicas",
+      "tipo": "Pedagógica",
+      "recurrencia": 56
+     },
+     {
+      "carrera": "Educación Inicial",
+      "necesidad": "Evaluación del desarrollo infantil",
+      "tipo": "Pedagógica",
+      "recurrencia": 52
+     },
+     {
+      "carrera": "Educación Inicial",
+      "necesidad": "Recursos didácticos sensoriales",
+      "tipo": "Pedagógica",
+      "recurrencia": 48
+     },
+     {
+      "carrera": "Pedagogía",
+      "necesidad": "Planificación DUA con inserciones curriculares",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 75
+     },
+     {
+      "carrera": "Pedagogía",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 70
+     },
+     {
+      "carrera": "Pedagogía",
+      "necesidad": "Enfoques pedagógicos contemporáneos",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 54
+     },
+     {
+      "carrera": "Pedagogía",
+      "necesidad": "Evaluación formativa",
+      "tipo": "Pedagógica",
+      "recurrencia": 50
+     },
+     {
+      "carrera": "Pedagogía",
+      "necesidad": "Recursos educativos innovadores",
+      "tipo": "Tecnológica",
+      "recurrencia": 46
+     },
+     {
+      "carrera": "Administración",
+      "necesidad": "Metodologías ágiles para la gestión moderna",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 73
+     },
+     {
+      "carrera": "Administración",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 67
+     },
+     {
+      "carrera": "Administración",
+      "necesidad": "Gestión estratégica y toma de decisiones",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 55
+     },
+     {
+      "carrera": "Administración",
+      "necesidad": "Resolución de problemas organizacionales",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 50
+     },
+     {
+      "carrera": "Administración",
+      "necesidad": "Herramientas digitales de gestión",
+      "tipo": "Tecnológica",
+      "recurrencia": 46
+     },
+     {
+      "carrera": "Contabilidad",
+      "necesidad": "Auditoría forense e inteligencia financiera",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 75
+     },
+     {
+      "carrera": "Contabilidad",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 68
+     },
+     {
+      "carrera": "Contabilidad",
+      "necesidad": "Normativas contables y tributarias",
+      "tipo": "Normativa",
+      "recurrencia": 56
+     },
+     {
+      "carrera": "Contabilidad",
+      "necesidad": "Análisis financiero práctico",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 50
+     },
+     {
+      "carrera": "Contabilidad",
+      "necesidad": "Herramientas tecnológicas de auditoría",
+      "tipo": "Tecnológica",
+      "recurrencia": 47
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "necesidad": "Sistemas inteligentes para seguridad automotriz",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 76
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Pedagógica",
+      "recurrencia": 68
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "necesidad": "Diagnóstico electrónico avanzado",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 55
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "necesidad": "Metodologías prácticas de mantenimiento",
+      "tipo": "Pedagógica",
+      "recurrencia": 50
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "necesidad": "Software y simuladores automotrices",
+      "tipo": "Tecnológica",
+      "recurrencia": 47
+     },
+     {
+      "carrera": "Seguridad Ciudadana y Orden Público",
+      "necesidad": "Diseño de contenidos de aprendizaje",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 70
+     },
+     {
+      "carrera": "Seguridad Ciudadana y Orden Público",
+      "necesidad": "Análisis de riesgos y prevención",
+      "tipo": "Disciplinar–técnica",
+      "recurrencia": 57
+     },
+     {
+      "carrera": "Seguridad Ciudadana y Orden Público",
+      "necesidad": "Metodologías prácticas de intervención",
+      "tipo": "Pedagógica",
+      "recurrencia": 52
+     },
+     {
+      "carrera": "Seguridad Ciudadana y Orden Público",
+      "necesidad": "Herramientas tecnológicas de seguridad",
+      "tipo": "Tecnológica",
+      "recurrencia": 48
+     }
+    ],
+    "carreras_dnc": [
+     {
+      "carrera": "Gestión del Talento Humano",
+      "prioritaria": "Estrategia Analítica y Gestión del Talento Humano",
+      "pertinencia": "Alta",
+      "cualitativo": "Los docentes manifestaron la necesidad de fortalecer sus capacidades para integrar enfoques analíticos, toma de decisiones basada en datos y estrategias modernas de gestión del talento humano dentro del proceso formativo, así como mejorar la estructuración de estos contenidos en contextos prácticos y de simulación organizacional.",
+      "perfil": "Fortalece la capacidad analítica y estratégica del futuro profesional",
+      "competencias": "Gestión, análisis y toma de decisiones en talento humano"
+     },
+     {
+      "carrera": "Seguridad y Prevención de Riesgos Laborales",
+      "prioritaria": "Gestión Integral de Riesgos Laborales",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Estética Integral",
+      "prioritaria": "Técnicas avanzadas de bioestimulación",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Redes y Telecomunicaciones",
+      "prioritaria": "Especialización en Redes de Fibra Óptica",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "prioritaria": "Especialización en Redes de Fibra Óptica",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "prioritaria": "Diseño experimental aplicado al desarrollo de nuevos productos",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Diseño Multimedia",
+      "prioritaria": "Diseño Web y Maquetación Digital Profesional",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Enfermería",
+      "prioritaria": "Manejo Clínico del Recién Nacido",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "prioritaria": "Modelado de Datos y Analítica para la Toma de Decisiones",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Ventas",
+      "prioritaria": "Modelado de Datos y Analítica para la Toma de Decisiones",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Educación Básica",
+      "prioritaria": "Planificación DUA con inserciones curriculares",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Educación Inicial",
+      "prioritaria": "Planificación DUA con inserciones curriculares",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Pedagogía",
+      "prioritaria": "Planificación DUA con inserciones curriculares",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Administración",
+      "prioritaria": "Metodologías Ágiles para la Gestión Moderna",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Contabilidad",
+      "prioritaria": "Auditoría Forense e Inteligencia Financiera",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "prioritaria": "Sistemas inteligentes para seguridad automotriz",
+      "pertinencia": "Alta"
+     },
+     {
+      "carrera": "Seguridad Ciudadana y Orden Público",
+      "prioritaria": "Técnico en seguridad física y del entorno",
+      "pertinencia": "Alta"
+     }
+    ],
+    "necesidades_inst": [
+     {
+      "necesidad": "Desarrollo de contenidos de aprendizaje",
+      "presencia": "Muy alta",
+      "recurrencia": 68
+     },
+     {
+      "necesidad": "Estrategias metodológicas activas",
+      "presencia": "Alta",
+      "recurrencia": 54
+     },
+     {
+      "necesidad": "Evaluación por resultados de aprendizaje",
+      "presencia": "Media",
+      "recurrencia": 47
+     },
+     {
+      "necesidad": "Uso pedagógico de herramientas digitales",
+      "presencia": "Media",
+      "recurrencia": 43
+     },
+     {
+      "necesidad": "Planificación curricular por competencias",
+      "presencia": "Media",
+      "recurrencia": 39
+     }
+    ],
+    "generica": {
+     "nombre": "Desarrollador de Contenidos de Aprendizaje",
+     "enfoque": "el diseño, estructuración y mediación de los contenidos de aprendizaje"
+    },
+    "capacitaciones": [
+     {
+      "nombre": "Desarrollador de contenidos de aprendizaje",
+      "tipo": "Genérica",
+      "carreras": "Todas las carreras",
+      "inicio_previsto": "2025-12",
+      "fin_previsto": "2026-01",
+      "inicio": "2025-12-15",
+      "fin": "2026-01-12",
+      "horas": 60,
+      "modalidad": "Virtual",
+      "entidad": "Plataforma Capacítate para el Empleo",
+      "planificados": 64
+     },
+     {
+      "nombre": "Auditoria Forense e Inteligencia Financiera",
+      "tipo": "Específica",
+      "carreras": "",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "",
+      "fin": "",
+      "horas": "",
+      "modalidad": "Virtual",
+      "entidad": "Docente Roberto Apunte",
+      "planificados": 5
+     },
+     {
+      "nombre": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "tipo": "Específica",
+      "carreras": "Procesamiento de alimentos",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Alex Bustamante",
+      "planificados": 1
+     },
+     {
+      "nombre": "Diseño Web y Maquetación Digital Profesional",
+      "tipo": "Específica",
+      "carreras": "Diseño Multimedia",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Santiago Brito",
+      "planificados": 4
+     },
+     {
+      "nombre": "Especialización en Redes de Fibra Óptica",
+      "tipo": "Específica",
+      "carreras": "Desarrollo de software y redes y telecomunicaciones",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Roberto Apunte",
+      "planificados": 12
+     },
+     {
+      "nombre": "Estrategia analítica y gestión del talento humano",
+      "tipo": "Específica",
+      "carreras": "Gestión de talento humano",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Luis Antonio Segovia",
+      "planificados": 1
+     },
+     {
+      "nombre": "Gestión integral de Riesgos Laborales",
+      "tipo": "Específica",
+      "carreras": "Seguridad y prevención de riesgos laborales",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Jorge Esteban Aguirre Andrade",
+      "planificados": 2
+     },
+     {
+      "nombre": "Manejo Clínico del Recién Nacido",
+      "tipo": "Específica",
+      "carreras": "Enfermería",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Karina Aldas",
+      "planificados": 2
+     },
+     {
+      "nombre": "Metodologías ágiles para la gestión moderna",
+      "tipo": "Específica",
+      "carreras": "Administración",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 42,
+      "modalidad": "Virtual",
+      "entidad": "Docente José Sebastián Zambrano",
+      "planificados": 8
+     },
+     {
+      "nombre": "Modelado de datos y analítica para la toma de decisiones",
+      "tipo": "Específica",
+      "carreras": "Marketing digital y comercio electrónico y ventas",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Kenya Luna",
+      "planificados": 4
+     },
+     {
+      "nombre": "Planificación Dua con inserciones curriculares",
+      "tipo": "Específica",
+      "carreras": "Educación inicial, Pedagogía, Diseño multimedia, Educación básica",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Katherine Cuenca",
+      "planificados": 14
+     },
+     {
+      "nombre": "Sistemas inteligentes para seguridad automotriz",
+      "tipo": "Específica",
+      "carreras": "Mecánica Automotriz",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Luis Miguel Lincango Cabezas",
+      "planificados": 4
+     },
+     {
+      "nombre": "Técnicas avanzadas de Bioestimulación",
+      "tipo": "Específica",
+      "carreras": "Estética integral",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Milena Michelle Melo Vera",
+      "planificados": 2
+     },
+     {
+      "nombre": "Técnico en seguridad física y del entorno",
+      "tipo": "Específica",
+      "carreras": "Seguridad ciudadana y orden público",
+      "inicio_previsto": "2026-02",
+      "fin_previsto": "2026-03",
+      "inicio": "2026-03-01",
+      "fin": "2026-03-31",
+      "horas": 40,
+      "modalidad": "Virtual",
+      "entidad": "Docente Milena Michelle Melo Vera",
+      "planificados": 4
+     }
+    ],
+    "resultados": [
+     {
+      "capacitacion": "Desarrollador de contenidos de aprendizaje",
+      "inscritos": 64.0,
+      "aprobados": 54.0,
+      "participacion": 0.0,
+      "reprobados": 10.0,
+      "desertores": 0.0,
+      "mujeres": 30.0,
+      "hombres": 34.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Auditoria Forense e Inteligencia Financiera",
+      "inscritos": 5.0,
+      "aprobados": 2.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 3.0,
+      "mujeres": 3.0,
+      "hombres": 2.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "inscritos": 1.0,
+      "aprobados": 1.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 0.0,
+      "mujeres": 1.0,
+      "hombres": 0.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Diseño Web y Maquetación Digital Profesional",
+      "inscritos": 4.0,
+      "aprobados": 1.0,
+      "participacion": 0.0,
+      "reprobados": 3.0,
+      "desertores": 0.0,
+      "mujeres": 3.0,
+      "hombres": 1.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "inscritos": 12.0,
+      "aprobados": 12.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 0.0,
+      "mujeres": 2.0,
+      "hombres": 10.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Estrategia analítica y gestión del talento humano",
+      "inscritos": 1.0,
+      "aprobados": 0.0,
+      "participacion": 0.0,
+      "reprobados": 1.0,
+      "desertores": 0.0,
+      "mujeres": 0.0,
+      "hombres": 1.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 90.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Gestión integral de Riesgos Laborales",
+      "inscritos": 2.0,
+      "aprobados": 0.0,
+      "participacion": 0.0,
+      "reprobados": 2.0,
+      "desertores": 0.0,
+      "mujeres": 0.0,
+      "hombres": 2.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Manejo Clínico del Recién Nacido",
+      "inscritos": 2.0,
+      "aprobados": 2.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 0.0,
+      "mujeres": 2.0,
+      "hombres": 0.0,
+      "satisfaccion": 100.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Metodologías ágiles para la gestión moderna",
+      "inscritos": 8.0,
+      "aprobados": 7.0,
+      "participacion": 0.0,
+      "reprobados": 1.0,
+      "desertores": 0.0,
+      "mujeres": 2.0,
+      "hombres": 6.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "inscritos": 4.0,
+      "aprobados": 4.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 0.0,
+      "mujeres": 2.0,
+      "hombres": 2.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "inscritos": 14.0,
+      "aprobados": 10.0,
+      "participacion": 0.0,
+      "reprobados": 4.0,
+      "desertores": 0.0,
+      "mujeres": 14.0,
+      "hombres": 0.0,
+      "satisfaccion": 71.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 95.0,
+      "interaccion": 92.0
+     },
+     {
+      "capacitacion": "Sistemas inteligentes para seguridad automotriz",
+      "inscritos": 4.0,
+      "aprobados": 4.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 0.0,
+      "mujeres": 0.0,
+      "hombres": 4.0,
+      "satisfaccion": 100.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 96.0,
+      "interaccion": 94.0
+     },
+     {
+      "capacitacion": "Técnicas avanzadas de Bioestimulación",
+      "inscritos": 2.0,
+      "aprobados": 1.0,
+      "participacion": 0.0,
+      "reprobados": 1.0,
+      "desertores": 0.0,
+      "mujeres": 2.0,
+      "hombres": 0.0,
+      "satisfaccion": 50.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 100.0,
+      "interaccion": 90.0
+     },
+     {
+      "capacitacion": "Técnico en seguridad física y del entorno",
+      "inscritos": 4.0,
+      "aprobados": 1.0,
+      "participacion": 0.0,
+      "reprobados": 0.0,
+      "desertores": 3.0,
+      "mujeres": 1.0,
+      "hombres": 3.0,
+      "satisfaccion": 90.0,
+      "aplicabilidad": 100.0,
+      "relevancia": 100.0,
+      "interaccion": 92.0
+     }
+    ],
+    "impacto": [
+     {
+      "capacitacion": "Desarrollador de contenidos de aprendizaje",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Desarrollador de contenidos de aprendizaje",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "20"
+     },
+     {
+      "capacitacion": "Desarrollador de contenidos de aprendizaje",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "25"
+     },
+     {
+      "capacitacion": "Desarrollador de contenidos de aprendizaje",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Auditoria Forense e Inteligencia Financiera",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Auditoria Forense e Inteligencia Financiera",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "85"
+     },
+     {
+      "capacitacion": "Auditoria Forense e Inteligencia Financiera",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Auditoria Forense e Inteligencia Financiera",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "20"
+     },
+     {
+      "capacitacion": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "25"
+     },
+     {
+      "capacitacion": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Diseño Web y Maquetación Digital Profesional",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Diseño Web y Maquetación Digital Profesional",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "20"
+     },
+     {
+      "capacitacion": "Diseño Web y Maquetación Digital Profesional",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "25"
+     },
+     {
+      "capacitacion": "Diseño Web y Maquetación Digital Profesional",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "indicador": "Incremento en la Calidad del Trabajo",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "indicador": "Reducción de errores",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Estrategia analítica y gestión del talento humano",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Estrategia analítica y gestión del talento humano",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "20"
+     },
+     {
+      "capacitacion": "Estrategia analítica y gestión del talento humano",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "25"
+     },
+     {
+      "capacitacion": "Estrategia analítica y gestión del talento humano",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Gestión integral de Riesgos Laborales",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Gestión integral de Riesgos Laborales",
+      "indicador": "Mejora en la productividad",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Gestión integral de Riesgos Laborales",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "25"
+     },
+     {
+      "capacitacion": "Gestión integral de Riesgos Laborales",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Manejo Clínico del Recién Nacido",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Manejo Clínico del Recién Nacido",
+      "indicador": "Mejora en la productividad",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Manejo Clínico del Recién Nacido",
+      "indicador": "Reducción de errores",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Manejo Clínico del Recién Nacido",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Metodologías ágiles para la gestión moderna",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Metodologías ágiles para la gestión moderna",
+      "indicador": "Mejora en la productividad",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Metodologías ágiles para la gestión moderna",
+      "indicador": "Reducción de errores",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Metodologías ágiles para la gestión moderna",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "indicador": "Reducción de errores",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "20"
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "25"
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Sistemas inteligentes para seguridad automotriz",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Sistemas inteligentes para seguridad automotriz",
+      "indicador": "Mejora en eficiencia",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Sistemas inteligentes para seguridad automotriz",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Sistemas inteligentes para seguridad automotriz",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Técnicas avanzadas de Bioestimulación",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Técnicas avanzadas de Bioestimulación",
+      "indicador": "Mejora en eficiencia de planificación virtual",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Técnicas avanzadas de Bioestimulación",
+      "indicador": "Reducción de errores en plataformas",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Técnicas avanzadas de Bioestimulación",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     },
+     {
+      "capacitacion": "Técnico en seguridad física y del entorno",
+      "indicador": "Aplicación del conocimiento",
+      "resultado": "100"
+     },
+     {
+      "capacitacion": "Técnico en seguridad física y del entorno",
+      "indicador": "Mejora en eficiencia",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Técnico en seguridad física y del entorno",
+      "indicador": "Reducción de errores",
+      "resultado": "95"
+     },
+     {
+      "capacitacion": "Técnico en seguridad física y del entorno",
+      "indicador": "Satisfacción docente",
+      "resultado": "90"
+     }
+    ],
+    "participacion_carrera": [
+     {
+      "capacitacion": "Diseño experimental aplicado a desarrollo de nuevos productos",
+      "carrera": "Procesamiento de Alimentos",
+      "participantes": 1
+     },
+     {
+      "capacitacion": "Diseño Web y Maquetación Digital Profesional",
+      "carrera": "Diseño Multimedia",
+      "participantes": 4
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "carrera": "Carreras de Redes y Telecomunicaciones",
+      "participantes": 7
+     },
+     {
+      "capacitacion": "Especialización en Redes de Fibra Óptica",
+      "carrera": "Desarrollo de Software",
+      "participantes": 5
+     },
+     {
+      "capacitacion": "Estrategia analítica y gestión del talento humano",
+      "carrera": "Gestión del Talento Humano",
+      "participantes": 1
+     },
+     {
+      "capacitacion": "Gestión integral de Riesgos Laborales",
+      "carrera": "Seguridad",
+      "participantes": 2
+     },
+     {
+      "capacitacion": "Manejo Clínico del Recién Nacido",
+      "carrera": "Enfermería",
+      "participantes": 2
+     },
+     {
+      "capacitacion": "Metodologías ágiles para la gestión moderna",
+      "carrera": "Administración",
+      "participantes": 8
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "carrera": "Marketing Digital",
+      "participantes": 3
+     },
+     {
+      "capacitacion": "Modelado de datos y analítica para la toma de decisiones",
+      "carrera": "Comercio electrónico y ventas",
+      "participantes": 1
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "carrera": "Educación básica",
+      "participantes": 5
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "carrera": "Pedagogía",
+      "participantes": 5
+     },
+     {
+      "capacitacion": "Planificación Dua con inserciones curriculares",
+      "carrera": "Educación inicial",
+      "participantes": 4
+     },
+     {
+      "capacitacion": "Sistemas inteligentes para seguridad automotriz",
+      "carrera": "Mecánica Automotriz",
+      "participantes": 4
+     },
+     {
+      "capacitacion": "Técnicas avanzadas de Bioestimulación",
+      "carrera": "Estética Integral",
+      "participantes": 2
+     },
+     {
+      "capacitacion": "Técnico en seguridad física y del entorno",
+      "carrera": "Seguridad Ciudadana",
+      "participantes": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "pro31-2025-10",
+   "proceso": "PRO-31",
+   "inicio": "2025-10",
+   "fin": "2026-09",
+   "docs": {
+    "RGI1": {
+     "nn": "01",
+     "fecha": "2025-10-06",
+     "estado": "Aprobado"
+    },
+    "RGI2": {
+     "nn": "01",
+     "fecha": "2025-10-06",
+     "estado": "Aprobado"
+    },
+    "RGI3": {
+     "nn": "01",
+     "fecha": "2026-10-06",
+     "estado": "En revisión"
+    }
+   },
+   "datos": {
+    "general": {
+     "fecha_levantamiento": "",
+     "corte": "octubre de 2026"
+    },
+    "claustro": [
+     {
+      "docente": "Registro 01",
+      "carrera": "Enfermería"
+     },
+     {
+      "docente": "Registro 02",
+      "carrera": "Enfermería"
+     },
+     {
+      "docente": "Registro 03",
+      "carrera": "Enfermería"
+     },
+     {
+      "docente": "Registro 04",
+      "carrera": "Mecánica Automotriz"
+     },
+     {
+      "docente": "Registro 05",
+      "carrera": "Mecánica Automotriz"
+     },
+     {
+      "docente": "Registro 06",
+      "carrera": "Mecánica Automotriz"
+     },
+     {
+      "docente": "Registro 07",
+      "carrera": "Diseño Multimedia"
+     },
+     {
+      "docente": "Registro 08",
+      "carrera": "Diseño Multimedia"
+     },
+     {
+      "docente": "Registro 09",
+      "carrera": "Diseño Multimedia"
+     },
+     {
+      "docente": "Registro 10",
+      "carrera": "Diseño Multimedia"
+     },
+     {
+      "docente": "Registro 11",
+      "carrera": "Marketing Digital y Comercio Electrónico"
+     },
+     {
+      "docente": "Registro 12",
+      "carrera": "Marketing Digital y Comercio Electrónico"
+     },
+     {
+      "docente": "Registro 13",
+      "carrera": "Marketing Digital y Comercio Electrónico"
+     },
+     {
+      "docente": "Registro 14",
+      "carrera": "Marketing Digital y Comercio Electrónico"
+     },
+     {
+      "docente": "Registro 15",
+      "carrera": "Ventas"
+     },
+     {
+      "docente": "Registro 16",
+      "carrera": "Ventas"
+     },
+     {
+      "docente": "Registro 17",
+      "carrera": "Desarrollo de Software"
+     },
+     {
+      "docente": "Registro 18",
+      "carrera": "Desarrollo de Software"
+     },
+     {
+      "docente": "Registro 19",
+      "carrera": "Desarrollo de Software"
+     },
+     {
+      "docente": "Registro 20",
+      "carrera": "Desarrollo de Software y Ciberseguridad"
+     },
+     {
+      "docente": "Registro 21",
+      "carrera": "Desarrollo de Software y Ciberseguridad"
+     },
+     {
+      "docente": "Registro 22",
+      "carrera": "Redes y Telecomunicaciones"
+     },
+     {
+      "docente": "Registro 23",
+      "carrera": "Redes y Telecomunicaciones"
+     },
+     {
+      "docente": "Registro 24",
+      "carrera": "Redes y Telecomunicaciones"
+     },
+     {
+      "docente": "Registro 25",
+      "carrera": "Redes y Telecomunicaciones"
+     },
+     {
+      "docente": "Registro 26",
+      "carrera": "Estética Integral"
+     },
+     {
+      "docente": "Registro 27",
+      "carrera": "Estética Integral"
+     },
+     {
+      "docente": "Registro 28",
+      "carrera": "Estética Integral"
+     },
+     {
+      "docente": "Registro 29",
+      "carrera": "Educación Básica"
+     },
+     {
+      "docente": "Registro 30",
+      "carrera": "Educación Básica"
+     },
+     {
+      "docente": "Registro 31",
+      "carrera": "Educación Básica"
+     },
+     {
+      "docente": "Registro 32",
+      "carrera": "Educación Inicial"
+     },
+     {
+      "docente": "Registro 33",
+      "carrera": "Educación Inicial"
+     },
+     {
+      "docente": "Registro 34",
+      "carrera": "Educación Inicial"
+     },
+     {
+      "docente": "Registro 35",
+      "carrera": "Pedagogía"
+     },
+     {
+      "docente": "Registro 36",
+      "carrera": "Pedagogía"
+     },
+     {
+      "docente": "Registro 37",
+      "carrera": "Procesamiento de Alimentos"
+     },
+     {
+      "docente": "Registro 38",
+      "carrera": "Procesamiento de Alimentos"
+     },
+     {
+      "docente": "Registro 39",
+      "carrera": "Procesamiento de Alimentos"
+     },
+     {
+      "docente": "Registro 40",
+      "carrera": "Administración"
+     },
+     {
+      "docente": "Registro 41",
+      "carrera": "Administración"
+     },
+     {
+      "docente": "Registro 42",
+      "carrera": "Administración"
+     },
+     {
+      "docente": "Registro 43",
+      "carrera": "Administración de Empresas e Inteligencia de Negocios"
+     },
+     {
+      "docente": "Registro 44",
+      "carrera": "Administración de Empresas e Inteligencia de Negocios"
+     },
+     {
+      "docente": "Registro 45",
+      "carrera": "Administración del Talento Humano"
+     },
+     {
+      "docente": "Registro 46",
+      "carrera": "Administración del Talento Humano"
+     },
+     {
+      "docente": "Registro 47",
+      "carrera": "Contabilidad"
+     },
+     {
+      "docente": "Registro 48",
+      "carrera": "Contabilidad"
+     },
+     {
+      "docente": "Registro 49",
+      "carrera": "Contabilidad"
+     },
+     {
+      "docente": "Registro 50",
+      "carrera": "Contabilidad"
+     },
+     {
+      "docente": "Registro 51",
+      "carrera": "Contabilidad y Tributación – Tecnología Superior Universitaria"
+     },
+     {
+      "docente": "Registro 52",
+      "carrera": "Contabilidad y Tributación – Tecnología Superior Universitaria"
+     },
+     {
+      "docente": "Registro 53",
+      "carrera": "Gestión del Talento Humano"
+     },
+     {
+      "docente": "Registro 54",
+      "carrera": "Gestión del Talento Humano"
+     },
+     {
+      "docente": "Registro 55",
+      "carrera": "Gestión del Talento Humano"
+     },
+     {
+      "docente": "Registro 56",
+      "carrera": "Seguridad y Prevención de Riesgos Laborales"
+     },
+     {
+      "docente": "Registro 57",
+      "carrera": "Seguridad y Prevención de Riesgos Laborales"
+     },
+     {
+      "docente": "Registro 58",
+      "carrera": "Seguridad y Prevención de Riesgos Laborales"
+     },
+     {
+      "docente": "Registro 59",
+      "carrera": "Seguridad Ciudadana y Orden Público"
+     },
+     {
+      "docente": "Registro 60",
+      "carrera": "Seguridad Ciudadana y Orden Público"
+     },
+     {
+      "docente": "Registro 61",
+      "carrera": "Seguridad Ciudadana y Orden Público"
+     }
+    ],
+    "lineas": [
+     {
+      "carrera": "Enfermería",
+      "linea": "Ciencias de la salud y cuidado de enfermería",
+      "nivel": "Maestría",
+      "programas": "Maestrías en enfermería, gestión del cuidado y gerencia de servicios de salud"
+     },
+     {
+      "carrera": "Mecánica Automotriz",
+      "linea": "Ingeniería automotriz y gestión técnica",
+      "nivel": "Maestría",
+      "programas": ""
+     },
+     {
+      "carrera": "Desarrollo de Software",
+      "linea": "Ingeniería de software y ciberseguridad",
+      "nivel": "Maestría",
+      "programas": ""
+     },
+     {
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "linea": "Mercadotecnia y negocios digitales",
+      "nivel": "Maestría",
+      "programas": "Maestría en Mercadotecnia"
+     },
+     {
+      "carrera": "Procesamiento de Alimentos",
+      "linea": "Gastronomía, alimentos e innovación",
+      "nivel": "Maestría",
+      "programas": "Maestría en Gastronomía"
+     },
+     {
+      "carrera": "Educación Básica",
+      "linea": "Educación y pedagogía",
+      "nivel": "Maestría",
+      "programas": "Maestrías en educación (UISRAEL, UNIR, FUNIBER)"
+     }
+    ],
+    "universidades": [
+     {
+      "institucion": "Universidad Yacambú",
+      "especifica": "Sí, principalmente en áreas administrativas y gerenciales",
+      "generica": "Potencialmente, según programas disponibles",
+      "niveles": "Maestría / Doctorado"
+     },
+     {
+      "institucion": "FUNIBER",
+      "especifica": "Sí, en múltiples áreas profesionales",
+      "generica": "Sí, especialmente educación y áreas relacionadas",
+      "niveles": "Tercer nivel / Maestría / Doctorado"
+     },
+     {
+      "institucion": "UEES",
+      "especifica": "Sí",
+      "generica": "Sí, sujeto a oferta disponible",
+      "niveles": "Pregrado / Posgrado"
+     },
+     {
+      "institucion": "UIIX",
+      "especifica": "Sí, principalmente administración, tecnología y áreas relacionadas",
+      "generica": "Sí, especialmente educación, tecnología e innovación",
+      "niveles": "Maestría / Doctorado"
+     },
+     {
+      "institucion": "UISRAEL",
+      "especifica": "Sí",
+      "generica": "Sí, particularmente educación y pedagogía",
+      "niveles": "Maestría"
+     },
+     {
+      "institucion": "UNIR",
+      "especifica": "Sí, con cobertura disciplinar amplia",
+      "generica": "Sí, especialmente educación y campos académicos relacionados",
+      "niveles": "Profesionalización / Maestría"
+     }
+    ],
+    "acciones": [
+     {
+      "componente": "Promoción y difusión",
+      "alcance": "Socialización de programas de tercer y cuarto nivel",
+      "fecha": "",
+      "resultado": "Ejecución no acreditada con las evidencias revisadas"
+     },
+     {
+      "componente": "Orientación académica",
+      "alcance": "Información sobre programas, requisitos y condiciones de acceso",
+      "fecha": "",
+      "resultado": "Requiere evidencia específica de las actividades desarrolladas"
+     },
+     {
+      "componente": "Convenios y beneficios",
+      "alcance": "Difusión de oportunidades y condiciones preferenciales",
+      "fecha": "",
+      "resultado": "Requiere verificación documental de los beneficios aplicados"
+     },
+     {
+      "componente": "Seguimiento académico",
+      "alcance": "Registro de docentes vinculados a programas formales",
+      "fecha": "",
+      "resultado": "13 expedientes identificados"
+     },
+     {
+      "componente": "Evaluación de resultados",
+      "alcance": "Revisión de acciones, participación y documentación",
+      "fecha": "",
+      "resultado": "Resultados individuales disponibles; evaluación integral de campañas no acreditada"
+     }
+    ],
+    "en_formacion": [
+     {
+      "docente": "Alex Alberto León Tito",
+      "carrera": "Enfermería",
+      "nivel": "Doctorado",
+      "programa": "Doctorado en Economía y Finanzas",
+      "estado": "En proceso",
+      "avance": 50,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Jefferson Edgar Villarreal Enríquez",
+      "carrera": "Mecánica Automotriz",
+      "nivel": "Doctorado",
+      "programa": "Doctorado en Educación e Innovación",
+      "estado": "En proceso",
+      "avance": 50,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Martha Giomara Tomalá Damacela",
+      "carrera": "Desarrollo de Software",
+      "nivel": "Doctorado",
+      "programa": "Doctorado (denominación específica por completar en la ficha)",
+      "estado": "En proceso",
+      "avance": 60,
+      "evidencia": "Ficha de seguimiento y soportes académicos",
+      "observacion": "Completar el nombre específico del programa doctoral."
+     },
+     {
+      "docente": "Verónica Luzuriaga",
+      "carrera": "Desarrollo de Software",
+      "nivel": "Doctorado",
+      "programa": "Doctorado en Dirección de Proyectos",
+      "estado": "En proceso",
+      "avance": 80,
+      "evidencia": "Ficha de seguimiento y soportes académicos",
+      "observacion": "La ficha no permite establecer su adscripción institucional; se requiere aclarar la carrera."
+     },
+     {
+      "docente": "Roxana Gabriela Molina Chávez",
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "nivel": "Maestría",
+      "programa": "Maestría en Mercadotecnia",
+      "estado": "En proceso",
+      "avance": 55,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Patricia Encina Micolta Bagui",
+      "carrera": "Marketing Digital y Comercio Electrónico",
+      "nivel": "Maestría",
+      "programa": "Maestría en Educación en Entornos Digitales",
+      "estado": "En curso",
+      "avance": 30,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Danny Patricio Bermeo Ochoa",
+      "carrera": "Desarrollo de Software",
+      "nivel": "Tercer nivel",
+      "programa": "Ingeniería en Desarrollo de Software",
+      "estado": "En proceso",
+      "avance": 40,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Cinthia Lizeth Pinargote Álava",
+      "carrera": "Enfermería",
+      "nivel": "Maestría",
+      "programa": "Maestría en Gestión de Calidad y Seguridad del Paciente",
+      "estado": "Proceso de titulación",
+      "avance": "",
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Adriana Yaritza Mendoza Sabando",
+      "carrera": "Enfermería",
+      "nivel": "Maestría",
+      "programa": "Maestría en Enfermería con mención en Cuidados Críticos",
+      "estado": "En proceso",
+      "avance": 30,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Ana Emilia Guzmán Tito",
+      "carrera": "Enfermería",
+      "nivel": "Maestría",
+      "programa": "Maestría en Gerencia de Servicios de Salud",
+      "estado": "En proceso",
+      "avance": 80,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Karina Mishell Aldas Gómez",
+      "carrera": "Enfermería",
+      "nivel": "Maestría",
+      "programa": "Maestría en Gestión del Cuidado con mención en Unidades de Emergencia y Unidades de Cuidados Intensivos",
+      "estado": "Proceso de titulación",
+      "avance": "",
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Darío Ernesto Torres Díaz",
+      "carrera": "Mecánica Automotriz",
+      "nivel": "Maestría",
+      "programa": "Maestría en Administración de Empresas con mención en Management",
+      "estado": "En proceso",
+      "avance": 40,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     },
+     {
+      "docente": "Nicole Carolina Galárraga Carrillo",
+      "carrera": "Procesamiento de Alimentos",
+      "nivel": "Maestría",
+      "programa": "Maestría en Gastronomía con mención en Gestión e Innovación",
+      "estado": "En proceso",
+      "avance": 70,
+      "evidencia": "Ficha de seguimiento y soportes académicos"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "intro": {
+  "titulo": "Introducción",
+  "parrafos": [
+   "El Informe de Cumplimiento del Plan de Capacitación Docente correspondiente al período {{periodo}} constituye un instrumento técnico de evaluación institucional orientado a analizar de manera integral el nivel de ejecución, cumplimiento y resultados del Plan Anual de Capacitación Docente del {{institucion}}. Su elaboración responde a la necesidad de verificar, con base en evidencias objetivas y criterios técnicos, el grado en que las acciones formativas planificadas fueron efectivamente desarrolladas y el impacto generado en la gestión académica institucional.",
+   "Este informe se inscribe dentro del enfoque de mejora continua adoptado por el ITSQMET, el cual concibe la capacitación docente como un proceso sistemático que articula diagnóstico, planificación, ejecución, seguimiento, evaluación e implementación de acciones correctivas. Desde esta lógica, el documento no se limita a describir actividades realizadas, sino que evalúa la coherencia entre las necesidades identificadas, las acciones planificadas y los resultados obtenidos, garantizando trazabilidad y consistencia técnica a lo largo de todo el proceso formativo.",
+   "El punto de partida del presente informe lo constituyen el Diagnóstico de Necesidades de Capacitación Docente y el Plan Anual de Capacitación Docente elaborados para el mismo período. Estos documentos permitieron identificar brechas formativas específicas y transversales del cuerpo docente, así como estructurar una oferta de capacitación alineada con las funciones sustantivas de docencia, investigación y vinculación con la sociedad. En consecuencia, el Informe de Cumplimiento asume estos insumos como línea base para evaluar el grado de correspondencia entre lo planificado y lo ejecutado, así como la pertinencia de las acciones desarrolladas.",
+   "La formación continua del personal docente representa un eje estratégico para el aseguramiento de la calidad educativa, en tanto incide directamente en la mejora de la práctica pedagógica, la actualización técnica y disciplinar, la innovación metodológica, el uso pertinente de tecnologías educativas y el fortalecimiento del perfil de egreso de las carreras técnicas y tecnológicas. En este contexto, el ITSQMET entiende la capacitación docente como una responsabilidad institucional permanente, orientada no solo al cumplimiento normativo, sino al fortalecimiento efectivo de los procesos de enseñanza y aprendizaje.",
+   "Desde una perspectiva de gestión académica, el informe permite verificar el cumplimiento de los objetivos del plan, la ejecución del cronograma establecido, la cobertura de docentes capacitados y la alineación de las acciones formativas con el Plan Operativo Anual y el Plan Estratégico de Desarrollo Institucional. Asimismo, posibilita analizar la contribución del plan al cumplimiento de los estándares del modelo de evaluación externa del Consejo de Aseguramiento de la Calidad de la Educación Superior, particularmente en lo relacionado con la formación continua del cuerpo docente, el seguimiento institucional y la medición del impacto de la capacitación.",
+   "La evaluación desarrollada se sustenta en una metodología mixta que combina el análisis cuantitativo de indicadores de ejecución, tales como número de capacitaciones realizadas, participación docente, horas de formación y certificaciones emitidas, con un análisis cualitativo basado en la revisión documental, informes de responsables, registros institucionales y procesos de retroalimentación docente. Esta triangulación de información permite asegurar la validez, confiabilidad y pertinencia de los resultados presentados.",
+   "El Informe de Cumplimiento del Plan de Capacitación Docente se consolida como un documento clave para la rendición de cuentas académica, la toma de decisiones institucionales y la planificación de futuros procesos formativos. Su contenido aporta evidencia objetiva sobre el nivel de cumplimiento alcanzado, identifica factores críticos que incidieron en la ejecución del plan y establece insumos técnicos para el fortalecimiento continuo de la gestión académica del ITSQMET, reafirmando el compromiso institucional con una educación superior técnica y tecnológica de calidad, pertinente y orientada a la mejora continua."
+  ]
+ },
+ "marco_normativo": {
+  "titulo": "Marco normativo aplicable",
+  "parrafos": [
+   "Que, la Constitución de la República del Ecuador, en su artículo 26, establece que la educación es un derecho de las personas a lo largo de su vida y un deber ineludible e inexcusable del Estado, lo que implica garantizar procesos permanentes de formación y actualización de los actores del sistema educativo, incluyendo al personal docente.",
+   "Que, el artículo 350 de la Constitución de la República del Ecuador determina que el sistema de educación superior tiene como finalidad la formación académica y profesional con visión científica y humanista, la investigación científica y tecnológica, la innovación, la promoción y difusión de saberes, así como la construcción de soluciones a los problemas del país, objetivos que requieren docentes con formación continua y actualizada.",
+   "Que, la Ley Orgánica de Educación Superior (LOES), en su artículo 3, dispone que la educación superior constituye un derecho de las personas y un bien público social que responde al interés público, debiendo orientarse a la calidad, la pertinencia y la mejora continua del sistema educativo.",
+   "Que, el artículo 118 de la LOES establece que las instituciones de educación superior garantizarán programas de formación, capacitación, perfeccionamiento y actualización del personal académico, en función de los requerimientos institucionales, del sistema de educación superior y del desarrollo científico, tecnológico y pedagógico.",
+   "Que, el artículo 119 de la Ley Orgánica de Educación Superior señala que la actualización académica del personal docente forma parte de su actividad profesional y que las instituciones deberán planificarla e implementarla de manera permanente, pertinente y evaluable.",
+   "Que, el Reglamento de Régimen Académico, expedido por el Consejo de Educación Superior (CES), en su artículo 29, dispone que las instituciones de educación superior deben garantizar la formación y actualización permanente de su personal académico, en coherencia con los requerimientos institucionales, los avances científicos, tecnológicos y pedagógicos, y los resultados de los procesos de evaluación.",
+   "Que, el artículo 52 del Reglamento de Régimen Académico establece que el personal académico deberá fortalecer continuamente sus capacidades pedagógicas, disciplinares, digitales y de gestión académica, mediante procesos formativos estructurados, planificados y sujetos a evaluación.",
+   "Que, el Modelo de Evaluación Externa del Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES), en el marco de sus criterios e indicadores relacionados con el talento humano, exige que las instituciones implementen procesos sistemáticos de detección de necesidades, planificación, ejecución y evaluación de la formación continua del cuerpo docente, sustentados en evidencias verificables y orientados a la mejora del desempeño académico.",
+   "Que, el Plan Estratégico de Desarrollo Institucional del {{institucion}} (PEDI) establece como eje estratégico el fortalecimiento del talento humano, priorizando la capacitación docente planificada, pertinente y alineada con los objetivos institucionales y con el sistema interno de aseguramiento de la calidad.",
+   "Que, el Plan Operativo Anual (POA) del ITSQMET incorpora acciones específicas orientadas al desarrollo y fortalecimiento de las competencias del personal docente, vinculando la ejecución de la capacitación con indicadores de cumplimiento, responsables institucionales y mecanismos de seguimiento.",
+   "Que, el Manual de Procesos Académicos del ITSQMET regula el proceso de Gestión de la Capacitación Docente, estableciendo la obligatoriedad de realizar diagnósticos de necesidades, planificar la capacitación institucional e individual, ejecutar las acciones formativas y evaluar su impacto, garantizando la trazabilidad y mejora continua del proceso.",
+   "Que, en atención a este marco normativo, el Informe de Cumplimiento del Plan de Capacitación Docente constituye un instrumento técnico indispensable para evidenciar el cumplimiento de las disposiciones legales, reglamentarias e institucionales relacionadas con la formación continua del personal académico, así como para sustentar la toma de decisiones y la planificación de futuros procesos formativos."
+  ]
+ },
+ "pedi": {
+  "titulo": "Alineación con el Plan Estratégico de Desarrollo Institucional (PEDI)",
+  "parrafos": [
+   "El Plan Estratégico de Desarrollo Institucional (PEDI) 2022–2027 del {{institucion}} constituye el instrumento rector que orienta el direccionamiento estratégico, la toma de decisiones y la planificación de mediano y largo plazo de la institución. Su finalidad es consolidar la calidad educativa, fortalecer la gestión institucional y asegurar el cumplimiento de los estándares del sistema de educación superior, en coherencia con la normativa vigente y el modelo de evaluación externa del Consejo de Aseguramiento de la Calidad de la Educación Superior.",
+   "Se configura como un componente transversal del PEDI, al incidir directamente en el fortalecimiento del talento humano académico, eje fundamental para la consecución de los objetivos estratégicos institucionales. La formación continua del personal docente es reconocida en el PEDI como un factor clave para garantizar la calidad de la docencia, la pertinencia de la oferta académica y la mejora sostenida de los procesos de enseñanza y aprendizaje.",
+   "La capacitación docente ejecutada durante el período {{periodo}} se alinea con los objetivos estratégicos del PEDI orientados a:",
+   "El fortalecimiento del cuerpo docente mediante procesos permanentes de actualización pedagógica, disciplinar y tecnológica.",
+   "La mejora de la calidad de la docencia, en coherencia con el modelo educativo institucional y los resultados de la evaluación externa.",
+   "El fortalecimiento de las funciones sustantivas de docencia, investigación y vinculación con la sociedad, a partir del desarrollo de competencias académicas y profesionales del personal docente.",
+   "La consolidación de un sistema interno de aseguramiento de la calidad, sustentado en procesos planificados, ejecutados y evaluados de manera sistemática.",
+   "El PEDI establece además la necesidad de articular la planificación estratégica institucional con los Planes Operativos Anuales, de modo que los objetivos estratégicos se concreten en acciones operativas medibles y evaluables. En este sentido, el Plan de Capacitación Docente y su correspondiente Informe de Cumplimiento evidencian la operativización de los lineamientos estratégicos del PEDI a través de acciones formativas específicas, cronogramas definidos, responsables institucionales y mecanismos de seguimiento y evaluación.",
+   "El enfoque participativo y de mejora continua contemplado en el PEDI se refleja en el proceso de capacitación docente, el cual se sustenta en un diagnóstico institucional previo, una planificación estructurada y una evaluación sistemática de resultados e impacto. Esta coherencia metodológica garantiza la trazabilidad entre el PEDI, el Plan de Capacitación Docente y el presente Informe de Cumplimiento, permitiendo verificar de manera objetiva el aporte de la capacitación al logro de los objetivos estratégicos institucionales.",
+   "El Informe de Cumplimiento del Plan de Capacitación Docente constituye un insumo clave para el seguimiento del PEDI 2022–2027, ya que proporciona evidencia objetiva sobre el nivel de alineación entre la planificación estratégica y la ejecución de acciones formativas. Su análisis permite fortalecer la toma de decisiones institucionales, retroalimentar los procesos de planificación futura y consolidar una gestión académica orientada a la calidad, la pertinencia y la mejora continua del {{institucion}}."
+  ]
+ },
+ "poa": {
+  "titulo": "Articulación con el Plan Operativo Anual (POA)",
+  "parrafos": [
+   "El Plan Operativo Anual (POA) constituye el principal instrumento de ejecución de la planificación estratégica institucional, mediante el cual el {{institucion}} concreta, en acciones operativas, los objetivos establecidos en el Plan Estratégico de Desarrollo Institucional. En este marco, la capacitación docente se incorpora al POA como una acción prioritaria y transversal, orientada al fortalecimiento del talento humano académico y al aseguramiento de la calidad de los procesos formativos.",
+   "La articulación entre el Plan de Capacitación Docente y el POA garantiza que las acciones formativas cuenten con respaldo institucional, planificación temporal definida, responsables asignados y mecanismos de seguimiento, evitando que la capacitación se desarrolle como una actividad aislada o desvinculada de los objetivos operativos del instituto. Esta articulación permite, además, evaluar el cumplimiento de la capacitación docente en función de metas operativas claras y verificables.",
+   "Desde una perspectiva operativa, el POA vincula la capacitación docente con los siguientes elementos clave de gestión:",
+   "Programación anual de actividades formativas alineadas al calendario académico institucional.",
+   "Definición de responsables institucionales para la planificación, ejecución y seguimiento de la capacitación.",
+   "Establecimiento de metas e indicadores de cumplimiento asociados al desarrollo del talento humano docente.",
+   "Registro sistemático de evidencias que respaldan la ejecución de las actividades planificadas.",
+   "La siguiente tabla resume la relación funcional entre el Plan de Capacitación Docente y el POA, evidenciando su articulación operativa:",
+   "El POA incorpora indicadores de cumplimiento que permiten evaluar el nivel de ejecución de las actividades planificadas. En este sentido, el Informe de Cumplimiento del Plan de Capacitación Docente utiliza dichos indicadores como referencia para contrastar lo planificado con lo ejecutado, identificar niveles de cumplimiento total o parcial y documentar las causas de posibles desviaciones, así como las acciones correctivas implementadas.",
+   "La articulación con el POA fortalece los procesos de seguimiento institucional y rendición de cuentas, al proporcionar información objetiva sobre el uso de recursos, el grado de ejecución de las actividades formativas y los resultados obtenidos. Este enfoque contribuye a una gestión académica transparente, basada en evidencias y orientada a la toma de decisiones informadas.",
+   "Se constituye en un eje fundamental para la ejecución y evaluación del Plan de Capacitación Docente, al asegurar su alineación con las prioridades institucionales, su integración al sistema de planificación operativa y la disponibilidad de información verificable que sustenta el presente Informe de Cumplimiento. Esta articulación reafirma el compromiso del ITSQMET con una gestión académica planificada, evaluable y orientada a la mejora continua de la calidad educativa."
+  ]
+ },
+ "manual": {
+  "titulo": "Coherencia con el Manual de Procesos Académicos",
+  "parrafos": [
+   "El Manual de Procesos de la Unidad de Gestión de Procesos Académicos (UGPA), constituye el instrumento normativo-operativo que regula la planificación, ejecución, seguimiento y evaluación de los procesos académicos del {{institucion}}, bajo un enfoque de sistema de gestión alineado a la norma ISO 21001:2018 y al modelo de evaluación externa del CACES. En este marco, el Plan de Capacitación Docente y su correspondiente Informe de Cumplimiento se desarrollan en coherencia directa con los procesos formalmente establecidos, garantizando orden, trazabilidad y control institucional.",
+   "La capacitación docente se encuentra regulada de manera explícita en el Manual de Procesos, a través de una cadena de procesos interrelacionados que aseguran la gestión integral de la formación del personal académico. Estos procesos no solo definen las actividades a ejecutar, sino también los responsables, los flujos de aprobación, los indicadores y la documentación generada, elementos que sustentan técnicamente el presente Informe de Cumplimiento.",
+   "Procesos del Manual vinculados a la capacitación docente",
+   "El Plan de Capacitación Docente y su evaluación de cumplimiento se articulan directamente con los siguientes procesos institucionales establecidos en el Manual de la UGPA:",
+   "Proceso de Capacitación Docente (UGPA-PRO-70), que regula la identificación de necesidades, planificación y ejecución de la capacitación.",
+   "Proceso de Ejecución de Capacitación Docente (UGPA-PRO-134), que establece la operativización de las actividades formativas conforme al plan aprobado.",
+   "Proceso de Medición de Impacto de la Capacitación Docente (UGPA-PRO-135), orientado a evaluar los efectos de la capacitación en el desempeño docente.",
+   "Proceso de Seguimiento al Proceso de Formación del Personal Docente (UGPA-PRO-248), que asegura el control y retroalimentación institucional.",
+   "Estos procesos garantizan que la capacitación docente se gestione como un proceso académico estructurado y no como una acción aislada, asegurando coherencia metodológica y cumplimiento normativo.",
+   "Coherencia entre el proceso y el Informe de Cumplimiento",
+   "El Informe de Cumplimiento del Plan de Capacitación Docente se alinea con el flujo establecido en el Manual de Procesos, particularmente en las etapas de cierre, evaluación y archivo documental. De acuerdo con el Manual, una vez finalizada la ejecución de las actividades formativas, la UGPA debe elaborar el informe de cumplimiento, someterlo a revisión y aprobación por la autoridad competente y archivar la documentación generada en los repositorios institucionales correspondientes.",
+   "La siguiente tabla sintetiza la coherencia entre el Manual de Procesos y el presente informe:",
+   "Aseguramiento de la trazabilidad y control institucional",
+   "El Manual de Procesos establece la obligatoriedad de documentar cada etapa del proceso de capacitación docente, incluyendo diagnósticos, planes, informes de cumplimiento y evidencias de ejecución. Esta disposición garantiza la trazabilidad del proceso, la transparencia en la gestión académica y la disponibilidad de información verificable para procesos de auditoría interna y evaluación externa.",
+   "El presente Informe de Cumplimiento se constituye como el documento de cierre del proceso de capacitación docente para el período {{periodo}}, evidenciando el cumplimiento de las actividades planificadas, el seguimiento institucional realizado y la alineación con los procedimientos establecidos en el Manual de Procesos Académicos. Su elaboración y contenido confirman la aplicación efectiva del sistema de gestión académica del ITSQMET y fortalecen la mejora continua de los procesos formativos del personal docente."
+  ]
+ },
+ "caces": {
+  "titulo": "Cumplimiento del Modelo de Evaluación Externa del CACES",
+  "parrafos": [
+   "El Modelo de Evaluación Externa 2024 con fines de acreditación del Consejo de Aseguramiento de la Calidad de la Educación Superior establece los criterios, subcriterios e indicadores que permiten valorar el desempeño institucional de los Institutos Superiores Técnicos y Tecnológicos, con un enfoque orientado a la mejora continua de la calidad y no únicamente al logro de la acreditación. En este contexto, la capacitación docente constituye un elemento transversal que incide de manera directa en varios criterios del modelo, especialmente en aquellos relacionados con la gestión del personal académico y el proceso de docencia.",
+   "El Plan de Capacitación Docente y su correspondiente Informe de Cumplimiento se alinean con el modelo del CACES al evidenciar una gestión sistemática, planificada y evaluable de la formación del profesorado. Esta alineación permite demostrar que la institución no solo ejecuta acciones formativas, sino que las integra como parte de su sistema de aseguramiento interno de la calidad, generando evidencias objetivas y verificables para los procesos de evaluación externa.",
+   "Criterios y subcriterios del modelo vinculados a la capacitación docente",
+   "La capacitación docente se articula principalmente con los siguientes componentes del Modelo de Evaluación Externa:",
+   "Criterio Organización, subcriterio Planificación y Desarrollo, al evidenciar la coherencia entre la planificación estratégica, operativa y la ejecución de acciones de fortalecimiento del talento humano académico.",
+   "Criterio Profesores, subcriterio Organización y Desarrollo, particularmente en el indicador de formación académica en curso y capacitación, que valora la existencia de procesos sistemáticos de formación y actualización del profesorado.",
+   "Criterio Docencia, subcriterio Formación Académica, en tanto la capacitación docente contribuye al fortalecimiento de las competencias pedagógicas necesarias para el desarrollo de los programas de estudio y el aseguramiento del proceso formativo.",
+   "Esta vinculación permite demostrar que la capacitación docente no es una acción aislada, sino un componente estructural del desempeño institucional evaluado por el CACES.",
+   "Relación entre el Plan de Capacitación Docente y los indicadores del modelo",
+   "La siguiente tabla sintetiza la correspondencia entre el Plan de Capacitación Docente y los principales indicadores del Modelo de Evaluación Externa:",
+   "Evidencias y enfoque de aseguramiento de la calidad",
+   "El Modelo de Evaluación Externa del CACES enfatiza la importancia de contar con evidencias suficientes, pertinentes y verificables que respalden la información reportada por la institución. En este sentido, el Informe de Cumplimiento del Plan de Capacitación Docente consolida evidencias tales como planes aprobados, registros de ejecución, informes de responsables y certificaciones, las cuales permiten sustentar el cumplimiento de los indicadores relacionados con la formación y desarrollo del profesorado.",
+   "El enfoque del modelo reconoce la capacitación docente como un indicador de proceso, cuyo valor no se limita a resultados inmediatos, sino que refleja la existencia de procedimientos institucionalizados orientados a mejorar el desempeño académico y la calidad del proceso educativo. El presente informe responde a este enfoque al documentar de manera sistemática la planificación, ejecución y evaluación de la capacitación docente durante el período {{periodo}}.",
+   "Evidencia la alineación del ITSQMET con el Modelo de Evaluación Externa del CACES, al demostrar una gestión coherente, planificada y sustentada en evidencias del desarrollo profesional del personal docente. Esta coherencia fortalece el aseguramiento interno de la calidad y contribuye de manera directa al cumplimiento de los estándares de acreditación establecidos para los institutos superiores técnicos y tecnológicos."
+  ]
+ },
+ "enfoque": {
+  "titulo": "Enfoque de evaluación",
+  "parrafos": [
+   "El enfoque de evaluación del cumplimiento del Plan de Capacitación Docente se sustenta en una perspectiva integral y sistemática, orientada a verificar el grado de ejecución de las acciones planificadas y su contribución al fortalecimiento del desempeño docente. La evaluación se concibe como un proceso técnico que permite contrastar de manera objetiva lo planificado con lo ejecutado, garantizando coherencia con los instrumentos de planificación institucional y con los criterios de aseguramiento de la calidad.",
+   "La evaluación adopta un enfoque de cumplimiento verificable, basado en la comparación directa entre las actividades previstas en el Plan de Capacitación Docente y las acciones efectivamente desarrolladas durante el período {{periodo}}. Para ello, se establecen niveles de cumplimiento claramente definidos:",
+   "Cumplimiento total, cuando la actividad planificada se ejecutó conforme al cronograma y objetivos establecidos.",
+   "Cumplimiento parcial, cuando la actividad se ejecutó con ajustes en alcance, tiempo o cobertura.",
+   "No cumplimiento, cuando la actividad no fue ejecutada durante el período evaluado.",
+   "Este enfoque permite una valoración objetiva, transparente y sustentada en evidencias documentales.",
+   "La evaluación considera la capacitación docente como un proceso continuo que integra diagnóstico, planificación, ejecución, seguimiento y evaluación. Desde esta perspectiva, el análisis no se limita a resultados aislados, sino que examina la coherencia y articulación entre las distintas etapas del proceso de capacitación, identificando fortalezas, debilidades y oportunidades de mejora.",
+   "Este enfoque facilita la identificación de factores que influyeron en el nivel de cumplimiento del plan y aporta información relevante para la planificación de futuros períodos de capacitación.",
+   "Enfoque basado en evidencias",
+   "La valoración del cumplimiento se sustenta en información objetiva y verificable, obtenida a partir de registros institucionales, informes de responsables, listas de asistencia, certificados emitidos y demás documentos generados durante la ejecución del plan. El uso de evidencias permite asegurar la trazabilidad del proceso y la confiabilidad de los resultados presentados en el informe.",
+   "Enfoque orientado a la mejora continua",
+   "El enfoque de evaluación no tiene únicamente un carácter descriptivo o de control, sino que se orienta a la mejora continua de la gestión académica. Los resultados obtenidos permiten identificar brechas formativas, priorizar necesidades futuras y fortalecer la toma de decisiones institucionales, en coherencia con el Plan Estratégico de Desarrollo Institucional, el Plan Operativo Anual y el Modelo de Evaluación Externa del CACES.",
+   "El enfoque de evaluación adoptado permite consolidar un análisis claro, ordenado y técnicamente sustentado del cumplimiento del Plan de Capacitación Docente, fortaleciendo la gestión institucional y el aseguramiento de la calidad académica del {{institucion}}."
+  ]
+ },
+ "fuentes": {
+  "titulo": "Fuentes de información y evidencias",
+  "parrafos": [
+   "La evaluación del cumplimiento del Plan de Capacitación Docente se sustentó en fuentes de información primarias y secundarias generadas durante el desarrollo del período {{periodo}}, las cuales permitieron recopilar información directa de los actores involucrados y evidencias documentales verificables del proceso de capacitación. Estas fuentes garantizan la trazabilidad de la información, la objetividad del análisis y la validez de los resultados presentados en el informe.",
+   "El levantamiento de información se realizó a través de instrumentos participativos y espacios de coordinación institucional, permitiendo integrar la percepción del personal docente, el criterio técnico de los coordinadores de carrera y la validación por parte de las autoridades académicas. Este enfoque fortaleció la confiabilidad del proceso evaluativo y aseguró que el análisis del cumplimiento se base en información real, contextualizada y alineada con la gestión académica institucional.",
+   "Fuentes de información utilizadas",
+   "Las principales fuentes de información consideradas para la evaluación del cumplimiento fueron las siguientes:",
+   "Formulario institucional en línea (Forms) diseñado para recopilar información sobre la ejecución de las capacitaciones, participación docente y percepciones sobre la pertinencia de las acciones formativas.",
+   "Reuniones de trabajo realizadas por los coordinadores de carrera con los docentes, orientadas a socializar las capacitaciones ejecutadas, recoger observaciones y validar el desarrollo de las actividades formativas.",
+   "Reuniones de coordinación y validación con las autoridades institucionales, en las que se analizaron los avances del plan, el nivel de cumplimiento alcanzado y los resultados preliminares del proceso de capacitación.",
+   "Plan Anual de Capacitación Docente aprobado para el período {{periodo}}.",
+   "Diagnóstico de Necesidades de Capacitación Docente que sirvió como base para la planificación.",
+   "Plan Operativo Anual institucional y registros de las acciones relacionadas con capacitación docente.",
+   "Manual de Procesos Académicos de la UGPA y procedimientos vinculados a la gestión de la capacitación docente.",
+   "Las evidencias documentales utilizadas permitieron respaldar de manera objetiva la ejecución del plan y el análisis del cumplimiento. Entre las principales evidencias se incluyen:",
+   "Resultados consolidados del formulario institucional aplicado a los docentes.",
+   "Actas y registros de las reuniones realizadas por los coordinadores de carrera con el personal docente.",
+   "Actas, informes y registros de las reuniones mantenidas con las autoridades institucionales.",
+   "Cronogramas y programas de las capacitaciones ejecutadas.",
+   "Listas de asistencia y registros digitales de participación.",
+   "Certificados de capacitación emitidos y validados institucionalmente.",
+   "Informes de seguimiento y cumplimiento elaborados por la UGPA.",
+   "Relación entre fuentes, evidencias y evaluación",
+   "El uso articulado de estas fuentes e instrumentos permitió realizar una evaluación participativa, transparente y sustentada del cumplimiento del Plan de Capacitación Docente, fortaleciendo la legitimidad del informe y su utilidad para la toma de decisiones institucionales, la rendición de cuentas académica y los procesos de aseguramiento de la calidad."
+  ]
+ },
+ "criterios": {
+  "titulo": "Criterios de valoración del cumplimiento",
+  "parrafos": [
+   "La valoración del cumplimiento del Plan de Capacitación Docente se realizó a partir de un análisis comparativo entre las acciones planificadas y las actividades efectivamente desarrolladas durante el período {{periodo}}. Este análisis tuvo como finalidad determinar, de manera clara y fundamentada, el grado de ejecución alcanzado, considerando tanto la realización de las actividades como las condiciones en las que estas se llevaron a cabo.",
+   "Se establecieron criterios de valoración simples, comprensibles y aplicables de manera uniforme, que permitieron clasificar el nivel de cumplimiento de cada acción formativa sin perder de vista el contexto institucional, las dinámicas académicas y los ajustes propios del desarrollo operativo. La valoración no se limitó a una revisión numérica, sino que incorporó un análisis razonado del proceso de ejecución.",
+   "La evaluación del cumplimiento consideró principalmente los siguientes aspectos:",
+   "Si la capacitación fue efectivamente realizada durante el período evaluado.",
+   "Si la actividad se desarrolló dentro del tiempo previsto o presentó ajustes justificados.",
+   "Si existió participación real del personal docente al que estuvo dirigida.",
+   "Si la capacitación respondió a los objetivos planteados en el plan.",
+   "Si se cuenta con documentación que respalde su ejecución.",
+   "A partir de estos elementos, se definieron tres niveles de cumplimiento, utilizados para clasificar cada una de las acciones contempladas en el Plan de Capacitación Docente:",
+   "Se asignó este nivel cuando la actividad fue ejecutada conforme a lo planificado, dentro del período establecido, con participación docente acorde a lo previsto y con evidencias documentales completas que respaldan su desarrollo.",
+   "Se consideró este nivel cuando la actividad fue ejecutada, pero presentó variaciones en el cronograma, alcance o cobertura, sin que estas afecten de manera sustancial el objetivo de la capacitación. En estos casos, la actividad cuenta con evidencias, aunque con ajustes respecto a la planificación inicial.",
+   "Se asignó este nivel cuando la actividad no fue ejecutada durante el período evaluado o cuando no se dispone de evidencias suficientes que permitan verificar su realización.",
+   "Estos criterios fueron aplicados de manera consistente a todas las acciones del plan, permitiendo identificar con claridad el nivel de cumplimiento alcanzado, así como los factores que influyeron en la ejecución de la capacitación docente. La información obtenida a partir de esta valoración sirvió como base para el análisis de resultados, la identificación de oportunidades de mejora y la formulación de recomendaciones para el siguiente período de planificación."
+  ]
+ },
+ "cronograma": {
+  "titulo": "Cumplimiento del cronograma de ejecución",
+  "parrafos": [
+   "El cumplimiento del cronograma de ejecución del Plan de Capacitación Docente fue evaluado mediante la verificación sistemática de las fechas de inicio, finalización y duración de cada acción formativa, contrastando la planificación aprobada con la información registrada en los informes finales de capacitación. Este análisis permitió determinar el nivel de cumplimiento temporal del plan y evidenciar la capacidad institucional para ejecutar de manera oportuna las acciones previstas.",
+   "La evaluación se realizó diferenciando dos períodos claramente definidos, lo que permitió analizar el comportamiento del cronograma de manera progresiva y ordenada, identificando tanto la continuidad del proceso formativo como la coherencia entre la planificación y la ejecución efectiva de las capacitaciones."
+  ]
+ },
+ "objetivo_general": {
+  "titulo": "Objetivo general – Verificación de cumplimiento",
+  "parrafos": [
+   "Diseñar e implementar un plan integral de capacitación docente para el período {{periodo}}, que fortalezca las competencias pedagógicas, técnicas, investigativas y de vinculación del claustro docente del ITSQMET, mediante procesos formativos pertinentes, flexibles y alineados con las funciones sustantivas institucionales y las necesidades detectadas por carrera.",
+   "Evaluación del cumplimiento del objetivo general",
+   "Nivel de cumplimiento del objetivo general:"
+  ]
+ },
+ "objetivos_especificos": {
+  "titulo": "Verificación de cumplimiento de los objetivos específicos",
+  "parrafos": [
+   "Diagnosticar las necesidades de capacitación docente por función sustantiva y carrera.",
+   "Resultado: Cumplimiento total",
+   "El diagnóstico fue la base real del plan.",
+   "Clasificar las necesidades en capacitaciones genéricas y específicas.",
+   "Resultado: Cumplimiento total",
+   "Se evidencia diferenciación clara por alcance y carrera.",
+   "Diseñar una oferta formativa estructurada, pertinente y flexible.",
+   "Resultado: Cumplimiento total",
+   "Planificar la ejecución secuenciada y equilibrada.",
+   "Resultado: Cumplimiento total",
+   "Se evitó sobrecarga y se garantizó continuidad.",
+   "Implementar capacitaciones mediante modalidades virtuales asíncronas.",
+   "Resultado: Cumplimiento total",
+   "Incorporar el principio de efecto multiplicador.",
+   "Resultado: Cumplimiento total",
+   "El conocimiento no quedó aislado.",
+   "Asegurar la participación del personal docente en al menos una capacitación.",
+   "Resultado: Cumplimiento total"
+  ]
+ },
+ "sintesis_objetivos": {
+  "titulo": "Síntesis final de verificación de objetivos",
+  "parrafos": [
+   "Conclusión de verificación",
+   "El análisis demuestra que los objetivos definidos en el apartado 1.1 fueron cumplidos en su totalidad, existiendo coherencia directa entre diagnóstico, planificación, ejecución y resultados, lo que valida técnicamente el cumplimiento del Plan de Capacitación Docente {{periodo_corto}}."
+  ]
+ },
+ "poa_acciones": {
+  "titulo": "Acciones del POA vinculadas a la capacitación docente",
+  "parrafos": [
+   "Las principales acciones previstas en el POA relacionadas con la capacitación docente se orientaron a la planificación, ejecución, seguimiento y evaluación de procesos formativos dirigidos al personal docente, en coherencia con las funciones sustantivas institucionales.",
+   "Acciones del POA y nivel de cumplimiento"
+  ]
+ },
+ "poa_analisis": {
+  "titulo": "Análisis del cumplimiento operativo del POA",
+  "parrafos": [
+   "Del análisis de la información presentada se evidencia que las acciones previstas en el POA relacionadas con la capacitación docente fueron ejecutadas conforme a la planificación establecida. La ejecución del Plan de Capacitación Docente en dos períodos diferenciados permitió cumplir con los plazos definidos, optimizar el uso de los recursos institucionales y garantizar la continuidad del proceso formativo del personal docente.",
+   "Se verifica que las acciones del POA no se limitaron a la ejecución de capacitaciones, sino que incluyeron actividades de planificación, seguimiento y evaluación, lo que permitió cerrar el ciclo de gestión académica conforme a los principios de mejora continua y aseguramiento de la calidad."
+  ]
+ },
+ "poa_relacion": {
+  "titulo": "Relación entre POA y resultados alcanzados",
+  "parrafos": [
+   "La siguiente tabla sintetiza la correspondencia entre las acciones del POA y los resultados alcanzados durante el período evaluado:",
+   "Correspondencia entre acciones del POA y resultados"
+  ]
+ },
+ "pedi_alineacion": {
+  "titulo": "Alineación del Plan de Capacitación Docente con los objetivos estratégicos del PEDI",
+  "parrafos": [
+   "El PEDI 2022–2027 establece como uno de sus ejes prioritarios el fortalecimiento del talento humano docente como base para garantizar la calidad académica y la sostenibilidad institucional. En este marco, el Plan de Capacitación Docente contribuye al cumplimiento de los siguientes objetivos estratégicos institucionales:",
+   "Esta articulación evidencia que las acciones formativas no se desarrollaron de manera aislada, sino como parte de una estrategia institucional orientada a la mejora integral del desempeño docente y organizacional."
+  ]
+ },
+ "pedi_impacto": {
+  "titulo": "Impacto estratégico del Plan de Capacitación Docente en la gestión institucional",
+  "parrafos": [
+   "Desde una perspectiva estratégica, el Plan de Capacitación Docente aporta al PEDI en los siguientes aspectos:",
+   "Consolidación de una cultura de formación continua y actualización profesional del claustro docente.",
+   "Fortalecimiento de la capacidad institucional para responder a los cambios normativos, tecnológicos y pedagógicos del sistema de educación superior.",
+   "Mejora de la coherencia entre planificación estratégica (PEDI), planificación operativa (POA) y ejecución académica.",
+   "Contribución a la sostenibilidad del aseguramiento de la calidad institucional a mediano y largo plazo.",
+   "Generación de condiciones favorables para el cumplimiento de los objetivos estratégicos del período 2022–2027."
+  ]
+ },
+ "caces_relacion": {
+  "titulo": "Relación entre las capacitaciones ejecutadas y los criterios del CACES",
+  "parrafos": [
+   "La siguiente tabla evidencia la correspondencia entre las capacitaciones implementadas y los principales criterios e indicadores del Modelo de Acreditación:"
+  ]
+ },
+ "caces_profesores": {
+  "titulo": "Contribución al criterio “Profesores”",
+  "parrafos": [
+   "Las capacitaciones ejecutadas fortalecen de manera directa el Subcriterio Organización y Desarrollo del Cuerpo Docente, particularmente el Indicador Formación Académica en Curso y Capacitación, al evidenciar:",
+   "Existencia de un plan estructurado de formación complementaria, ejecutado y documentado.",
+   "Cobertura institucional y por carrera, garantizando la participación del personal docente.",
+   "Alineación entre las capacitaciones impartidas y las funciones sustantivas: docencia, investigación y vinculación.",
+   "Evidencias formales: informes finales, certificados, aulas virtuales, cronogramas y reportes de ejecución.",
+   "Este cumplimiento responde a lo establecido por el CACES respecto a la necesidad de actualización permanente del profesorado como condición para la calidad educativa."
+  ]
+ },
+ "caces_docencia": {
+  "titulo": "Contribución al criterio “Docencia”",
+  "parrafos": [
+   "Desde el enfoque del criterio Docencia, el Plan de Capacitación Docente aporta al fortalecimiento de:",
+   "Formación académica y pedagógica, mediante el desarrollo de competencias didácticas actualizadas.",
+   "Informatización del proceso educativo, a través del uso de plataformas virtuales, recursos digitales e inteligencia artificial.",
+   "Formación ciudadana, incorporando valores, habilidades blandas y ética profesional.",
+   "Calidad del proceso de enseñanza-aprendizaje, evidenciada en la mejora del diseño de aulas, materiales y estrategias de evaluación.",
+   "Estas acciones se alinean con los indicadores de Entorno Virtual de Aprendizaje, Formación Complementaria, Acompañamiento Pedagógico y Formación en Valores establecidos en el modelo del CACES."
+  ]
+ },
+ "resultados": {
+  "titulo": "Capacitaciones ejecutadas período octubre 2025 a marzo 2026",
+  "parrafos": [
+   "Durante el período comprendido entre octubre de 2025 y marzo de 2026, el {{institucion}} ejecutó un conjunto de capacitaciones dirigidas al personal docente, en el marco del Plan de Capacitación Docente aprobado y alineado con los objetivos estratégicos institucionales. Estas acciones formativas respondieron a las necesidades de fortalecimiento de competencias pedagógicas, técnicas y transversales, identificadas a partir de los procesos de seguimiento académico, mejora continua y aseguramiento de la calidad educativa, garantizando su coherencia con el Plan Estratégico de Desarrollo Institucional y el Plan Operativo Anual.",
+   "Las capacitaciones ejecutadas durante este período se desarrollaron conforme a la planificación establecida, respetando las fechas, modalidades y cargas horarias aprobadas, y contaron con los mecanismos de registro, evaluación y certificación correspondientes. Su ejecución permitió fortalecer el desempeño docente en las distintas carreras, promoviendo la actualización de conocimientos, la incorporación de metodologías activas y el desarrollo de habilidades blandas y valores profesionales, contribuyendo de manera directa al cumplimiento del Plan de Capacitación Docente y al mejoramiento de la calidad de los procesos formativos institucionales."
+  ]
+ },
+ "fortalezas": {
+  "titulo": "Principales fortalezas y aspectos de mejora",
+  "parrafos": [
+   "La evaluación general permite diferenciar los avances operativos de las dificultades académicas y de seguimiento.",
+   "Tabla 8. Matriz ejecutiva de hallazgos",
+   "Los hallazgos demuestran que el cumplimiento operativo de la programación constituye una fortaleza institucional. No obstante, los resultados académicos y la evidencia de impacto requieren un seguimiento diferenciado para fortalecer la efectividad de la formación continua."
+  ]
+ },
+ "articulacion": {
+  "titulo": "Articulación con la planificación y el aseguramiento de la calidad",
+  "parrafos": [
+   "El Plan de Capacitación Docente mantiene una vinculación funcional con el Plan Estratégico de Desarrollo Institucional (PEDI), el Plan Operativo Anual (POA) y los procesos de aseguramiento de la calidad. Sin embargo, la verificación definitiva de los objetivos e indicadores institucionales requiere contrastar los resultados con los instrumentos aprobados y sus correspondientes evidencias.",
+   "Tabla 9. Relación entre instrumentos institucionales y resultados",
+   "La información consolidada constituye un insumo para el seguimiento institucional y los procesos de evaluación externa. No obstante, los registros de ejecución deben complementarse con documentos aprobados, certificados individuales, identificación de docentes únicos y soportes de evaluación del impacto, según los requerimientos aplicables."
+  ]
+ },
+ "valoracion": {
+  "titulo": "Valoración ejecutiva final",
+  "parrafos": [
+   "La ejecución del Plan de Capacitación Docente correspondiente al período {{periodo}} presenta un cumplimiento operativo reportado del 100 %, al registrarse la ejecución de las catorce capacitaciones programadas y alcanzarse la totalidad de participaciones previstas en las fichas individuales.",
+   "En términos académicos, se obtuvieron 99 aprobaciones de 127 participaciones, equivalentes al 77,95 %, junto con 22 reprobaciones y seis deserciones. Estos resultados evidencian que, aunque la planificación registrada fue ejecutada, persisten diferencias importantes en los niveles de aprovechamiento de las actividades formativas.",
+   "Entre las principales fortalezas se encuentran la ejecución de la programación institucional, la participación registrada en las actividades y la existencia de cinco capacitaciones con aprobación completa. Como oportunidades de mejora destacan el seguimiento a las actividades con aprobación reducida, la prevención de deserciones, la distribución temporal de la programación y la verificación de los indicadores de impacto.",
+   "En consecuencia, el Plan de Capacitación Docente constituye un instrumento relevante para el fortalecimiento de las competencias del personal académico del ITSQMET. Los resultados consolidados proporcionan una base para la toma de decisiones y la mejora continua, siempre que se complementen con la verificación documental correspondiente y el seguimiento efectivo de las acciones correctivas propuestas.",
+   "La valoración final diferencia expresamente el cumplimiento de la ejecución del plan de los resultados académicos obtenidos, reconociendo tanto los avances institucionales como los aspectos que requieren fortalecimiento en futuros períodos."
+  ]
+ },
+ "conclusiones": {
+  "titulo": "Síntesis de las conclusiones",
+  "parrafos": [
+   "En términos generales, el Plan de Capacitación Docente alcanzó el cumplimiento operativo de las actividades registradas, con resultados académicos mayoritariamente satisfactorios, aunque con diferencias relevantes entre capacitaciones. En consecuencia, resulta necesario fortalecer los mecanismos de seguimiento académico, evaluación de resultados y verificación del impacto para mejorar progresivamente la efectividad de los procesos formativos institucionales."
+  ]
+ },
+ "recomendaciones": {
+  "titulo": "Recomendaciones",
+  "parrafos": [
+   "Con base en los resultados obtenidos y las conclusiones establecidas, se presentan las siguientes recomendaciones orientadas a fortalecer la planificación, ejecución, seguimiento y evaluación del Plan de Capacitación Docente del {{institucion}}.",
+   "Primera. Fortalecer la planificación y distribución temporal de las capacitaciones.",
+   "Se recomienda distribuir las actividades formativas de manera progresiva durante el período académico, evitando concentraciones excesivas en determinadas fechas. La planificación deberá considerar la disponibilidad del personal docente, las actividades académicas institucionales y los requerimientos específicos de formación de cada carrera.",
+   "Segunda. Implementar mecanismos de seguimiento académico individual.",
+   "Se recomienda establecer controles periódicos del avance de los participantes, mediante registros de asistencia, cumplimiento de actividades y resultados de evaluación. Estos mecanismos permitirán identificar oportunamente dificultades de aprendizaje y proporcionar acompañamiento antes de la finalización de cada capacitación.",
+   "Tercera. Aplicar acciones correctivas en las capacitaciones con resultados académicos reducidos.",
+   "Se recomienda analizar prioritariamente las actividades con porcentajes de aprobación inferiores al 50 %, identificando posibles dificultades metodológicas, académicas, tecnológicas o de participación. A partir de los resultados deberán establecerse acciones de refuerzo y acompañamiento que contribuyan al mejoramiento del desempeño académico.",
+   "Cuarta. Fortalecer las estrategias de permanencia y finalización.",
+   "Se recomienda implementar mecanismos de comunicación y seguimiento para participantes que presenten dificultades de asistencia o cumplimiento de actividades. Estas estrategias deberán orientarse a reducir las deserciones y favorecer la conclusión satisfactoria de los procesos formativos.",
+   "Quinta. Consolidar un registro institucional de docentes capacitados.",
+   "Se recomienda implementar una matriz única de seguimiento que permita identificar a cada docente mediante su número de identificación, carrera, capacitación realizada, horas de formación, resultado académico, certificación y evidencia de participación. Esto permitirá determinar la cobertura efectiva, evitar duplicaciones y fortalecer la trazabilidad de la información.",
+   "Sexta. Fortalecer la evaluación de satisfacción y del impacto de la capacitación.",
+   "Se recomienda aplicar instrumentos estandarizados de satisfacción al finalizar cada actividad y desarrollar mecanismos de evaluación posterior para determinar la aplicación de los conocimientos adquiridos. Las mediciones deberán conservar sus instrumentos, registros y evidencias, permitiendo identificar resultados verificables de mejora en el desempeño docente.",
+   "Séptima. Consolidar la articulación con los instrumentos de planificación y evaluación institucional.",
+   "Se recomienda establecer una matriz de correspondencia entre las capacitaciones ejecutadas, los objetivos del PEDI, las actividades del POA y los indicadores aplicables del modelo CACES. Esta matriz deberá identificar claramente los resultados alcanzados y las evidencias que permiten sustentar su contribución institucional.",
+   "Octava. Institucionalizar el análisis consolidado de los resultados de capacitación.",
+   "Se recomienda elaborar un balance académico al finalizar cada período, incorporando indicadores de ejecución, participación, aprobación, reprobación, deserción, satisfacción e impacto. Su comparación entre períodos permitirá identificar tendencias, establecer acciones de mejora y fortalecer la toma de decisiones institucionales."
+  ]
+ },
+ "plan_mejora": {
+  "titulo": "Plan de acciones de mejora recomendado",
+  "parrafos": [
+   "La siguiente matriz establece las acciones sugeridas para atender las oportunidades de mejora identificadas. Los responsables y plazos específicos deberán definirse en la planificación institucional correspondiente."
+  ]
+ },
+ "prioridades": {
+  "titulo": "Prioridades de intervención",
+  "parrafos": [
+   "Para orientar la aplicación de las acciones correctivas, se establece la siguiente clasificación de prioridades, considerando la relevancia de los hallazgos identificados.",
+   "La implementación de estas recomendaciones permitirá avanzar de una evaluación centrada principalmente en el cumplimiento de actividades hacia un modelo integral de gestión de la capacitación docente, sustentado en resultados académicos, seguimiento individual, evidencias verificables y acciones de mejora continua.",
+   "De esta manera, el {{institucion}} podrá fortalecer progresivamente la pertinencia, eficacia y calidad de sus procesos formativos, promoviendo que la capacitación docente contribuya de manera efectiva al mejoramiento de la enseñanza y al cumplimiento de los objetivos institucionales."
+  ]
+ }
+}
